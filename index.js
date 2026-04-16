@@ -38,6 +38,9 @@ const init = async () => {
       })
     );
 
+    app.get("/health", (req, res) => res.status(200).send("ok"));
+
+
     // HEALTH CHECK
     app.get("/", (req, res) => {
       res.json({ message: "Server is up and running" });
