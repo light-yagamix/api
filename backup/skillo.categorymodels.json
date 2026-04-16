@@ -1,0 +1,454 @@
+[{
+  "_id": {
+    "$oid": "687d69618ebc8188a88d17ba"
+  },
+  "name": "Home Services",
+  "description": "Trusted Home Services for Every Corner of Your Living Space All at one place.",
+  "banner": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753049436605_eco-home.png",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753096408420_10.jpg",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "687e1a7ce8694e7b530dda12"
+    },
+    {
+      "$oid": "687e2101e8694e7b530dda99"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-20T22:10:41.775Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T15:30:32.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "name": "Healthcare",
+  "description": "We are dedicated to providing compassionate, high-quality healthcare services that prioritize the well-being of every patient.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/medical-service.png",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "67ceb2e192e6abe5f0b41b51"
+    },
+    {
+      "$oid": "6808c3128f641e3b46db6b47"
+    },
+    {
+      "$oid": "6808c4518f641e3b46db6cbc"
+    },
+    {
+      "$oid": "6808c5768f641e3b46db6e2d"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T09:34:50.819Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-23T10:48:22.290Z"
+  },
+  "__v": 0,
+  "banner": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/healthcare.png"
+},
+{
+  "_id": {
+    "$oid": "67f97364103a5fb7594bed5e"
+  },
+  "name": "Home Deep Cleaning",
+  "description": "Our full home deep cleaning service encompasses every area of your home, ensuring a comprehensive and deep clean throughout.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Full-Home-Deep-cleaning-simple.png",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "67f974e8f58b36088376f3ae"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-11T19:54:12.769Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-20T09:51:29.499Z"
+  },
+  "__v": 0,
+  "banner": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/cleaning.png"
+},
+{
+  "_id": {
+    "$oid": "67f9c16f285fbf7f23b1cc56"
+  },
+  "name": "Home Maintenance",
+  "description": "Home maintenance involves the regular inspection, upkeep, and repair of a property to ensure it remains safe, functional, and visually appealing.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Plumbing-skills.webp",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "67f9c3fc8254e972026b4213"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-12T01:27:11.782Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-26T10:35:19.927Z"
+  },
+  "__v": 0,
+  "banner": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/maintenance.png"
+},
+{
+  "_id": {
+    "$oid": "687d6a4c8ebc8188a88d17c1"
+  },
+  "name": "Financial Services",
+  "description": "Trusted Legal and Financial Solutions for Your Business and Life",
+  "banner": "https://images.unsplash.com/photo-1579621970795-87facc2f976d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753096108645_9.jpg",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "687e1988e8694e7b530dd9dc"
+    },
+    {
+      "$oid": "687e1fcde8694e7b530dda5d"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-20T22:14:36.245Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T15:29:49.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687d6baa8ebc8188a88d17d2"
+  },
+  "name": "Beauty & Wellness",
+  "description": "Personal Care & Wellness Services: Enhancing Beauty, Health, and Wellbeing",
+  "banner": "https://t4.ftcdn.net/jpg/03/93/85/55/360_F_393855516_0BcgVZqNlVrvDE0kiD3YTlVJaur8Q02G.jpg",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753094901138_4.webp",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "687e1aa8df35c968174fc0b7"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-20T22:20:26.023Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T12:10:00.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf484b944244fc3202adaf"
+  },
+  "name": "Driving & Transportation",
+  "description": "We offer safe, reliable, and timely driving and transportation services designed to meet the needs of individuals and businesses alike.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/delivery-guy-transport-man-driving-thumbs-up-shipping-courier-service-happy-black-person-portrait-driver-like-279666417.webp",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "67cf48f38ec6e7be07c4b465"
+    },
+    {
+      "$oid": "67e66e852e3ef96fb33984a8"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T20:15:07.392Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-20T09:52:24.516Z"
+  },
+  "__v": 0,
+  "banner": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/driving.png"
+},
+{
+  "_id": {
+    "$oid": "687d66763a6088c2f11afb3b"
+  },
+  "name": "Software",
+  "description": "Reliable Software Solutions all at once for Businesses and Individuals",
+  "banner": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "image": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    "687cd4af9fd8192b4a090fff"
+  ],
+  "created_at": {
+    "$date": "2025-07-20T21:58:14.851Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T15:32:16.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf559ea80a64cbe2402d13"
+  },
+  "name": "Repair & Maintenance",
+  "description": "We provide reliable, efficient, and cost-effective repair and maintenance services at your door steps.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Industrial-Machinery-Repair-and-Maintenance-atf.webp",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "67cf5625dd8b0e9bbe7bbfec"
+    },
+    {
+      "$oid": "67e67aeeeb71faa60f56b3da"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T21:11:58.134Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-12T13:17:26.036Z"
+  },
+  "__v": 0,
+  "banner": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/repair.png"
+},
+{
+  "_id": {
+    "$oid": "67ce9bc6cbe14f6f1b26aa56"
+  },
+  "name": "Cleaning",
+  "description": "We deliver top-quality cleaning services designed to keep your space spotless, fresh, and hygienic. Whether it's your home or office.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/662ff7377dec6027e008a4ac_Professional cleaning service (1).webp",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "67ceb04292e6abe5f0b41b18"
+    },
+    {
+      "$oid": "6808bede8f641e3b46db66da"
+    },
+    {
+      "$oid": "6808c07d8f641e3b46db6855"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T07:59:02.668Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-23T10:27:09.898Z"
+  },
+  "__v": 0,
+  "banner": "https://tradesman-s3.s3.ap-southeast-2.amazonaws.com/clleaning.png"
+},
+{
+  "_id": {
+    "$oid": "67cf52d6e2ec73d39cb51886"
+  },
+  "name": "Vehicle",
+  "description": "We offer reliable, efficient, and expert vehicle services to keep your car running smoothly and looking its best.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/what-is-a-vehice-service-contract_Shutterstock_arhendrix.jpg",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "67cf53654b8a6342eec0d54b"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T21:00:06.579Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-20T09:52:02.813Z"
+  },
+  "__v": 0,
+  "banner": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/vehicle.png"
+},
+{
+  "_id": {
+    "$oid": "67cf4bc88a0b1ca5fc548614"
+  },
+  "name": "Domestic",
+  "description": "We provide trusted and personalized domestic services designed to make everyday living easier life.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/premium_photo-1667520300190-fc374bd2d78e.jpeg",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "67cf4bf9af1c811b4b544da5"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T20:30:00.410Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-20T09:52:11.619Z"
+  },
+  "__v": 0,
+  "banner": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/domestic.png"
+},
+{
+  "_id": {
+    "$oid": "687d6ac88ebc8188a88d17c8"
+  },
+  "name": "Medical",
+  "description": "Medical Services: Comprehensive Healthcare and Wellness Solutions",
+  "banner": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "687e1a7ce8694e7b530dda12"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-20T22:16:40.525Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T12:10:32.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687d6b078ebc8188a88d17cd"
+  },
+  "name": "Marketing",
+  "description": "Comprehensive Marketing Services: Strategies, Promotion, and Growth Solutions",
+  "banner": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753049858598_market.png",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753095719078_7.png",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "687dfa4186fb0319d1fec4f7"
+    },
+    {
+      "$oid": "687e192de8694e7b530dd9af"
+    },
+    {
+      "$oid": "687e1e38df35c968174fc116"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-20T22:17:43.199Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T12:10:16.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ce9ab3cbe14f6f1b26aa33"
+  },
+  "name": "Security",
+  "description": "We provide comprehensive and reliable security services tailored to meet the needs of individuals, businesses, and organizations.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Best-Local-Security-Guard-Services-Company.jpg",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "67ceaaa4eb2f4db96219b1e1"
+    },
+    {
+      "$oid": "6808bb91a023959aab9ce666"
+    },
+    {
+      "$oid": "6808bca48f641e3b46db64b9"
+    },
+    {
+      "$oid": "6808bd81c54a2d043e44cc2b"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T07:54:27.586Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-23T10:14:25.649Z"
+  },
+  "__v": 0,
+  "banner": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/security.png"
+},
+{
+  "_id": {
+    "$oid": "687d67b58ebc8188a88d17ae"
+  },
+  "name": "Construction",
+  "description": "Reliable Construction Solutions for Projects No matter how big or small,",
+  "banner": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753049005616_construction.png",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753096696899_12.avif",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "687e221ee8694e7b530ddae3"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-20T22:03:33.215Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T15:31:07.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687d67e58ebc8188a88d17b3"
+  },
+  "name": "Content",
+  "description": "Comprehensive Services to Create, Manage, and Optimize Content",
+  "banner": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753049056230_content.png",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753096970995_13.jpg",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "687e236be84a0a6632c202b8"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-20T22:04:21.152Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T12:11:47.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f99ce756d9a2234c7068cf"
+  },
+  "name": "Salon At Home",
+  "description": "Where beauty meets expertise. Our salon offers a full range of hair, nail, and skincare services in a relaxing, modern environment.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/salon-at-home-transform-your-home-into-a-salon-with-exclusive-services-vitta-gold-cosmetics.webp",
+  "isFeatured": true,
+  "status": "active",
+  "sub_categories": [
+    {
+      "$oid": "67f99dbc56d9a2234c7069a1"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-11T22:51:19.951Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-20T09:51:12.337Z"
+  },
+  "__v": 0,
+  "banner": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/salon.png"
+}]

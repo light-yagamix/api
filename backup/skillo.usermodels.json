@@ -1,0 +1,1284 @@
+[{
+  "_id": {
+    "$oid": "69af06218f9e3e5ee3f0db4f"
+  },
+  "first_name": "Admin",
+  "last_name": "User",
+  "email": "admin@gmail.com",
+  "age": 0,
+  "role": "admin",
+  "gender": "male",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      0,
+      0
+    ]
+  },
+  "verified": [
+    "email"
+  ],
+  "status": "not-approved",
+  "account_status": "active",
+  "password": "9d7be78cd3f5ffebb845b24272a25630cfef3ce4535c96c29104b1fce3723f77",
+  "salt": "45084508c85e28389d2605f095b1b8e7",
+  "deviceTokens": [],
+  "skills": [],
+  "job_counts": 0,
+  "experience": 0,
+  "avg_rating": 0,
+  "online": false,
+  "score": 0,
+  "profileScore": 0,
+  "activityScore": 0,
+  "subscriptionScore": 0,
+  "activeSubscription": {
+    "planId": null,
+    "planName": null,
+    "tier": null,
+    "points": 0,
+    "status": "active"
+  },
+  "addresses": [],
+  "skills_rating": [],
+  "ratings": [],
+  "lastSeen": {
+    "$date": "2026-03-09T17:40:49.085Z"
+  },
+  "created_at": {
+    "$date": "2026-03-09T17:40:49.091Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-09T17:50:38.472Z"
+  },
+  "__v": 0,
+  "otp": "319037",
+  "otp_expiry": {
+    "$date": "2026-03-09T18:50:38.472Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69af06218f9e3e5ee3f0db53"
+  },
+  "first_name": "Siraj",
+  "last_name": "Ahmed",
+  "email": "siraj@gmail.com",
+  "age": 0,
+  "role": "user",
+  "gender": "male",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      66.892924,
+      25.028124
+    ]
+  },
+  "verified": [
+    "email"
+  ],
+  "status": "not-approved",
+  "account_status": "active",
+  "password": "c4362a20773d8eb1e7f1ded1b0922faa731d49e9cb932be6fe91ae92a53e7fba",
+  "salt": "88220e55426a229c3527870b20eee159",
+  "deviceTokens": [],
+  "skills": [],
+  "job_counts": 0,
+  "experience": 0,
+  "avg_rating": 0,
+  "online": true,
+  "score": 0,
+  "profileScore": 0,
+  "activityScore": 0,
+  "subscriptionScore": 0,
+  "activeSubscription": {
+    "planId": null,
+    "planName": null,
+    "tier": null,
+    "points": 0,
+    "status": "active"
+  },
+  "addresses": [],
+  "skills_rating": [],
+  "ratings": [],
+  "lastSeen": {
+    "$date": "2026-03-26T08:46:31.044Z"
+  },
+  "created_at": {
+    "$date": "2026-03-09T17:40:49.484Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-26T08:46:31.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af06218f9e3e5ee3f0db57"
+  },
+  "first_name": "adeel",
+  "last_name": "ahmed",
+  "email": "adeel@gmail.com",
+  "age": 0,
+  "role": "user",
+  "gender": "male",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      66.877126,
+      25.010236
+    ]
+  },
+  "verified": [
+    "email"
+  ],
+  "status": "approved",
+  "account_status": "active",
+  "password": "6f04ca54c9138d7ea7a246f97aadac39e2979075faaaca541b466cbc7e1a9cc1",
+  "salt": "239b379b2e7ababe3fa9086b20a714b0",
+  "deviceTokens": [],
+  "skills": [],
+  "job_counts": 2,
+  "experience": 2,
+  "avg_rating": 5,
+  "online": true,
+  "score": 0,
+  "profileScore": 15,
+  "activityScore": 20,
+  "subscriptionScore": 0,
+  "activeSubscription": {
+    "planId": null,
+    "planName": null,
+    "tier": null,
+    "points": 0,
+    "status": "active"
+  },
+  "addresses": [],
+  "skills_rating": [],
+  "ratings": [],
+  "lastSeen": {
+    "$date": "2026-03-26T08:46:46.341Z"
+  },
+  "created_at": {
+    "$date": "2026-03-09T17:40:49.592Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-26T08:46:46.342Z"
+  },
+  "__v": 0,
+  "otp": "000000",
+  "otp_expiry": {
+    "$date": "2026-03-22T15:38:06.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69af06218f9e3e5ee3f0db5b"
+  },
+  "first_name": "Usman",
+  "last_name": "Sheikh",
+  "email": "usman@gmail.com",
+  "age": 53,
+  "role": "tradesman",
+  "gender": "male",
+  "cnic": "53035-7215720-5",
+  "phone": "+923961646386",
+  "addresses": [
+    {
+      "city": "Islamabad",
+      "full_address": "Sample Address",
+      "is_default": true,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          67.02239988923117,
+          24.84960076446993
+        ]
+      },
+      "_id": {
+        "$oid": "69af06218f9e3e5ee3f0db5c"
+      }
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      66.896098,
+      25.027801
+    ]
+  },
+  "verified": [],
+  "status": "approved",
+  "account_status": "active",
+  "password": "5eebdd890c65531c77af1435ea2c86a2578b8ed178e15ea763b2850d93ad5df4",
+  "salt": "afe740c601a66892e0ca3dc0cfb6ca92",
+  "deviceTokens": [],
+  "skills": [
+    {
+      "$oid": "67fcca661d2465880b5ad2fe"
+    },
+    {
+      "$oid": "6886003f7680a9f6db2c0b0f"
+    },
+    {
+      "$oid": "680172219007a73be5dddaae"
+    },
+    {
+      "$oid": "6825d50beb38a141e44bf073"
+    },
+    {
+      "$oid": "687f8c415d6e92ae65a2554a"
+    },
+    {
+      "$oid": "6887407a6d2cc6ed6f3c1a7e"
+    },
+    {
+      "$oid": "67e45d9ebc359f4f2c10c077"
+    },
+    {
+      "$oid": "67f9801859fac485bfbb0688"
+    },
+    {
+      "$oid": "6800e23cb9543519d03f783d"
+    },
+    {
+      "$oid": "687cd5279fd8192b4a091011"
+    },
+    {
+      "$oid": "69046a99292a915bccd972a7"
+    },
+    {
+      "$oid": "6904903f46c19cef9661c53e"
+    },
+    {
+      "$oid": "69049bb7027be544c697aab4"
+    },
+    {
+      "$oid": "67f9a3821a2897177b8f8b2d"
+    },
+    {
+      "$oid": "67cf56a938dcabc9a0e138d3"
+    },
+    {
+      "$oid": "67f9c95b8254e972026b4453"
+    },
+    {
+      "$oid": "6800b5daf076f7f6719601cd"
+    },
+    {
+      "$oid": "680103af35433253f7814dba"
+    },
+    {
+      "$oid": "682460a228d54bb8120a1622"
+    },
+    {
+      "$oid": "687f8407a063e72d919bdad3"
+    },
+    {
+      "$oid": "69032cb7ed7bc2a85aef63c0"
+    },
+    {
+      "$oid": "69049c88027be544c697ac6e"
+    },
+    {
+      "$oid": "67f9a5011a2897177b8f8bab"
+    },
+    {
+      "$oid": "6801026b9e01d36285e0c8c8"
+    },
+    {
+      "$oid": "6821da11fa988ef1de248126"
+    },
+    {
+      "$oid": "6886070d6b07323e56804219"
+    },
+    {
+      "$oid": "6823250d5136da96ec459716"
+    },
+    {
+      "$oid": "688221b271e7ce497dfc3de1"
+    },
+    {
+      "$oid": "6800bb06f076f7f671960bce"
+    },
+    {
+      "$oid": "68015cf26a2ecde0c3652d2a"
+    },
+    {
+      "$oid": "68016be99af27476fe751fde"
+    },
+    {
+      "$oid": "6825da5b3b0ec7e576fff39d"
+    },
+    {
+      "$oid": "6892f666f3aa4c7f2dee8793"
+    },
+    {
+      "$oid": "69033a59b96d301f53fd9897"
+    },
+    {
+      "$oid": "690469c5292a915bccd97163"
+    },
+    {
+      "$oid": "69047a6c3e1eb6a065eae081"
+    },
+    {
+      "$oid": "67f9832f59fac485bfbb07d8"
+    },
+    {
+      "$oid": "680160c9ce4411c3cc92e46e"
+    },
+    {
+      "$oid": "6903378c347d637260eea8ea"
+    },
+    {
+      "$oid": "67cf4a2370a6500bc9fff46b"
+    },
+    {
+      "$oid": "67f9775bf58b36088376f522"
+    },
+    {
+      "$oid": "680163959bf536d0f1405748"
+    },
+    {
+      "$oid": "69032b77a190abbf4972675c"
+    },
+    {
+      "$oid": "6903318ba190abbf49726949"
+    },
+    {
+      "$oid": "67cf4cb3944244fc3202ade4"
+    },
+    {
+      "$oid": "6800fad035433253f78147a9"
+    },
+    {
+      "$oid": "6821d36cce2f132928086e5b"
+    },
+    {
+      "$oid": "687f83a8a063e72d919bdabd"
+    },
+    {
+      "$oid": "68822d7b9a03dc3344673128"
+    },
+    {
+      "$oid": "68860564149ae69ee22ee81b"
+    },
+    {
+      "$oid": "69032981a190abbf49726613"
+    },
+    {
+      "$oid": "67ceab855b29ad80f893a648"
+    },
+    {
+      "$oid": "67ceb0a8eb2f4db96219b294"
+    },
+    {
+      "$oid": "67ceb35389211f44fcc1d100"
+    },
+    {
+      "$oid": "67cf1c5bdbcb2d1e0ba9abd8"
+    },
+    {
+      "$oid": "67f9a2141a2897177b8f8ab7"
+    },
+    {
+      "$oid": "69033488a190abbf49726a87"
+    },
+    {
+      "$oid": "690492dd96d32653552d5852"
+    },
+    {
+      "$oid": "67f9cac78482793cad6f2110"
+    },
+    {
+      "$oid": "68873e9d6d2cc6ed6f3c19e7"
+    },
+    {
+      "$oid": "69032e3aa190abbf49726870"
+    },
+    {
+      "$oid": "690467da889a107eadeb26fe"
+    },
+    {
+      "$oid": "67f99fe41a2897177b8f885e"
+    },
+    {
+      "$oid": "67f9a8c5c143aa0599c1dd35"
+    },
+    {
+      "$oid": "67f9c7c58254e972026b4359"
+    },
+    {
+      "$oid": "6821cd950db4431cc502027b"
+    },
+    {
+      "$oid": "687f89a6c2d31dade5c466a5"
+    },
+    {
+      "$oid": "688221ef7152a9777dee5afd"
+    },
+    {
+      "$oid": "6882224c7152a9777dee5b26"
+    },
+    {
+      "$oid": "68860901149ae69ee22ee919"
+    },
+    {
+      "$oid": "69af06228f9e3e5ee3f0db70"
+    }
+  ],
+  "job_counts": 0,
+  "experience": 4,
+  "ratings": [],
+  "avg_rating": 3.5992923698765265,
+  "online": false,
+  "score": 61,
+  "profileScore": 15,
+  "activityScore": 21,
+  "subscriptionScore": 25,
+  "activeSubscription": {
+    "planId": "plan-bronze",
+    "planName": "Bronze",
+    "tier": "bronze",
+    "points": 25,
+    "activatedAt": {
+      "$date": "2026-03-09T17:40:49.730Z"
+    },
+    "expiresAt": {
+      "$date": "2026-04-08T17:40:49.730Z"
+    },
+    "status": "active"
+  },
+  "skills_rating": [],
+  "lastSeen": {
+    "$date": "2026-03-09T17:40:49.734Z"
+  },
+  "created_at": {
+    "$date": "2026-03-09T17:40:49.737Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T15:04:50.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af06218f9e3e5ee3f0db60"
+  },
+  "first_name": "Umer",
+  "last_name": "Hassan",
+  "email": "umer@gmail.com",
+  "age": 0,
+  "role": "tradesman",
+  "gender": "male",
+  "phone": "+923792134264",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      66.894574,
+      25.007851
+    ]
+  },
+  "verified": [],
+  "status": "approved",
+  "account_status": "active",
+  "password": "20bda5e3783ed1ff993fd861f53a6f6a664a92f3c0d2579d27d40fdb6c032be5",
+  "salt": "18c2ff6b2502fcc3b008df2ec14f6f9e",
+  "deviceTokens": [],
+  "skills": [
+    {
+      "$oid": "67fcca661d2465880b5ad2fe"
+    },
+    {
+      "$oid": "6886003f7680a9f6db2c0b0f"
+    },
+    {
+      "$oid": "680172219007a73be5dddaae"
+    },
+    {
+      "$oid": "6825d50beb38a141e44bf073"
+    },
+    {
+      "$oid": "687f8c415d6e92ae65a2554a"
+    },
+    {
+      "$oid": "6887407a6d2cc6ed6f3c1a7e"
+    },
+    {
+      "$oid": "67e45d9ebc359f4f2c10c077"
+    },
+    {
+      "$oid": "67f9801859fac485bfbb0688"
+    },
+    {
+      "$oid": "6800e23cb9543519d03f783d"
+    },
+    {
+      "$oid": "687cd5279fd8192b4a091011"
+    },
+    {
+      "$oid": "69046a99292a915bccd972a7"
+    },
+    {
+      "$oid": "6904903f46c19cef9661c53e"
+    },
+    {
+      "$oid": "69049bb7027be544c697aab4"
+    },
+    {
+      "$oid": "67f9a3821a2897177b8f8b2d"
+    },
+    {
+      "$oid": "67cf56a938dcabc9a0e138d3"
+    },
+    {
+      "$oid": "67f9c95b8254e972026b4453"
+    },
+    {
+      "$oid": "6800b5daf076f7f6719601cd"
+    },
+    {
+      "$oid": "680103af35433253f7814dba"
+    },
+    {
+      "$oid": "682460a228d54bb8120a1622"
+    },
+    {
+      "$oid": "687f8407a063e72d919bdad3"
+    },
+    {
+      "$oid": "69032cb7ed7bc2a85aef63c0"
+    },
+    {
+      "$oid": "69049c88027be544c697ac6e"
+    },
+    {
+      "$oid": "67f9a5011a2897177b8f8bab"
+    },
+    {
+      "$oid": "6801026b9e01d36285e0c8c8"
+    },
+    {
+      "$oid": "6821da11fa988ef1de248126"
+    },
+    {
+      "$oid": "6886070d6b07323e56804219"
+    },
+    {
+      "$oid": "6823250d5136da96ec459716"
+    },
+    {
+      "$oid": "688221b271e7ce497dfc3de1"
+    },
+    {
+      "$oid": "6800bb06f076f7f671960bce"
+    },
+    {
+      "$oid": "68015cf26a2ecde0c3652d2a"
+    },
+    {
+      "$oid": "68016be99af27476fe751fde"
+    },
+    {
+      "$oid": "6825da5b3b0ec7e576fff39d"
+    },
+    {
+      "$oid": "6892f666f3aa4c7f2dee8793"
+    },
+    {
+      "$oid": "69033a59b96d301f53fd9897"
+    },
+    {
+      "$oid": "690469c5292a915bccd97163"
+    },
+    {
+      "$oid": "69047a6c3e1eb6a065eae081"
+    },
+    {
+      "$oid": "67f9832f59fac485bfbb07d8"
+    },
+    {
+      "$oid": "680160c9ce4411c3cc92e46e"
+    },
+    {
+      "$oid": "6903378c347d637260eea8ea"
+    },
+    {
+      "$oid": "67cf4a2370a6500bc9fff46b"
+    },
+    {
+      "$oid": "67f9775bf58b36088376f522"
+    },
+    {
+      "$oid": "680163959bf536d0f1405748"
+    },
+    {
+      "$oid": "69032b77a190abbf4972675c"
+    },
+    {
+      "$oid": "6903318ba190abbf49726949"
+    },
+    {
+      "$oid": "67cf4cb3944244fc3202ade4"
+    },
+    {
+      "$oid": "6800fad035433253f78147a9"
+    },
+    {
+      "$oid": "6821d36cce2f132928086e5b"
+    },
+    {
+      "$oid": "687f83a8a063e72d919bdabd"
+    },
+    {
+      "$oid": "68822d7b9a03dc3344673128"
+    },
+    {
+      "$oid": "68860564149ae69ee22ee81b"
+    },
+    {
+      "$oid": "69032981a190abbf49726613"
+    },
+    {
+      "$oid": "67ceab855b29ad80f893a648"
+    },
+    {
+      "$oid": "67ceb0a8eb2f4db96219b294"
+    },
+    {
+      "$oid": "67ceb35389211f44fcc1d100"
+    },
+    {
+      "$oid": "67cf1c5bdbcb2d1e0ba9abd8"
+    },
+    {
+      "$oid": "67f9a2141a2897177b8f8ab7"
+    },
+    {
+      "$oid": "69033488a190abbf49726a87"
+    },
+    {
+      "$oid": "690492dd96d32653552d5852"
+    },
+    {
+      "$oid": "67f9cac78482793cad6f2110"
+    },
+    {
+      "$oid": "68873e9d6d2cc6ed6f3c19e7"
+    },
+    {
+      "$oid": "69032e3aa190abbf49726870"
+    },
+    {
+      "$oid": "690467da889a107eadeb26fe"
+    },
+    {
+      "$oid": "67f99fe41a2897177b8f885e"
+    },
+    {
+      "$oid": "67f9a8c5c143aa0599c1dd35"
+    },
+    {
+      "$oid": "67f9c7c58254e972026b4359"
+    },
+    {
+      "$oid": "6821cd950db4431cc502027b"
+    },
+    {
+      "$oid": "687f89a6c2d31dade5c466a5"
+    },
+    {
+      "$oid": "688221ef7152a9777dee5afd"
+    },
+    {
+      "$oid": "6882224c7152a9777dee5b26"
+    },
+    {
+      "$oid": "68860901149ae69ee22ee919"
+    },
+    {
+      "$oid": "69af06228f9e3e5ee3f0db70"
+    }
+  ],
+  "job_counts": 0,
+  "experience": 0,
+  "ratings": [],
+  "avg_rating": 3.2995929548266982,
+  "online": false,
+  "score": 86,
+  "profileScore": 10,
+  "activityScore": 76,
+  "subscriptionScore": 0,
+  "activeSubscription": {
+    "planId": null,
+    "planName": null,
+    "tier": null,
+    "points": 0,
+    "status": "active"
+  },
+  "addresses": [],
+  "skills_rating": [],
+  "lastSeen": {
+    "$date": "2026-03-09T17:40:49.842Z"
+  },
+  "created_at": {
+    "$date": "2026-03-09T17:40:49.843Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T15:04:50.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af06218f9e3e5ee3f0db64"
+  },
+  "first_name": "Ali",
+  "last_name": "Raza",
+  "email": "ali@gmail.com",
+  "age": 0,
+  "role": "tradesman",
+  "gender": "male",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      66.899315,
+      25.04521
+    ]
+  },
+  "verified": [],
+  "status": "approved",
+  "account_status": "active",
+  "password": "e6c3073875aa615c4576c454e0ad0e39a12123fe4f2135b10aac3a888950e321",
+  "salt": "09e2d4e2a9ff7f03d7a8cdff28b69b36",
+  "deviceTokens": [],
+  "skills": [
+    {
+      "$oid": "67fcca661d2465880b5ad2fe"
+    },
+    {
+      "$oid": "6886003f7680a9f6db2c0b0f"
+    },
+    {
+      "$oid": "680172219007a73be5dddaae"
+    },
+    {
+      "$oid": "6825d50beb38a141e44bf073"
+    },
+    {
+      "$oid": "687f8c415d6e92ae65a2554a"
+    },
+    {
+      "$oid": "6887407a6d2cc6ed6f3c1a7e"
+    },
+    {
+      "$oid": "67e45d9ebc359f4f2c10c077"
+    },
+    {
+      "$oid": "67f9801859fac485bfbb0688"
+    },
+    {
+      "$oid": "6800e23cb9543519d03f783d"
+    },
+    {
+      "$oid": "687cd5279fd8192b4a091011"
+    },
+    {
+      "$oid": "69046a99292a915bccd972a7"
+    },
+    {
+      "$oid": "6904903f46c19cef9661c53e"
+    },
+    {
+      "$oid": "69049bb7027be544c697aab4"
+    },
+    {
+      "$oid": "67f9a3821a2897177b8f8b2d"
+    },
+    {
+      "$oid": "67cf56a938dcabc9a0e138d3"
+    },
+    {
+      "$oid": "67f9c95b8254e972026b4453"
+    },
+    {
+      "$oid": "6800b5daf076f7f6719601cd"
+    },
+    {
+      "$oid": "680103af35433253f7814dba"
+    },
+    {
+      "$oid": "682460a228d54bb8120a1622"
+    },
+    {
+      "$oid": "687f8407a063e72d919bdad3"
+    },
+    {
+      "$oid": "69032cb7ed7bc2a85aef63c0"
+    },
+    {
+      "$oid": "69049c88027be544c697ac6e"
+    },
+    {
+      "$oid": "67f9a5011a2897177b8f8bab"
+    },
+    {
+      "$oid": "6801026b9e01d36285e0c8c8"
+    },
+    {
+      "$oid": "6821da11fa988ef1de248126"
+    },
+    {
+      "$oid": "6886070d6b07323e56804219"
+    },
+    {
+      "$oid": "6823250d5136da96ec459716"
+    },
+    {
+      "$oid": "688221b271e7ce497dfc3de1"
+    },
+    {
+      "$oid": "6800bb06f076f7f671960bce"
+    },
+    {
+      "$oid": "68015cf26a2ecde0c3652d2a"
+    },
+    {
+      "$oid": "68016be99af27476fe751fde"
+    },
+    {
+      "$oid": "6825da5b3b0ec7e576fff39d"
+    },
+    {
+      "$oid": "6892f666f3aa4c7f2dee8793"
+    },
+    {
+      "$oid": "69033a59b96d301f53fd9897"
+    },
+    {
+      "$oid": "690469c5292a915bccd97163"
+    },
+    {
+      "$oid": "69047a6c3e1eb6a065eae081"
+    },
+    {
+      "$oid": "67f9832f59fac485bfbb07d8"
+    },
+    {
+      "$oid": "680160c9ce4411c3cc92e46e"
+    },
+    {
+      "$oid": "6903378c347d637260eea8ea"
+    },
+    {
+      "$oid": "67cf4a2370a6500bc9fff46b"
+    },
+    {
+      "$oid": "67f9775bf58b36088376f522"
+    },
+    {
+      "$oid": "680163959bf536d0f1405748"
+    },
+    {
+      "$oid": "69032b77a190abbf4972675c"
+    },
+    {
+      "$oid": "6903318ba190abbf49726949"
+    },
+    {
+      "$oid": "67cf4cb3944244fc3202ade4"
+    },
+    {
+      "$oid": "6800fad035433253f78147a9"
+    },
+    {
+      "$oid": "6821d36cce2f132928086e5b"
+    },
+    {
+      "$oid": "687f83a8a063e72d919bdabd"
+    },
+    {
+      "$oid": "68822d7b9a03dc3344673128"
+    },
+    {
+      "$oid": "68860564149ae69ee22ee81b"
+    },
+    {
+      "$oid": "69032981a190abbf49726613"
+    },
+    {
+      "$oid": "67ceab855b29ad80f893a648"
+    },
+    {
+      "$oid": "67ceb0a8eb2f4db96219b294"
+    },
+    {
+      "$oid": "67ceb35389211f44fcc1d100"
+    },
+    {
+      "$oid": "67cf1c5bdbcb2d1e0ba9abd8"
+    },
+    {
+      "$oid": "67f9a2141a2897177b8f8ab7"
+    },
+    {
+      "$oid": "69033488a190abbf49726a87"
+    },
+    {
+      "$oid": "690492dd96d32653552d5852"
+    },
+    {
+      "$oid": "67f9cac78482793cad6f2110"
+    },
+    {
+      "$oid": "68873e9d6d2cc6ed6f3c19e7"
+    },
+    {
+      "$oid": "69032e3aa190abbf49726870"
+    },
+    {
+      "$oid": "690467da889a107eadeb26fe"
+    },
+    {
+      "$oid": "67f99fe41a2897177b8f885e"
+    },
+    {
+      "$oid": "67f9a8c5c143aa0599c1dd35"
+    },
+    {
+      "$oid": "67f9c7c58254e972026b4359"
+    },
+    {
+      "$oid": "6821cd950db4431cc502027b"
+    },
+    {
+      "$oid": "687f89a6c2d31dade5c466a5"
+    },
+    {
+      "$oid": "688221ef7152a9777dee5afd"
+    },
+    {
+      "$oid": "6882224c7152a9777dee5b26"
+    },
+    {
+      "$oid": "68860901149ae69ee22ee919"
+    },
+    {
+      "$oid": "69af06228f9e3e5ee3f0db70"
+    }
+  ],
+  "job_counts": 35,
+  "experience": 0,
+  "ratings": [],
+  "avg_rating": 4.680424217452532,
+  "online": false,
+  "score": 230,
+  "profileScore": 0,
+  "activityScore": 30,
+  "subscriptionScore": 200,
+  "activeSubscription": {
+    "planId": "plan-gold",
+    "planName": "Gold",
+    "tier": "gold",
+    "points": 200,
+    "activatedAt": {
+      "$date": "2026-03-09T17:40:49.948Z"
+    },
+    "expiresAt": {
+      "$date": "2026-04-08T17:40:49.948Z"
+    },
+    "status": "active"
+  },
+  "addresses": [],
+  "skills_rating": [],
+  "lastSeen": {
+    "$date": "2026-03-09T17:40:49.949Z"
+  },
+  "created_at": {
+    "$date": "2026-03-09T17:40:49.950Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T15:04:50.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af06228f9e3e5ee3f0db68"
+  },
+  "first_name": "Hassan",
+  "last_name": "Ali",
+  "email": "hassan@gmail.com",
+  "age": 20,
+  "role": "tradesman",
+  "gender": "male",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      66.891886,
+      25.046159
+    ]
+  },
+  "verified": [
+    "email"
+  ],
+  "status": "approved",
+  "account_status": "active",
+  "password": "b99f1a168e57f709f831329e424a33c175c9ace0e261a1b17a2b1a71983db8f1",
+  "salt": "08de4d5843ea79c392771bb69bb22a60",
+  "deviceTokens": [],
+  "skills": [
+    {
+      "$oid": "67fcca661d2465880b5ad2fe"
+    },
+    {
+      "$oid": "6886003f7680a9f6db2c0b0f"
+    },
+    {
+      "$oid": "680172219007a73be5dddaae"
+    },
+    {
+      "$oid": "6825d50beb38a141e44bf073"
+    },
+    {
+      "$oid": "687f8c415d6e92ae65a2554a"
+    },
+    {
+      "$oid": "6887407a6d2cc6ed6f3c1a7e"
+    },
+    {
+      "$oid": "67e45d9ebc359f4f2c10c077"
+    },
+    {
+      "$oid": "67f9801859fac485bfbb0688"
+    },
+    {
+      "$oid": "6800e23cb9543519d03f783d"
+    },
+    {
+      "$oid": "687cd5279fd8192b4a091011"
+    },
+    {
+      "$oid": "69046a99292a915bccd972a7"
+    },
+    {
+      "$oid": "6904903f46c19cef9661c53e"
+    },
+    {
+      "$oid": "69049bb7027be544c697aab4"
+    },
+    {
+      "$oid": "67f9a3821a2897177b8f8b2d"
+    },
+    {
+      "$oid": "67cf56a938dcabc9a0e138d3"
+    },
+    {
+      "$oid": "67f9c95b8254e972026b4453"
+    },
+    {
+      "$oid": "6800b5daf076f7f6719601cd"
+    },
+    {
+      "$oid": "680103af35433253f7814dba"
+    },
+    {
+      "$oid": "682460a228d54bb8120a1622"
+    },
+    {
+      "$oid": "687f8407a063e72d919bdad3"
+    },
+    {
+      "$oid": "69032cb7ed7bc2a85aef63c0"
+    },
+    {
+      "$oid": "69049c88027be544c697ac6e"
+    },
+    {
+      "$oid": "67f9a5011a2897177b8f8bab"
+    },
+    {
+      "$oid": "6801026b9e01d36285e0c8c8"
+    },
+    {
+      "$oid": "6821da11fa988ef1de248126"
+    },
+    {
+      "$oid": "6886070d6b07323e56804219"
+    },
+    {
+      "$oid": "6823250d5136da96ec459716"
+    },
+    {
+      "$oid": "688221b271e7ce497dfc3de1"
+    },
+    {
+      "$oid": "6800bb06f076f7f671960bce"
+    },
+    {
+      "$oid": "68015cf26a2ecde0c3652d2a"
+    },
+    {
+      "$oid": "68016be99af27476fe751fde"
+    },
+    {
+      "$oid": "6825da5b3b0ec7e576fff39d"
+    },
+    {
+      "$oid": "6892f666f3aa4c7f2dee8793"
+    },
+    {
+      "$oid": "69033a59b96d301f53fd9897"
+    },
+    {
+      "$oid": "690469c5292a915bccd97163"
+    },
+    {
+      "$oid": "69047a6c3e1eb6a065eae081"
+    },
+    {
+      "$oid": "67f9832f59fac485bfbb07d8"
+    },
+    {
+      "$oid": "680160c9ce4411c3cc92e46e"
+    },
+    {
+      "$oid": "6903378c347d637260eea8ea"
+    },
+    {
+      "$oid": "67cf4a2370a6500bc9fff46b"
+    },
+    {
+      "$oid": "67f9775bf58b36088376f522"
+    },
+    {
+      "$oid": "680163959bf536d0f1405748"
+    },
+    {
+      "$oid": "69032b77a190abbf4972675c"
+    },
+    {
+      "$oid": "6903318ba190abbf49726949"
+    },
+    {
+      "$oid": "67cf4cb3944244fc3202ade4"
+    },
+    {
+      "$oid": "6800fad035433253f78147a9"
+    },
+    {
+      "$oid": "6821d36cce2f132928086e5b"
+    },
+    {
+      "$oid": "687f83a8a063e72d919bdabd"
+    },
+    {
+      "$oid": "68822d7b9a03dc3344673128"
+    },
+    {
+      "$oid": "68860564149ae69ee22ee81b"
+    },
+    {
+      "$oid": "69032981a190abbf49726613"
+    },
+    {
+      "$oid": "67ceab855b29ad80f893a648"
+    },
+    {
+      "$oid": "67ceb0a8eb2f4db96219b294"
+    },
+    {
+      "$oid": "67ceb35389211f44fcc1d100"
+    },
+    {
+      "$oid": "67cf1c5bdbcb2d1e0ba9abd8"
+    },
+    {
+      "$oid": "67f9a2141a2897177b8f8ab7"
+    },
+    {
+      "$oid": "69033488a190abbf49726a87"
+    },
+    {
+      "$oid": "690492dd96d32653552d5852"
+    },
+    {
+      "$oid": "67f9cac78482793cad6f2110"
+    },
+    {
+      "$oid": "68873e9d6d2cc6ed6f3c19e7"
+    },
+    {
+      "$oid": "69032e3aa190abbf49726870"
+    },
+    {
+      "$oid": "690467da889a107eadeb26fe"
+    },
+    {
+      "$oid": "67f99fe41a2897177b8f885e"
+    },
+    {
+      "$oid": "67f9a8c5c143aa0599c1dd35"
+    },
+    {
+      "$oid": "67f9c7c58254e972026b4359"
+    },
+    {
+      "$oid": "6821cd950db4431cc502027b"
+    },
+    {
+      "$oid": "687f89a6c2d31dade5c466a5"
+    },
+    {
+      "$oid": "688221ef7152a9777dee5afd"
+    },
+    {
+      "$oid": "6882224c7152a9777dee5b26"
+    },
+    {
+      "$oid": "68860901149ae69ee22ee919"
+    },
+    {
+      "$oid": "69af06228f9e3e5ee3f0db70"
+    }
+  ],
+  "job_counts": 10,
+  "experience": 5,
+  "ratings": [],
+  "avg_rating": 3.836253537303363,
+  "online": true,
+  "score": 15,
+  "profileScore": 5,
+  "activityScore": 60,
+  "subscriptionScore": 25,
+  "activeSubscription": {
+    "planId": "plan-bronze",
+    "planName": "Bronze",
+    "tier": "bronze",
+    "points": 25,
+    "activatedAt": {
+      "$date": "2026-03-09T17:40:50.058Z"
+    },
+    "expiresAt": {
+      "$date": "2026-04-08T17:40:50.058Z"
+    },
+    "status": "active"
+  },
+  "addresses": [],
+  "skills_rating": [],
+  "lastSeen": {
+    "$date": "2026-03-09T17:40:50.059Z"
+  },
+  "created_at": {
+    "$date": "2026-03-09T17:40:50.059Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-26T07:51:45.429Z"
+  },
+  "__v": 0,
+  "cnic": "",
+  "cnic_back_image": "https://how-the-hell-this-name-exists.s3.ap-southeast-2.amazonaws.com/1774190561928_IMG_20260304_064423_987.webp",
+  "cnic_front_image": "https://how-the-hell-this-name-exists.s3.ap-southeast-2.amazonaws.com/1774190548341_Firefly_The_background_should_have_a_very_slight_gradient_of_white_and_ice_color___and_enhanc_841997.png.jpg",
+  "phone": "923033553861"
+}]

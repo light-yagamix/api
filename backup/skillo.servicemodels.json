@@ -1,0 +1,4708 @@
+[{
+  "_id": {
+    "$oid": "6800b5daf076f7f6719601cd"
+  },
+  "name": "Bouncer",
+  "category": {
+    "$oid": "67ce9ab3cbe14f6f1b26aa33"
+  },
+  "sub_category": {
+    "$oid": "67ceaaa4eb2f4db96219b1e1"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 2500,
+      "_id": {
+        "$oid": "6800b5daf076f7f6719601ce"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 4500,
+      "_id": {
+        "$oid": "6800b5daf076f7f6719601cf"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 6500,
+      "_id": {
+        "$oid": "6800b5daf076f7f6719601d0"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 8500,
+      "_id": {
+        "$oid": "6800b5daf076f7f6719601d1"
+      }
+    },
+    {
+      "label": "Full Day - 8 hours",
+      "price": 12000,
+      "_id": {
+        "$oid": "6800b5daf076f7f6719601d2"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/1000x800.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Bouncer",
+    "Boun"
+  ],
+  "addons": [
+    {
+      "$oid": "6800b8d7f076f7f671960830"
+    },
+    {
+      "$oid": "6802d909b24925f7c93919ca"
+    },
+    {
+      "$oid": "6802d94cb24925f7c9391c22"
+    },
+    {
+      "$oid": "6802d995b24925f7c9391e7c"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-17T08:03:38.825Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-02T21:12:06.583Z"
+  },
+  "__v": 0,
+  "description": "Our Bouncer Services provide professional crowd control and entry management for nightlife venues, private events, concerts, and more. Our team of trained and experienced bouncers ensures the safety of your guests, enforces venue policies, and maintains a secure and enjoyable environment for all.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "682460a228d54bb8120a1622"
+  },
+  "name": "Vaccination",
+  "description": "Human vaccination services provide immunization to protect individuals and communities against infectious diseases. These services are offered by healthcare professionals in clinics, hospitals, public health centers, and mobile units.",
+  "category": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "sub_category": {
+    "$oid": "6808c3128f641e3b46db6b47"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Childhood vaccines (e.g., MMR, polio, DTP)",
+      "price": 1000,
+      "_id": {
+        "$oid": "682460a228d54bb8120a1623"
+      }
+    },
+    {
+      "label": "Seasonal Influenza",
+      "price": 1200,
+      "_id": {
+        "$oid": "682460a228d54bb8120a1624"
+      }
+    },
+    {
+      "label": "HPV (Human Papillomavirus)",
+      "price": 1800,
+      "_id": {
+        "$oid": "682460a228d54bb8120a1625"
+      }
+    },
+    {
+      "label": "Hepatitis A and B",
+      "price": 2500,
+      "_id": {
+        "$oid": "682460a228d54bb8120a1626"
+      }
+    },
+    {
+      "label": "Travel-related vaccines (e.g., yellow fever, typhoid)",
+      "price": 3000,
+      "_id": {
+        "$oid": "682460a228d54bb8120a1627"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/HPV-vaccination.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Human",
+    "Vaccine",
+    "Vaccination"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-05-14T09:21:38.540Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-28T09:19:11.706Z"
+  },
+  "__v": 0,
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "69033488a190abbf49726a87"
+  },
+  "name": "Therapist",
+  "description": "We provide professional therapy services to help individuals manage stress, anxiety, and emotional challenges. Our certified therapists offer confidential online and in-person sessions using proven methods like CBT and mindfulness to promote mental well-being and personal growth.",
+  "category": {
+    "$oid": "687d6ac88ebc8188a88d17c8"
+  },
+  "sub_category": {
+    "$oid": "687e1a7ce8694e7b530dda12"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "1 Hour",
+      "price": 2000,
+      "_id": {
+        "$oid": "69033488a190abbf49726a88"
+      }
+    },
+    {
+      "label": "2 Hour",
+      "price": 3000,
+      "_id": {
+        "$oid": "69033488a190abbf49726a89"
+      }
+    },
+    {
+      "label": "3 Hour",
+      "price": 4000,
+      "_id": {
+        "$oid": "69033488a190abbf49726a8a"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761817733236_istockphoto-1708238799-612x612.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-30T09:48:56.986Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-30T09:48:56.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69032e3aa190abbf49726870"
+  },
+  "name": "Social Media Marketing",
+  "description": "We provide professional Social Media Marketing services to grow your brand, increase engagement, and reach the right audience. Our team creates strategic campaigns and engaging content across Facebook, Instagram, LinkedIn, and TikTok to boost visibility, build trust, and drive real results.",
+  "category": {
+    "$oid": "687d6b078ebc8188a88d17cd"
+  },
+  "sub_category": {
+    "$oid": "687e1e38df35c968174fc116"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "Full Day (8 hours)",
+      "price": 8000,
+      "_id": {
+        "$oid": "69032e3aa190abbf49726871"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "online",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761816112042_socialmediamarketing.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-30T09:22:02.501Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-30T09:22:02.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821d36cce2f132928086e5b"
+  },
+  "name": "Home Windows Cleaning",
+  "description": "Indoor window cleaning involves the thorough cleaning of interior-facing glass surfaces to remove dust, smudges, fingerprints, and streaks, leaving windows clear and spotless. This service includes the cleaning of window panes, sills, frames, and sometimes tracks, using safe, non-toxic cleaning agents that protect indoor air quality. ",
+  "category": {
+    "$oid": "67ce9bc6cbe14f6f1b26aa56"
+  },
+  "sub_category": {
+    "$oid": "67ceb04292e6abe5f0b41b18"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "1 bedroom studio apartment",
+      "price": 750,
+      "_id": {
+        "$oid": "6821d36cce2f132928086e5c"
+      }
+    },
+    {
+      "label": "2 bedrooms apartment",
+      "price": 1300,
+      "_id": {
+        "$oid": "6821d36cce2f132928086e5d"
+      }
+    },
+    {
+      "label": "3 bedrooms apartment",
+      "price": 2700,
+      "_id": {
+        "$oid": "6821d36cce2f132928086e5e"
+      }
+    },
+    {
+      "label": "4 bedrooms apartment",
+      "price": 3500,
+      "_id": {
+        "$oid": "6821d36cce2f132928086e5f"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/21.jpeg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-05-12T10:54:36.748Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T21:28:50.312Z"
+  },
+  "__v": 0,
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "69046a99292a915bccd972a7"
+  },
+  "name": "Eyebrow & Lash Services",
+  "description": "Enhance your natural beauty with professional eyebrow shaping, tinting, and lash treatments. Whether you want a subtle lift or a bold, defined look, our beauty experts provide precise, long-lasting results tailored to your style.",
+  "category": {
+    "$oid": "687d6baa8ebc8188a88d17d2"
+  },
+  "sub_category": {
+    "$oid": "687e1aa8df35c968174fc0b7"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "Per Session",
+      "price": 5000,
+      "_id": {
+        "$oid": "69046a99292a915bccd972a8"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1762333673639_eye-lashes-keratin-procedure-salon_1303-27759.avif",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-31T07:51:53.705Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-05T09:07:59.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f9a5011a2897177b8f8bab"
+  },
+  "name": "Nail Studio",
+  "category": {
+    "$oid": "67f99ce756d9a2234c7068cf"
+  },
+  "sub_category": {
+    "$oid": "67f99dbc56d9a2234c7069a1"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Manicure & Pedicure ",
+      "price": 2500,
+      "_id": {
+        "$oid": "680020621a6729f0fc99f583"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/istockphoto-545984710-612x612-1.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Nail Studio",
+    "Nail",
+    "Studio"
+  ],
+  "addons": [
+    {
+      "$oid": "67fabe9e7965c0af2320b30d"
+    },
+    {
+      "$oid": "6804168e04b0ac76dd561876"
+    },
+    {
+      "$oid": "680416dd04b0ac76dd5619c0"
+    },
+    {
+      "$oid": "6804176e04b0ac76dd561b0a"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-11T23:25:53.258Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-25T08:00:08.379Z"
+  },
+  "__v": 0,
+  "description": "Pamper yourself with salon-quality nails in the comfort of your own home with our Nail Studio at Home service. Our professional nail technicians bring all the tools and expertise needed to give you a flawless manicure and pedicure without you having to leave your doorstep.",
+  "service_type": "customer_based"
+},
+{
+  "_id": {
+    "$oid": "6801026b9e01d36285e0c8c8"
+  },
+  "name": "Commercial Driver",
+  "category": {
+    "$oid": "67cf484b944244fc3202adaf"
+  },
+  "sub_category": {
+    "$oid": "67cf48f38ec6e7be07c4b465"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 2000,
+      "_id": {
+        "$oid": "6801026b9e01d36285e0c8c9"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 3700,
+      "_id": {
+        "$oid": "6801026b9e01d36285e0c8ca"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 5600,
+      "_id": {
+        "$oid": "6801026b9e01d36285e0c8cb"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 4500,
+      "_id": {
+        "$oid": "6801026b9e01d36285e0c8cc"
+      }
+    },
+    {
+      "label": "Full day (8 hours)",
+      "price": 7500,
+      "_id": {
+        "$oid": "6801026b9e01d36285e0c8cd"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Commerical-Driver-GES795-935x572-1.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Commercial Driver",
+    "Driver",
+    "Commercial",
+    "Com"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-17T13:30:19.588Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T21:44:21.702Z"
+  },
+  "__v": 0,
+  "description": "Our Commercial Driver Services provide skilled, licensed, and safety-focused drivers for businesses that require reliable transportation of goods, equipment, or personnel. Whether you need short-term coverage or long-term support, our experienced drivers are ready to meet your commercial transport needs with professionalism and precision.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "6886070d6b07323e56804219"
+  },
+  "name": "Physiotherapist",
+  "description": "Our Physiotherapy at Home service brings expert physical rehabilitation and pain relief directly to your doorstep. Whether you're recovering from surgery, managing a chronic condition, or looking to improve mobility and strength, our licensed physiotherapists provide personalized, one-on-one care in the comfort of your home.",
+  "category": {
+    "$oid": "687d6ac88ebc8188a88d17c8"
+  },
+  "sub_category": {
+    "$oid": "687e1a7ce8694e7b530dda12"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "Comprehensive physical assessments",
+      "price": 1500,
+      "_id": {
+        "$oid": "6886070d6b07323e5680421a"
+      }
+    },
+    {
+      "label": "Manual therapy and joint mobilization",
+      "price": 2500,
+      "_id": {
+        "$oid": "6886070d6b07323e5680421b"
+      }
+    },
+    {
+      "label": "Posture and giant training",
+      "price": 3000,
+      "_id": {
+        "$oid": "6886070d6b07323e5680421c"
+      }
+    },
+    {
+      "label": "Home exercise planning program",
+      "price": 3500,
+      "_id": {
+        "$oid": "6886070d6b07323e5680421d"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753614064876_how-do-i-become-a-physiotherapist.webp",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Physiotherapist",
+    "therapist",
+    "Physio"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-27T11:01:33.601Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:43.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67fcca661d2465880b5ad2fe"
+  },
+  "name": "Maid ",
+  "category": {
+    "$oid": "67cf4bc88a0b1ca5fc548614"
+  },
+  "sub_category": {
+    "$oid": "67cf4bf9af1c811b4b544da5"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 900,
+      "_id": {
+        "$oid": "67fcca661d2465880b5ad2ff"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 1700,
+      "_id": {
+        "$oid": "67fcca661d2465880b5ad300"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 2500,
+      "_id": {
+        "$oid": "67fcca661d2465880b5ad301"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 3300,
+      "_id": {
+        "$oid": "67fcca661d2465880b5ad302"
+      }
+    },
+    {
+      "label": "Full Day (8 hours)",
+      "price": 5500,
+      "_id": {
+        "$oid": "67fcca661d2465880b5ad303"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/cleaning-service.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Maid",
+    "M"
+  ],
+  "addons": [
+    {
+      "$oid": "67fccde54fa4753624142e61"
+    },
+    {
+      "$oid": "68043bab909a4ca7fc058898"
+    },
+    {
+      "$oid": "68043c5b909a4ca7fc0589e6"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-14T08:42:14.032Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T21:51:58.546Z"
+  },
+  "__v": 0,
+  "description": "Our Maid at Home service offers dependable, thorough, and discreet cleaning and household support. So you can enjoy a spotless, organized, and stress-free home without lifting a finger."
+},
+{
+  "_id": {
+    "$oid": "6825d50beb38a141e44bf073"
+  },
+  "name": "Blood Pressure and Sugar Monitoring ",
+  "description": "Our Home Blood Pressure and Sugar Monitoring Service offers convenient, professional health monitoring in the comfort of your home. Designed for individuals managing hypertension, diabetes, or at risk of chronic conditions, this service ensures timely and accurate tracking of vital health parameters without the need to visit a clinic or hospital.",
+  "category": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "sub_category": {
+    "$oid": "6808c4518f641e3b46db6cbc"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Blood Pressure (Systolic & Diastolic) measurement",
+      "price": 1000,
+      "_id": {
+        "$oid": "6825d50beb38a141e44bf074"
+      }
+    },
+    {
+      "label": "Blood sugar (glucose) testing",
+      "price": 1200,
+      "_id": {
+        "$oid": "6825d50beb38a141e44bf075"
+      }
+    },
+    {
+      "label": "Medication reminders and compliance tracking",
+      "price": 1500,
+      "_id": {
+        "$oid": "6825d50beb38a141e44bf076"
+      }
+    },
+    {
+      "label": "Hypoglycemia and hyperglycemia tacking",
+      "price": 1800,
+      "_id": {
+        "$oid": "6825d50beb38a141e44bf077"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Health Screenings 29.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Blood Pressure",
+    "Blood",
+    "Pressure",
+    "Sugar Monitoring",
+    "Monitoring",
+    "Sugar"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-05-15T11:50:35.401Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-15T11:50:35.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f9801859fac485bfbb0688"
+  },
+  "name": "Washroom Cleaning",
+  "category": {
+    "$oid": "67f97364103a5fb7594bed5e"
+  },
+  "sub_category": {
+    "$oid": "67f974e8f58b36088376f3ae"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "1 bedroom studio apartment",
+      "price": 1000,
+      "_id": {
+        "$oid": "67f9801859fac485bfbb0689"
+      }
+    },
+    {
+      "label": "2 bedrooms apartment",
+      "price": 1800,
+      "_id": {
+        "$oid": "67f9801859fac485bfbb068a"
+      }
+    },
+    {
+      "label": "3 bedrooms apartment",
+      "price": 2700,
+      "_id": {
+        "$oid": "67f9801859fac485bfbb068b"
+      }
+    },
+    {
+      "label": "4 bedrooms apartment",
+      "price": 3500,
+      "_id": {
+        "$oid": "67f9801859fac485bfbb068c"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/washrrom-deep-cleaning.png",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Washroom Cleaning",
+    "Washroom",
+    "Cleaning"
+  ],
+  "addons": [
+    {
+      "$oid": "67fb87df34aba27fd2b8517e"
+    },
+    {
+      "$oid": "68041a57385853c8196dd00e"
+    },
+    {
+      "$oid": "68041abb385853c8196dd158"
+    },
+    {
+      "$oid": "68041b3904b0ac76dd56206c"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-11T20:48:24.360Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T22:26:58.598Z"
+  },
+  "__v": 0,
+  "description": "eep your washrooms sparkling clean, sanitized, and odor-free with our Washroom Cleaning Services. We provide deep cleaning and disinfection to ensure a hygienic, fresh, and welcoming space whether at home, in the office, or in commercial facilities.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "6904903f46c19cef9661c53e"
+  },
+  "name": "Gardening & Landscaping",
+  "description": "Transform your outdoor space into a relaxing and beautiful environment. Our gardening and landscaping experts provide lawn maintenance, plant installation, garden design, and seasonal care to keep your space fresh, green, and well-maintained all year round.",
+  "category": {
+    "$oid": "687d69618ebc8188a88d17ba"
+  },
+  "sub_category": {
+    "$oid": "687e2101e8694e7b530dda99"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "1 Hour",
+      "price": 1100,
+      "_id": {
+        "$oid": "6904903f46c19cef9661c53f"
+      }
+    },
+    {
+      "label": "2 Hour",
+      "price": 2200,
+      "_id": {
+        "$oid": "6904903f46c19cef9661c540"
+      }
+    },
+    {
+      "label": "3 Hour",
+      "price": 3000,
+      "_id": {
+        "$oid": "6904903f46c19cef9661c541"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761906744868_gardener-tending-plants-modern-landscape-design-daytime_1426-25319.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-31T10:32:31.747Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-05T08:20:23.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687f89a6c2d31dade5c466a5"
+  },
+  "name": "Labour Man",
+  "description": "Our Labour Man Service provides skilled and unskilled manpower for a wide range of tasks including loading/unloading, lifting, shifting, digging, material handling, cleaning, construction support, and general site labour. Whether you need short-term help or long-term support, our reliable and hardworking labourers are available on-demand to assist with both residential and commercial projects.",
+  "category": {
+    "$oid": "687d67b58ebc8188a88d17ae"
+  },
+  "sub_category": {
+    "$oid": "687e221ee8694e7b530ddae3"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 300,
+      "_id": {
+        "$oid": "687f89a6c2d31dade5c466a6"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 500,
+      "_id": {
+        "$oid": "6885fe48149ae69ee22ee6e0"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 7000,
+      "_id": {
+        "$oid": "6885fe48149ae69ee22ee6e1"
+      }
+    },
+    {
+      "label": "Full Day (8 hours)",
+      "price": 1500,
+      "_id": {
+        "$oid": "6885fe48149ae69ee22ee6e2"
+      }
+    }
+  ],
+  "discount": 0,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753611809850_labour.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Labour",
+    "Man",
+    "Labour Man"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-22T12:52:54.854Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:40.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6882224c7152a9777dee5b26"
+  },
+  "name": "Plumbing",
+  "description": "Our Plumber at Home service provides fast, reliable, and efficient plumbing solutions right at your doorstep. Whether you're dealing with a minor leak or a major plumbing issue, our expert plumbers are here to ensure your home's plumbing is functioning perfectly and your problems are fixed promptly.",
+  "category": {
+    "$oid": "687d69618ebc8188a88d17ba"
+  },
+  "sub_category": {
+    "$oid": "687e2101e8694e7b530dda99"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1000,
+      "_id": {
+        "$oid": "6882224c7152a9777dee5b27"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 1800,
+      "_id": {
+        "$oid": "688226f77152a9777dee5beb"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 2700,
+      "_id": {
+        "$oid": "688226f77152a9777dee5bec"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753360068491_111.webp",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Plumber",
+    "Plum"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-24T12:08:44.279Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:41.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68860901149ae69ee22ee919"
+  },
+  "name": "Accounts Officer",
+  "description": "The Accounts Officer is responsible for managing and maintaining financial records, ensuring accuracy in bookkeeping, and supporting the financial operations of the organization. This role involves handling day-to-day accounting tasks, preparing financial reports, and ensuring compliance with financial regulations and internal policies.",
+  "category": {
+    "$oid": "687d6a4c8ebc8188a88d17c1"
+  },
+  "sub_category": {
+    "$oid": "687e1fcde8694e7b530dda5d"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "Maintain accurate financial records and ledgers (80 to 100 invoices)",
+      "price": 2000,
+      "_id": {
+        "$oid": "68860901149ae69ee22ee91a"
+      }
+    },
+    {
+      "label": "Process invoices, receipts, payments, and payroll (80 to 100 invoices)",
+      "price": 2500,
+      "_id": {
+        "$oid": "68860901149ae69ee22ee91b"
+      }
+    },
+    {
+      "label": "Manage accounts of payable and receivable bills (80 to 100 invoices)",
+      "price": 3000,
+      "_id": {
+        "$oid": "68860901149ae69ee22ee91c"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753614553458_Accountant1.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Accounts Officer",
+    "Accounts",
+    "Officer"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-27T11:09:53.635Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:43.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69047a6c3e1eb6a065eae081"
+  },
+  "name": "Influencer Marketing",
+  "description": "Connect your brand with the right influencers to reach authentic audiences and drive engagement. We handle influencer selection, campaign strategy, collaboration management, and performance tracking — ensuring your brand message reaches the perfect audience effectively.",
+  "category": {
+    "$oid": "687d6b078ebc8188a88d17cd"
+  },
+  "sub_category": {
+    "$oid": "687e1e38df35c968174fc116"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "Per Campaign",
+      "price": 40000,
+      "_id": {
+        "$oid": "69047a6c3e1eb6a065eae082"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "online",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761906512076_influencer-posting-social-media_23-2149194122.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-31T08:59:24.857Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-05T08:58:48.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f9832f59fac485bfbb07d8"
+  },
+  "name": "Room Cupboards Deep Cleaning",
+  "category": {
+    "$oid": "67f97364103a5fb7594bed5e"
+  },
+  "sub_category": {
+    "$oid": "67f974e8f58b36088376f3ae"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "1 bedroom studio apartment",
+      "price": 1000,
+      "_id": {
+        "$oid": "67f9832f59fac485bfbb07d9"
+      }
+    },
+    {
+      "label": "2 bedrooms apartment",
+      "price": 1800,
+      "_id": {
+        "$oid": "67f9832f59fac485bfbb07da"
+      }
+    },
+    {
+      "label": "3 bedrooms apartment",
+      "price": 2500,
+      "_id": {
+        "$oid": "67f9832f59fac485bfbb07db"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Cupboard-Deep-cleaning.png",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Cupboard Deep Cleaning",
+    "Deep Cleaning",
+    "Cupboard",
+    "Cleaning"
+  ],
+  "addons": [
+    {
+      "$oid": "67fb892834aba27fd2b8528d"
+    },
+    {
+      "$oid": "68041c488dab3c312787dbe0"
+    },
+    {
+      "$oid": "68041c9f8dab3c312787dd24"
+    },
+    {
+      "$oid": "68041cf3e79ec0e2c589a44a"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-11T21:01:35.132Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T22:23:41.130Z"
+  },
+  "__v": 0,
+  "description": "Our Cupboard Deep Cleaning Service is designed to refresh and sanitize your kitchen, bedroom, or storage cupboards from the inside out. We go beyond surface cleaning to remove dust, grease, spills, and hidden grime leaving your cupboards spotless, fresh-smelling, and well-organized.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "6903378c347d637260eea8ea"
+  },
+  "name": "Plumbing",
+  "description": "We provide reliable plumbing services for homes, offices, and commercial spaces, including pipe installation, leakage repair, drainage maintenance, and fixture replacement. Our skilled plumbers ensure efficient, safe, and long-lasting solutions for all water and sanitation systems.",
+  "category": {
+    "$oid": "687d67b58ebc8188a88d17ae"
+  },
+  "sub_category": {
+    "$oid": "687e221ee8694e7b530ddae3"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1000,
+      "_id": {
+        "$oid": "6903378c347d637260eea8eb"
+      }
+    },
+    {
+      "label": "2 Hour ",
+      "price": 2000,
+      "_id": {
+        "$oid": "6903378c347d637260eea8ec"
+      }
+    },
+    {
+      "label": "3 Hour",
+      "price": 2900,
+      "_id": {
+        "$oid": "6903378c347d637260eea8ed"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761818488321_Plumber-Sink-201709-003.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-30T10:01:48.455Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-05T10:30:16.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68015cf26a2ecde0c3652d2a"
+  },
+  "name": "Car Wash & Detailing",
+  "description": "We go beyond the basic wash to bring your vehicle back to life — inside and out. Our professional car wash and detailing services are designed to protect your investment, enhance appearance, and deliver that fresh-off-the-lot feel every time.",
+  "category": {
+    "$oid": "67cf52d6e2ec73d39cb51886"
+  },
+  "sub_category": {
+    "$oid": "67cf53654b8a6342eec0d54b"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Small Vehicle (Up to 1000cc)",
+      "price": 600,
+      "_id": {
+        "$oid": "68015cf26a2ecde0c3652d2b"
+      }
+    },
+    {
+      "label": "Medium Vehicle (1001cc – 2000cc)",
+      "price": 900,
+      "_id": {
+        "$oid": "68015cf26a2ecde0c3652d2c"
+      }
+    },
+    {
+      "label": "Large Vehicle (2001cc and above)",
+      "price": 1500,
+      "_id": {
+        "$oid": "68015cf26a2ecde0c3652d2d"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/9de7b8_92d280ead7d0443eb4e10adfc4d0a484~mv2.avif",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Car Wash & Detailing",
+    "Car Wash",
+    "Wash",
+    "Car"
+  ],
+  "addons": [
+    {
+      "$oid": "6804303a7f685d2fc8353aa4"
+    },
+    {
+      "$oid": "680431777f685d2fc8353bf2"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-17T19:56:34.226Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T21:57:06.471Z"
+  },
+  "__v": 0,
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "67f99fe41a2897177b8f885e"
+  },
+  "name": "Hair Studio",
+  "category": {
+    "$oid": "67f99ce756d9a2234c7068cf"
+  },
+  "sub_category": {
+    "$oid": "67f99dbc56d9a2234c7069a1"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Hair Cut & Style ",
+      "price": 1500,
+      "_id": {
+        "$oid": "67f99fe41a2897177b8f885f"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/premium_photo-1661963320607-aebac6fcb40d.jpeg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Hair Studio",
+    "Hair",
+    "Studio"
+  ],
+  "addons": [
+    {
+      "$oid": "67fab8c17965c0af2320ae0f"
+    },
+    {
+      "$oid": "6800c2e893ed7bc479f3553c"
+    },
+    {
+      "$oid": "680410b269a3f7bd274f71fb"
+    },
+    {
+      "$oid": "6804114469a3f7bd274f7362"
+    },
+    {
+      "$oid": "680411dab4f9ba6fb2972c24"
+    }
+  ],
+  "service_count": 2,
+  "created_at": {
+    "$date": "2025-04-11T23:04:04.618Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-24T12:24:25.020Z"
+  },
+  "__v": 0,
+  "description": "Bring the salon experience to your doorstep with our Hair Studio at Home service. Whether you need a quick trim, a bold new look, or a relaxing hair spa, our professional stylists come fully equipped to deliver high-quality hair care in the comfort and privacy of your own home.",
+  "service_type": "customer_based"
+},
+{
+  "_id": {
+    "$oid": "6821cd950db4431cc502027b"
+  },
+  "name": "Personal Bodyguard",
+  "description": "A personal bodyguard is a highly trained security professional responsible for ensuring the safety and well-being of an individual or group, often high-profile clients such as celebrities, executives, or politicians. Their duties include close protection, threat assessment, secure transportation, crowd control, and emergency response.",
+  "category": {
+    "$oid": "67ce9ab3cbe14f6f1b26aa33"
+  },
+  "sub_category": {
+    "$oid": "6808bb91a023959aab9ce666"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1500,
+      "_id": {
+        "$oid": "6821cd950db4431cc502027d"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 2800,
+      "_id": {
+        "$oid": "6821cd950db4431cc502027e"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 4300,
+      "_id": {
+        "$oid": "6821cd950db4431cc502027f"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 5800,
+      "_id": {
+        "$oid": "6821cd950db4431cc5020280"
+      }
+    },
+    {
+      "label": "Full Day - 8 hours",
+      "price": 9000,
+      "_id": {
+        "$oid": "6821cd950db4431cc5020281"
+      }
+    }
+  ],
+  "discount": 0,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/image3.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "guard",
+    "personal",
+    "Personal Bodyguard",
+    "Bodyguard",
+    "Body"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-05-12T10:29:41.907Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-02T21:12:46.207Z"
+  },
+  "__v": 0,
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "688221ef7152a9777dee5afd"
+  },
+  "name": "Electrician",
+  "description": "Stay safe and powered up with our trusted Electrician at Home service. Whether it's a quick fix, new installation, or a complete wiring upgrade, our licensed electricians provide expert solutions for all your home electrical needs right at your doorstep.",
+  "category": {
+    "$oid": "687d69618ebc8188a88d17ba"
+  },
+  "sub_category": {
+    "$oid": "687e2101e8694e7b530dda99"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1500,
+      "_id": {
+        "$oid": "688221ef7152a9777dee5afe"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 2800,
+      "_id": {
+        "$oid": "68834fe25040f4541e887ae9"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 4200,
+      "_id": {
+        "$oid": "68834fe25040f4541e887aea"
+      }
+    }
+  ],
+  "discount": 0,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753436084962_benefits-of-becoming-an-electrician.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Electrician",
+    "Elect",
+    "Electric"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-24T12:07:11.780Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:41.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687cd5279fd8192b4a091011"
+  },
+  "name": "PHP Developer",
+  "description": "We provide expert PHP development services to build dynamic, secure, and high-performance web applications tailored to your business needs. With in-depth knowledge of both core PHP and popular frameworks, our developers deliver scalable, maintainable, and future-ready solutions.",
+  "category": {
+    "$oid": "687d66763a6088c2f11afb3b"
+  },
+  "sub_category": {
+    "$oid": "687cd4af9fd8192b4a090fff"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "Full Day (8 hours)",
+      "price": 3500,
+      "_id": {
+        "$oid": "687cd5279fd8192b4a091012"
+      }
+    }
+  ],
+  "discount": 0,
+  "status": "active",
+  "visit_type": "online",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753011478604_54b19ada-d53e-4ee9-8882-9dfed1bf1396.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "PHP Developer",
+    "PHP",
+    "Developer"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-20T11:38:15.633Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:39.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ceb35389211f44fcc1d100"
+  },
+  "name": "Doctor",
+  "category": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "sub_category": {
+    "$oid": "67ceb2e192e6abe5f0b41b51"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "price": 5000,
+  "discount": 0,
+  "duration": 1,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Medical-doctors-and-nurse-practitioners-discuss-paperwork-in-a-hallway.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": 0,
+  "keywords": [
+    "Doc",
+    "Doctor",
+    "medical"
+  ],
+  "created_at": {
+    "$date": "2025-03-10T09:39:31.625Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-05T09:34:38.132Z"
+  },
+  "__v": 0,
+  "prices": [
+    {
+      "label": "General health assessments & routine check-up",
+      "price": 2500,
+      "_id": {
+        "$oid": "67fe2fd8f47eaf47cd6a8249"
+      }
+    },
+    {
+      "label": "Diagnosis of illnesses and infections",
+      "price": 3000,
+      "_id": {
+        "$oid": "6800dd8fb9543519d03f736d"
+      }
+    },
+    {
+      "label": "Chronic disease management (e.g., diabetes, high blood pressure, asthma)",
+      "price": 3000,
+      "_id": {
+        "$oid": "6800dd8fb9543519d03f736e"
+      }
+    }
+  ],
+  "addons": [
+    {
+      "$oid": "67fe310ff47eaf47cd6a84dc"
+    },
+    {
+      "$oid": "68044054909a4ca7fc059761"
+    },
+    {
+      "$oid": "680440f9434bc7e1e2ec8762"
+    },
+    {
+      "$oid": "6804424e434bc7e1e2ec8c43"
+    },
+    {
+      "$oid": "683d706b4e1f39133f5daa7d"
+    },
+    {
+      "$oid": "684164ad157aee5ec61ad685"
+    }
+  ],
+  "description": "Our Doctor at Home Service brings quality medical care to your doorstep — offering convenience, comfort, and professional attention right where you need it most. Whether you're managing a chronic condition, recovering from illness, or simply need a consultation without the hassle of travel, our licensed and experienced doctors are here to help."
+},
+{
+  "_id": {
+    "$oid": "690467da889a107eadeb26fe"
+  },
+  "name": "Technical & Research Writing",
+  "description": "Delivering high-quality documentation, research papers, case studies, and business proposals designed to meet academic and professional requirements. Whether you need a technical manual or a formal research summary, our team ensures clarity, precision, and credibility in every word.",
+  "category": {
+    "$oid": "687d67e58ebc8188a88d17b3"
+  },
+  "sub_category": {
+    "$oid": "687e236be84a0a6632c202b8"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "1 Hour",
+      "price": 900,
+      "_id": {
+        "$oid": "690467da889a107eadeb26ff"
+      }
+    },
+    {
+      "label": "2 Hour",
+      "price": 1750,
+      "_id": {
+        "$oid": "690467da889a107eadeb2700"
+      }
+    },
+    {
+      "label": "3 Hour",
+      "price": 2500,
+      "_id": {
+        "$oid": "690467da889a107eadeb2701"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "online",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761896404139_AVL3GGlV.png",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-31T07:40:10.618Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-05T11:47:57.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886003f7680a9f6db2c0b0f"
+  },
+  "name": "Android Developer",
+  "description": "We offer expert Android app development services to create intuitive, scalable, and high-performance mobile applications for smartphones, tablets, and wearable devices. With a strong command of Android SDK and modern development practices, our Android developers build apps that deliver great user experiences and meet your business goals.",
+  "category": {
+    "$oid": "687d66763a6088c2f11afb3b"
+  },
+  "sub_category": {
+    "$oid": "687cd4af9fd8192b4a090fff"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "Full Day (8 hours)",
+      "price": 3000,
+      "_id": {
+        "$oid": "6886003f7680a9f6db2c0b10"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "online",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753612318336_Android_Developer_Working_on_App_924c148919.webp",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Android Developer",
+    "Android",
+    "Developer"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-27T10:32:31.750Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:42.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687f8c415d6e92ae65a2554a"
+  },
+  "name": "Video & Motion Graphics",
+  "description": "Bring your ideas to life with dynamic video and motion graphics that captivate, inform, and inspire. Our service combines creative storytelling with high-quality animation and video production to deliver compelling content that elevates your brand, product, or message.",
+  "category": {
+    "$oid": "687d67e58ebc8188a88d17b3"
+  },
+  "sub_category": {
+    "$oid": "687e236be84a0a6632c202b8"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "Basic (Animated logos and intros)",
+      "price": 2500,
+      "_id": {
+        "$oid": "687f8c415d6e92ae65a2554b"
+      }
+    },
+    {
+      "label": "Premium (Social media motion graphics)",
+      "price": 4000,
+      "_id": {
+        "$oid": "688601f8149ae69ee22ee70a"
+      }
+    },
+    {
+      "label": "Premium + (Promotional and event videos)",
+      "price": 6000,
+      "_id": {
+        "$oid": "688601f8149ae69ee22ee70b"
+      }
+    }
+  ],
+  "discount": 0,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753612749335_do-video-editing-and-motion-graphics.png",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Video & Motion Graphics",
+    "Video",
+    "Motion",
+    "Graphics"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-22T13:04:01.413Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:41.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6887407a6d2cc6ed6f3c1a7e"
+  },
+  "name": "Vaccination",
+  "description": "Human vaccination services provide immunization to protect individuals and communities against infectious diseases. These services are offered by healthcare professionals in clinics, hospitals, public health centers, and mobile units.",
+  "category": {
+    "$oid": "687d6ac88ebc8188a88d17c8"
+  },
+  "sub_category": {
+    "$oid": "687e1a7ce8694e7b530dda12"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "Childhood vaccines (e.g., MMR, polio, DTP)",
+      "price": 1500,
+      "_id": {
+        "$oid": "6887407a6d2cc6ed6f3c1a7f"
+      }
+    },
+    {
+      "label": "Seasonal Influenza",
+      "price": 2000,
+      "_id": {
+        "$oid": "6887407a6d2cc6ed6f3c1a80"
+      }
+    },
+    {
+      "label": "HPV (Human Papillomavirus)",
+      "price": 2500,
+      "_id": {
+        "$oid": "6887407a6d2cc6ed6f3c1a81"
+      }
+    },
+    {
+      "label": "Hepatitis A and B",
+      "price": 3500,
+      "_id": {
+        "$oid": "6887407a6d2cc6ed6f3c1a82"
+      }
+    },
+    {
+      "label": "Travel-related vaccines (e.g., yellow fever, typhoid)",
+      "price": 2999,
+      "_id": {
+        "$oid": "6887407a6d2cc6ed6f3c1a83"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753694295805_Caltech-Corona-Virus-Syringe.2e16d0ba.fill-933x525-c100.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Vaccination",
+    "Vaccine"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-28T09:18:50.259Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:44.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f9a3821a2897177b8f8b2d"
+  },
+  "name": "Waxing Services",
+  "category": {
+    "$oid": "67f99ce756d9a2234c7068cf"
+  },
+  "sub_category": {
+    "$oid": "67f99dbc56d9a2234c7069a1"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Full Arms & Legs Waxing",
+      "price": 3000,
+      "_id": {
+        "$oid": "68001e211a6729f0fc99f2e7"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/shutterstock_627681851-1-1024x683.webp",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Waxing Services",
+    "Wax",
+    "Service"
+  ],
+  "addons": [
+    {
+      "$oid": "67fabcc97965c0af2320b250"
+    },
+    {
+      "$oid": "68041379c89866ab2a8fdb65"
+    },
+    {
+      "$oid": "680413f6c89866ab2a8fdcb1"
+    },
+    {
+      "$oid": "6804146fb4f9ba6fb2973452"
+    }
+  ],
+  "service_count": 1,
+  "created_at": {
+    "$date": "2025-04-11T23:19:30.105Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-31T19:37:28.831Z"
+  },
+  "__v": 0,
+  "description": "Experience smooth, flawless skin with our Waxing at Home service. Our licensed and skilled estheticians bring the salon to you, offering a comfortable, hygienic, and convenient waxing experience right in the privacy of your home.",
+  "service_type": "customer_based"
+},
+{
+  "_id": {
+    "$oid": "69049c88027be544c697ac6e"
+  },
+  "name": "Nutrition & Diet Consultation",
+  "description": "Personalized nutrition and diet consultation designed to help you achieve your health and fitness goals. Our certified dietitians create customized meal plans, assess your nutritional needs, and guide you toward a balanced, sustainable lifestyle — whether your goal is weight loss, fitness, or overall wellness.",
+  "category": {
+    "$oid": "687d6ac88ebc8188a88d17c8"
+  },
+  "sub_category": {
+    "$oid": "687e1a7ce8694e7b530dda12"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "Per Session",
+      "price": 5000,
+      "_id": {
+        "$oid": "69049c88027be544c697ac6f"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "online",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761909889062_nutrition-counseling-pqtttlwwh9nzkd7ppvtk0l0tfpnn3puiwlqyi77n5s.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-31T11:24:56.384Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-05T07:52:53.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690469c5292a915bccd97163"
+  },
+  "name": "Self-Care & Glow Session",
+  "description": "A rejuvenating session designed to refresh your skin, relax your mind, and uplift your spirit. This package includes gentle skincare treatments, relaxation therapy, and wellness techniques to help you restore your natural glow — inside and out.",
+  "category": {
+    "$oid": "687d6baa8ebc8188a88d17d2"
+  },
+  "sub_category": {
+    "$oid": "687e1aa8df35c968174fc0b7"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "Per Session",
+      "price": 12000,
+      "_id": {
+        "$oid": "690469c5292a915bccd97164"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761896894618_BLOG-IMAGES-3.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-31T07:48:21.583Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-05T10:43:34.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687f83a8a063e72d919bdabd"
+  },
+  "name": "Hair Studio",
+  "description": "Bring the salon experience to your doorstep with our Hair Studio at Home service. Whether you need a quick trim, a bold new look, or a relaxing hair spa, our professional stylists come fully equipped to deliver high-quality hair care in the comfort and privacy of your own home.",
+  "category": {
+    "$oid": "687d6baa8ebc8188a88d17d2"
+  },
+  "sub_category": {
+    "$oid": "687e1aa8df35c968174fc0b7"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "Haircut & Styling ",
+      "price": 2000,
+      "_id": {
+        "$oid": "687f83a8a063e72d919bdabe"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753187229200_1.webp",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Hair Studio",
+    "Hair",
+    "Studio"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-22T12:27:20.012Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:40.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f9c7c58254e972026b4359"
+  },
+  "name": "Handyman",
+  "category": {
+    "$oid": "67f9c16f285fbf7f23b1cc56"
+  },
+  "sub_category": {
+    "$oid": "67f9c3fc8254e972026b4213"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1200,
+      "_id": {
+        "$oid": "67f9c7c58254e972026b435a"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 2200,
+      "_id": {
+        "$oid": "67f9c7c58254e972026b435b"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 3200,
+      "_id": {
+        "$oid": "67f9c7c58254e972026b435c"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 4200,
+      "_id": {
+        "$oid": "67f9c7c58254e972026b435d"
+      }
+    },
+    {
+      "label": "Full day (8 hours)",
+      "price": 7000,
+      "_id": {
+        "$oid": "6802d330dd2eaaa515c1dc88"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/bricklayer-holding-construction-tools-picture-id901089886.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Handyman",
+    "Handy",
+    "Hand",
+    "man"
+  ],
+  "addons": [
+    {
+      "$oid": "67fa599d61b931dd4c07850b"
+    },
+    {
+      "$oid": "68040dc169a3f7bd274f6bd3"
+    },
+    {
+      "$oid": "68040df369a3f7bd274f6d19"
+    },
+    {
+      "$oid": "68040e2269a3f7bd274f6e5f"
+    },
+    {
+      "$oid": "68556051a0cb92238b9ce912"
+    },
+    {
+      "$oid": "685a8bcb908efb374fdd4643"
+    },
+    {
+      "$oid": "6878ed3fba6fcad1bd0849ee"
+    }
+  ],
+  "service_count": 1,
+  "created_at": {
+    "$date": "2025-04-12T01:54:13.904Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-31T19:50:42.264Z"
+  },
+  "__v": 0,
+  "description": "Our Handyman at Home service provides skilled and reliable professionals to tackle all your household maintenance needs. From small fixes to larger projects, we offer efficient, high-quality solutions that save you time and stress.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "69049bb7027be544c697aab4"
+  },
+  "name": "SEO Content Writing",
+  "description": "Professional SEO content writing services designed to improve your website’s search rankings and attract organic traffic. We create keyword-rich, high-quality blogs, articles, and web copy optimized for both search engines and human readers — helping your brand grow visibility and authority.",
+  "category": {
+    "$oid": "687d6b078ebc8188a88d17cd"
+  },
+  "sub_category": {
+    "$oid": "687e1e38df35c968174fc116"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "1 Hour",
+      "price": 1500,
+      "_id": {
+        "$oid": "69049bb7027be544c697aab5"
+      }
+    },
+    {
+      "label": "2 Hour",
+      "price": 3000,
+      "_id": {
+        "$oid": "69049bb7027be544c697aab6"
+      }
+    },
+    {
+      "label": "3 Hour",
+      "price": 4300,
+      "_id": {
+        "$oid": "69049bb7027be544c697aab7"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "online",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761909677394_seo-content-writing.png",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-31T11:21:27.124Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-05T08:08:34.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6800fad035433253f78147a9"
+  },
+  "name": "Fitness Trainer",
+  "category": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "sub_category": {
+    "$oid": "67ceb2e192e6abe5f0b41b51"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Cardio Training (45 min to 1 hour)",
+      "price": 1000,
+      "_id": {
+        "$oid": "6800fad035433253f78147aa"
+      }
+    },
+    {
+      "label": "Cardio & Strength Training (45 min to 1 hour)",
+      "price": 1200,
+      "_id": {
+        "$oid": "6800fad035433253f78147ac"
+      }
+    },
+    {
+      "label": "Yoga Training (45 min to 1 hour)",
+      "price": 1000,
+      "_id": {
+        "$oid": "6800fad035433253f78147ae"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/coach-helping-man-exercise-with-abs-roller-gym_475667-104.avif",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Fitness Trainer",
+    "Fitness",
+    "Trainer",
+    "Fit"
+  ],
+  "addons": [
+    {
+      "$oid": "6802e6a46ce1171b4cbd7dd7"
+    },
+    {
+      "$oid": "6802e7166ce1171b4cbd81e8"
+    },
+    {
+      "$oid": "6802e7456ce1171b4cbd81ff"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-17T12:57:52.691Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-28T09:35:03.026Z"
+  },
+  "__v": 0,
+  "description": "Achieve your fitness goals with the convenience and comfort of personalized workouts in your own space. Our At-Home Fitness Trainer Service offers one-on-one coaching tailored to your body, your goals, and your schedule no gym required."
+},
+{
+  "_id": {
+    "$oid": "67f9a2141a2897177b8f8ab7"
+  },
+  "name": "Facial Services",
+  "category": {
+    "$oid": "67f99ce756d9a2234c7068cf"
+  },
+  "sub_category": {
+    "$oid": "67f99dbc56d9a2234c7069a1"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Hydra Facial ",
+      "price": 6500,
+      "_id": {
+        "$oid": "68001ce36a8939b926d7e8c8"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Facial-Treatments-in-Islamabad-Rawalpindi-and-Pakistan.webp",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Facial Services",
+    "Fac",
+    "Facial",
+    "Service"
+  ],
+  "addons": [
+    {
+      "$oid": "67faba7b7965c0af2320afb7"
+    },
+    {
+      "$oid": "6804124fb4f9ba6fb2972efb"
+    },
+    {
+      "$oid": "680412a2b4f9ba6fb2973047"
+    },
+    {
+      "$oid": "680412e6b4f9ba6fb2973191"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-11T23:13:24.851Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-10T10:27:31.377Z"
+  },
+  "__v": 0,
+  "description": "Indulge in a relaxing, rejuvenating facial treatment without leaving your home with our Facials at Home service. Our expert estheticians bring a spa-like experience to your doorstep, providing personalized treatments that cater to your skin’s needs, ensuring you feel refreshed and glowing.",
+  "service_type": "customer_based"
+},
+{
+  "_id": {
+    "$oid": "67f9cac78482793cad6f2110"
+  },
+  "name": "Electrician",
+  "category": {
+    "$oid": "67f9c16f285fbf7f23b1cc56"
+  },
+  "sub_category": {
+    "$oid": "67f9c3fc8254e972026b4213"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1400,
+      "_id": {
+        "$oid": "67f9cac78482793cad6f2111"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 2700,
+      "_id": {
+        "$oid": "67f9cac78482793cad6f2112"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 3800,
+      "_id": {
+        "$oid": "67f9cac78482793cad6f2113"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 4900,
+      "_id": {
+        "$oid": "67f9cac78482793cad6f2114"
+      }
+    },
+    {
+      "label": "Full day (8 hours)",
+      "price": 7000,
+      "_id": {
+        "$oid": "6802d447dd2eaaa515c1dedb"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/10-Specializations-Comm-Electricians.jpeg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Elec",
+    "Electric",
+    "Electrician"
+  ],
+  "addons": [
+    {
+      "$oid": "67fa5d0f2425c8078098bf69"
+    },
+    {
+      "$oid": "68040fa8b4f9ba6fb29727f6"
+    },
+    {
+      "$oid": "68040fd3b4f9ba6fb297293c"
+    },
+    {
+      "$oid": "6804100bb4f9ba6fb2972a82"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-12T02:07:03.593Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-25T09:35:46.943Z"
+  },
+  "__v": 0,
+  "description": "Stay safe and powered up with our trusted Electrician at Home service. Whether it’s a quick fix, new installation, or a complete wiring upgrade, our licensed electricians provide expert solutions for all your home electrical needs right at your doorstep.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "6800e23cb9543519d03f783d"
+  },
+  "name": "Physiotherapist",
+  "category": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "sub_category": {
+    "$oid": "67ceb2e192e6abe5f0b41b51"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Comprehensive physical assessments",
+      "price": 1500,
+      "_id": {
+        "$oid": "6800e23cb9543519d03f783e"
+      }
+    },
+    {
+      "label": "Manual therapy and joint mobilization",
+      "price": 2200,
+      "_id": {
+        "$oid": "6800e23cb9543519d03f783f"
+      }
+    },
+    {
+      "label": "Posture and giant training",
+      "price": 2500,
+      "_id": {
+        "$oid": "6800e23cb9543519d03f7840"
+      }
+    },
+    {
+      "label": "Home exercise planning program",
+      "price": 3000,
+      "_id": {
+        "$oid": "6800e23cb9543519d03f7841"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Psyotherapist in Canada_1716809844.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Physiotherapist",
+    "Physio",
+    "therapist",
+    "Phy"
+  ],
+  "addons": [
+    {
+      "$oid": "6802e7bea8f0272ceb063767"
+    },
+    {
+      "$oid": "6802e86aa8f0272ceb0638b0"
+    },
+    {
+      "$oid": "6802e9516ce1171b4cbd85fe"
+    }
+  ],
+  "service_count": 2,
+  "created_at": {
+    "$date": "2025-04-17T11:13:00.904Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-27T10:58:44.095Z"
+  },
+  "__v": 0,
+  "description": "Our Physiotherapy at Home service brings expert physical rehabilitation and pain relief directly to your doorstep. Whether you're recovering from surgery, managing a chronic condition, or looking to improve mobility and strength, our licensed physiotherapists provide personalized, one-on-one care in the comfort of your home."
+},
+{
+  "_id": {
+    "$oid": "67f9c95b8254e972026b4453"
+  },
+  "name": "Plumber",
+  "category": {
+    "$oid": "67f9c16f285fbf7f23b1cc56"
+  },
+  "sub_category": {
+    "$oid": "67f9c3fc8254e972026b4213"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1000,
+      "_id": {
+        "$oid": "67f9c95b8254e972026b4454"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 1800,
+      "_id": {
+        "$oid": "67f9c95b8254e972026b4455"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 2700,
+      "_id": {
+        "$oid": "67f9c95b8254e972026b4456"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 3700,
+      "_id": {
+        "$oid": "67f9c95b8254e972026b4457"
+      }
+    },
+    {
+      "label": "Full Day (8 hours)",
+      "price": 6500,
+      "_id": {
+        "$oid": "6802d3b615003a5127a943b8"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/When-To-Call-a-Plumber.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Plumber",
+    "Plum"
+  ],
+  "addons": [
+    {
+      "$oid": "67fa5fd22425c8078098bfce"
+    },
+    {
+      "$oid": "68040e9ae7c3d57903821a14"
+    },
+    {
+      "$oid": "68040ed6e7c3d57903821b5a"
+    },
+    {
+      "$oid": "68040f03e7c3d57903821c9e"
+    },
+    {
+      "$oid": "68040f54e7c3d57903821de6"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-12T02:00:59.600Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-24T12:29:49.364Z"
+  },
+  "__v": 0,
+  "description": "Our Plumber at Home service provides fast, reliable, and efficient plumbing solutions right at your doorstep. Whether you're dealing with a minor leak or a major plumbing issue, our expert plumbers are here to ensure your home’s plumbing is functioning perfectly and your problems are fixed promptly.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "687f8407a063e72d919bdad3"
+  },
+  "name": "Scene & Style Studio",
+  "description": "At Scene & Style Studio, we craft compelling visual content that blends cinematic storytelling with stunning design. Specializing in video production, motion graphics, and branded visuals, we help brands, creators, and businesses stand out in a crowded digital world.",
+  "category": {
+    "$oid": "687d67e58ebc8188a88d17b3"
+  },
+  "sub_category": {
+    "$oid": "687e236be84a0a6632c202b8"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "Basic (Video Production & Editing)",
+      "price": 2000,
+      "_id": {
+        "$oid": "687f8407a063e72d919bdad4"
+      }
+    },
+    {
+      "label": "Basic (Motion Graphics & Animation)",
+      "price": 3000,
+      "_id": {
+        "$oid": "688603476b07323e56804028"
+      }
+    },
+    {
+      "label": "Basic (Visual Design for Digital Platforms)",
+      "price": 4000,
+      "_id": {
+        "$oid": "688603476b07323e56804029"
+      }
+    }
+  ],
+  "discount": 0,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753613116622_RlDFoF2RcAQhGOUJsyDpVzPVKS5gHYph.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Scene & Style Studio",
+    "Scene",
+    "Studio",
+    "Style"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-22T12:28:55.534Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:40.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf4a2370a6500bc9fff46b"
+  },
+  "name": "Personal Driver",
+  "category": {
+    "$oid": "67cf484b944244fc3202adaf"
+  },
+  "sub_category": {
+    "$oid": "67cf48f38ec6e7be07c4b465"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "price": 1500,
+  "discount": 0,
+  "duration": 1,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/professional-chauffeur-from-staffing-at-tiffanies.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": 0,
+  "keywords": [
+    "Personal",
+    "Driver",
+    "Personal Driver"
+  ],
+  "created_at": {
+    "$date": "2025-03-10T20:22:59.575Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T21:42:39.325Z"
+  },
+  "__v": 0,
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1000,
+      "_id": {
+        "$oid": "67e10feb468c9b54ba301fdb"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 1800,
+      "_id": {
+        "$oid": "67f9cf9b4d7ae52a5bed98c5"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 2600,
+      "_id": {
+        "$oid": "67f9cf9b4d7ae52a5bed98c6"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 3500,
+      "_id": {
+        "$oid": "67f9cf9b4d7ae52a5bed98c7"
+      }
+    },
+    {
+      "label": "Full Day (8 hours)",
+      "price": 5500,
+      "_id": {
+        "$oid": "6800fd4cf91c58254cb2cbab"
+      }
+    }
+  ],
+  "description": "Experience the convenience, comfort, and class of having your own Personal Driver. Whether it's for daily commuting, business meetings, special occasions, or airport transfers, our professional chauffeurs provide a smooth and stress-free travel experience tailored to your needs.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "67f9775bf58b36088376f522"
+  },
+  "name": "Kitchen Cleaning",
+  "category": {
+    "$oid": "67f97364103a5fb7594bed5e"
+  },
+  "sub_category": {
+    "$oid": "67f974e8f58b36088376f3ae"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Deep cleaning of kitchen countertops and surfaces ",
+      "price": 1200,
+      "_id": {
+        "$oid": "67f9775bf58b36088376f523"
+      }
+    },
+    {
+      "label": "Cleaning and sanitization of kitchen sink and fixtures ",
+      "price": 1800,
+      "_id": {
+        "$oid": "67f97a7059fac485bfbb03b9"
+      }
+    },
+    {
+      "label": "Deep cleaning of kitchen cabinets and drawers ",
+      "price": 2500,
+      "_id": {
+        "$oid": "680019122f75a4fe51ac41c3"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/kitchen.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": 0,
+  "keywords": [
+    "Kitchen",
+    "Cleaning",
+    "Kitchen Cleaning"
+  ],
+  "addons": [
+    {
+      "$oid": "67fb83d4056b8960dc7deb6b"
+    },
+    {
+      "$oid": "680418a1e79ec0e2c5899ffe"
+    },
+    {
+      "$oid": "6804194ce79ec0e2c589a14a"
+    },
+    {
+      "$oid": "68041994e79ec0e2c589a292"
+    },
+    {
+      "$oid": "68303e2ba9879ce8c23ce58c"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-11T20:11:07.792Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-29T11:14:12.112Z"
+  },
+  "__v": 0,
+  "description": "Our Kitchen Cleaning Service provides deep, hygienic, and detail-focused cleaning to ensure your cooking space is spotless, safe, and sparkling. Whether it’s a residential kitchen or a commercial one, we tackle grease, grime, and germs so you don’t have to.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "68822d7b9a03dc3344673128"
+  },
+  "name": "Manicure & Pedicure ",
+  "description": "Pamper yourself with salon-quality nails in the comfort of your own home with our Nail Studio at Home service. Our professional nail technicians bring all the tools and expertise needed to give you a flawless manicure and pedicure without you having to leave your doorstep.",
+  "category": {
+    "$oid": "687d6baa8ebc8188a88d17d2"
+  },
+  "sub_category": {
+    "$oid": "687e1aa8df35c968174fc0b7"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "Manicure",
+      "price": 1000,
+      "_id": {
+        "$oid": "68822d7b9a03dc3344673129"
+      }
+    },
+    {
+      "label": "Pedicure",
+      "price": 1500,
+      "_id": {
+        "$oid": "68822d7b9a03dc334467312a"
+      }
+    },
+    {
+      "label": "Manicure & Pedicure ",
+      "price": 2300,
+      "_id": {
+        "$oid": "68822d7b9a03dc334467312b"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753361689708_111.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Manicure & Pedicure",
+    "Manicure",
+    "Pedicure"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-24T12:56:27.346Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:42.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68860564149ae69ee22ee81b"
+  },
+  "name": "Digital Marketing",
+  "description": "Our Digital Marketing services are designed to grow your online presence, increase engagement, and drive real business results. From strategic planning to hands-on execution, we use data-driven methods to connect you with your ideal audience across multiple digital platforms.",
+  "category": {
+    "$oid": "687d6b078ebc8188a88d17cd"
+  },
+  "sub_category": {
+    "$oid": "687e1e38df35c968174fc116"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "Basic (Search Engine Optimization) (SEO)",
+      "price": 2500,
+      "_id": {
+        "$oid": "68860564149ae69ee22ee81c"
+      }
+    },
+    {
+      "label": "Basic (Social Media Marketing) (SMM)",
+      "price": 4500,
+      "_id": {
+        "$oid": "68860564149ae69ee22ee81d"
+      }
+    },
+    {
+      "label": "Analytics & Reporting (In-depth performance tracking and ROI analysis)",
+      "price": 6500,
+      "_id": {
+        "$oid": "68860564149ae69ee22ee81e"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753613645781_digital.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Digital Marketing",
+    "Marketing",
+    "Digital"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-27T10:54:28.830Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:42.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e45d9ebc359f4f2c10c077"
+  },
+  "name": "Holiday Homes All-in One Cleaning Solution",
+  "category": {
+    "$oid": "67ce9bc6cbe14f6f1b26aa56"
+  },
+  "sub_category": {
+    "$oid": "67ceb04292e6abe5f0b41b18"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Basic (1 bedroom studio apartment)",
+      "price": 1500,
+      "_id": {
+        "$oid": "67e45d9ebc359f4f2c10c078"
+      }
+    },
+    {
+      "label": "Premium (2 bedrooms apartment)",
+      "price": 2500,
+      "_id": {
+        "$oid": "67e45d9ebc359f4f2c10c079"
+      }
+    },
+    {
+      "label": "Premium + (3 bedrooms apartment)",
+      "price": 3500,
+      "_id": {
+        "$oid": "67e45d9ebc359f4f2c10c07a"
+      }
+    },
+    {
+      "label": "Luxury (4 bedrooms apartment)",
+      "price": 4500,
+      "_id": {
+        "$oid": "67e467afdb09083196634d0e"
+      }
+    }
+  ],
+  "discount": 0,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/woman-vacuuming-carpet-in-living-room.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": 0,
+  "keywords": [
+    "Cleaning",
+    "Holiday",
+    "Homes Cleaning",
+    "Home"
+  ],
+  "addons": [
+    {
+      "$oid": "67e4600c7bbc5cd9661f2011"
+    },
+    {
+      "$oid": "67e461514ae93964dfa89bf3"
+    },
+    {
+      "$oid": "6802de06087542ce854b9e43"
+    },
+    {
+      "$oid": "6802dfd5087542ce854ba0bb"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-03-26T20:03:42.560Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T21:29:52.808Z"
+  },
+  "__v": 0,
+  "description": "Our All-in-One Cleaning Solution for Holiday Homes is designed to take the stress out of managing short-term rental turnovers. From deep cleaning and disinfection to linen changeovers and restocking essentials, we ensure your property is guest-ready, spotless, and welcoming every time.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "67cf4cb3944244fc3202ade4"
+  },
+  "name": "Cooking",
+  "category": {
+    "$oid": "67cf4bc88a0b1ca5fc548614"
+  },
+  "sub_category": {
+    "$oid": "67cf4bf9af1c811b4b544da5"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "price": 2000,
+  "discount": 0,
+  "duration": 2,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/professional-cook.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": 0,
+  "keywords": [
+    "Cook",
+    "Cooking",
+    "Food"
+  ],
+  "created_at": {
+    "$date": "2025-03-10T20:33:55.206Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-25T11:05:13.345Z"
+  },
+  "__v": 0,
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 2000,
+      "_id": {
+        "$oid": "67e10ffc468c9b54ba302008"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 3800,
+      "_id": {
+        "$oid": "67f9ce47e5e9b4a7b2675024"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 5600,
+      "_id": {
+        "$oid": "67f9ce47e5e9b4a7b2675025"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 7500,
+      "_id": {
+        "$oid": "67f9ce47e5e9b4a7b2675026"
+      }
+    },
+    {
+      "label": "Full day (8 hours)",
+      "price": 11000,
+      "_id": {
+        "$oid": "6802cd0315003a5127a926c4"
+      }
+    }
+  ],
+  "description": "Enjoy the luxury of delicious, home-cooked meals without lifting a finger! Our Cook at Home service brings a skilled personal chef right to your kitchen to prepare fresh, flavorful meals tailored to your tastes, dietary needs, and lifestyle.",
+  "addons": [
+    {
+      "$oid": "680437f2c28f030dfeb65033"
+    },
+    {
+      "$oid": "68043855c28f030dfeb6517f"
+    },
+    {
+      "$oid": "68043896c28f030dfeb652c7"
+    }
+  ],
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "69032981a190abbf49726613"
+  },
+  "name": "Maid",
+  "description": "Maid Online is your trusted platform for booking professional home cleaning services anytime, anywhere. We connect you with experienced, background-checked maids who ensure your home stays spotless and comfortable without the stress of managing cleaning yourself.",
+  "category": {
+    "$oid": "687d69618ebc8188a88d17ba"
+  },
+  "sub_category": {
+    "$oid": "687e2101e8694e7b530dda99"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "1 Hour",
+      "price": 1000,
+      "_id": {
+        "$oid": "69032981a190abbf49726614"
+      }
+    },
+    {
+      "label": "2 Hours",
+      "price": 1800,
+      "_id": {
+        "$oid": "69032981a190abbf49726615"
+      }
+    },
+    {
+      "label": "3 Hours",
+      "price": 2700,
+      "_id": {
+        "$oid": "69032981a190abbf49726616"
+      }
+    },
+    {
+      "label": "4 Hours",
+      "price": 3500,
+      "_id": {
+        "$oid": "69032981a190abbf49726617"
+      }
+    },
+    {
+      "label": "Full Day (8 Hours)",
+      "price": 6500,
+      "_id": {
+        "$oid": "69032981a190abbf49726618"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761814661613_maid-job-description-template-1.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Maid",
+    "service"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-30T09:01:53.738Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-30T09:01:53.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690492dd96d32653552d5852"
+  },
+  "name": "Water Tank Cleaning",
+  "description": "Professional cleaning and disinfection of overhead and underground water tanks to ensure clean and safe water for daily use. Our trained team uses modern tools and eco-friendly solutions to remove dirt, sludge, and bacteria effectively.",
+  "category": {
+    "$oid": "687d69618ebc8188a88d17ba"
+  },
+  "sub_category": {
+    "$oid": "687e2101e8694e7b530dda99"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "1 Hour ",
+      "price": 1000,
+      "_id": {
+        "$oid": "690492dd96d32653552d5853"
+      }
+    },
+    {
+      "label": "2 Hour",
+      "price": 2000,
+      "_id": {
+        "$oid": "690492dd96d32653552d5854"
+      }
+    },
+    {
+      "label": "3 Hour",
+      "price": 2800,
+      "_id": {
+        "$oid": "690492dd96d32653552d5855"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761907404523_Water-Tank-Maintenance-Selva-Group.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-31T10:43:41.682Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-05T08:03:32.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6800bb06f076f7f671960bce"
+  },
+  "name": "Doorman",
+  "category": {
+    "$oid": "67ce9ab3cbe14f6f1b26aa33"
+  },
+  "sub_category": {
+    "$oid": "67ceaaa4eb2f4db96219b1e1"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "prices": [
+    {
+      "label": "1 Hour",
+      "price": 1200,
+      "_id": {
+        "$oid": "6800bb06f076f7f671960bcf"
+      }
+    },
+    {
+      "label": "2 Hours",
+      "price": 2000,
+      "_id": {
+        "$oid": "6800bb06f076f7f671960bd0"
+      }
+    },
+    {
+      "label": "3 Hours",
+      "price": 3000,
+      "_id": {
+        "$oid": "6800bb06f076f7f671960bd1"
+      }
+    },
+    {
+      "label": "4 Hours",
+      "price": 3900,
+      "_id": {
+        "$oid": "6800bb06f076f7f671960bd2"
+      }
+    },
+    {
+      "label": "Full day - 8 Hours",
+      "price": 6500,
+      "_id": {
+        "$oid": "6800bb06f076f7f671960bd3"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Depositphotos_669806212_L-1.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Doorman",
+    "Door",
+    "man"
+  ],
+  "addons": [
+    {
+      "$oid": "6802da22cd0ec66e42a50dac"
+    },
+    {
+      "$oid": "6802da71cd0ec66e42a5100b"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-17T08:25:42.818Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-02T21:13:28.950Z"
+  },
+  "__v": 0,
+  "description": "Our Doorman Services offer a refined combination of hospitality and security, designed to enhance the guest experience while maintaining a safe and welcoming environment. Ideal for luxury residential buildings, hotels, and high-end venues, our doormen are courteous, attentive, and professionally trained to be the first point of contact for your guests or residents.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "68016be99af27476fe751fde"
+  },
+  "name": "AC Servicing",
+  "description": "Keep your air conditioner running at peak performance with our thorough AC Servicing. Regular maintenance not only improves cooling efficiency but also extends the lifespan of your unit and helps you save on energy bills.",
+  "category": {
+    "$oid": "67cf559ea80a64cbe2402d13"
+  },
+  "sub_category": {
+    "$oid": "67cf5625dd8b0e9bbe7bbfec"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "1 Unit (1 Ton - 1.5 Ton)",
+      "price": 3000,
+      "_id": {
+        "$oid": "68016be99af27476fe751fdf"
+      }
+    },
+    {
+      "label": "2 Units (1 Ton - 1.5 Ton)",
+      "price": 5500,
+      "_id": {
+        "$oid": "68016be99af27476fe751fe0"
+      }
+    },
+    {
+      "label": "3 Units (1 Ton - 1.5 Ton)",
+      "price": 8500,
+      "_id": {
+        "$oid": "68016be99af27476fe751fe1"
+      }
+    },
+    {
+      "label": "4 Units (1 Ton - 1.5 Ton)",
+      "price": 11000,
+      "_id": {
+        "$oid": "68016be99af27476fe751fe2"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/ustad_ac_service.webp",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "AC Servicing",
+    "AC",
+    "Servicing",
+    "AC Service",
+    "Service"
+  ],
+  "addons": [
+    {
+      "$oid": "680424ca04b0ac76dd562494"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-17T21:00:25.789Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T22:08:13.668Z"
+  },
+  "__v": 0,
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "6825da5b3b0ec7e576fff39d"
+  },
+  "name": "Mental Health Therapy",
+  "description": "Our At-Home Mental Health Therapy Service provides personalized, professional mental health care in the safety and comfort of your own home. Whether you're managing anxiety, depression, stress, trauma, or other emotional challenges, our licensed therapists offer compassionate support tailored to your needs—without the stress of travel or clinic visits.",
+  "category": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "sub_category": {
+    "$oid": "6808c5768f641e3b46db6e2d"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "30 minutes confidential session with a licensed psychologist",
+      "price": 2000,
+      "_id": {
+        "$oid": "6825da5b3b0ec7e576fff39e"
+      }
+    },
+    {
+      "label": "45 minutes confidential session with a licensed psychologist",
+      "price": 2500,
+      "_id": {
+        "$oid": "6825da5b3b0ec7e576fff39f"
+      }
+    },
+    {
+      "label": "60 minutes confidential session with a licensed psychologist",
+      "price": 3000,
+      "_id": {
+        "$oid": "6825da5b3b0ec7e576fff3a0"
+      }
+    },
+    {
+      "label": "90 minutes confidential session with a licensed psychologist",
+      "price": 3500,
+      "_id": {
+        "$oid": "6825da5b3b0ec7e576fff3a1"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/fa-mh-primary-mental-health.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Mental Health Therapy",
+    "Therapy",
+    "Mental Health",
+    "Mental",
+    "Health"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-05-15T12:13:15.277Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-15T12:13:15.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69033a59b96d301f53fd9897"
+  },
+  "name": "Carpentry",
+  "description": "We offer professional carpentry services for furniture making, wood repairs, door and cabinet installation, and custom woodwork. Our skilled carpenters deliver precise, durable, and high-quality craftsmanship to enhance your home or workspace.",
+  "category": {
+    "$oid": "687d67b58ebc8188a88d17ae"
+  },
+  "sub_category": {
+    "$oid": "687e221ee8694e7b530ddae3"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "1 Hour",
+      "price": 1200,
+      "_id": {
+        "$oid": "69033a59b96d301f53fd9898"
+      }
+    },
+    {
+      "label": "2 Hour",
+      "price": 2300,
+      "_id": {
+        "$oid": "69033a59b96d301f53fd9899"
+      }
+    },
+    {
+      "label": "3 Hour ",
+      "price": 3500,
+      "_id": {
+        "$oid": "69033a59b96d301f53fd989a"
+      }
+    },
+    {
+      "label": "Full Day (8 Hours)",
+      "price": 7000,
+      "_id": {
+        "$oid": "69033a59b96d301f53fd989b"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761819210966_types-of-carpentry-role-scaled.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-30T10:13:45.866Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-05T11:40:02.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69032b77a190abbf4972675c"
+  },
+  "name": "Web Developer",
+  "description": "We offer professional web development services to build responsive, secure, and high-performance websites and web applications. Our team specializes in creating visually appealing and user-friendly digital experiences tailored to your business needs. Using modern technologies such as HTML, CSS, JavaScript, React, Next.js, and Node.js, we deliver scalable solutions that ensure fast loading times, seamless navigation, and reliable functionality across all devices and platforms.",
+  "category": {
+    "$oid": "687d66763a6088c2f11afb3b"
+  },
+  "sub_category": {
+    "$oid": "687cd4af9fd8192b4a090fff"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "Full Day (8 Hours)",
+      "price": 10000,
+      "_id": {
+        "$oid": "69032b77a190abbf4972675d"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "online",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761815368412_How-to-become-a-complete-Web-Development-Professional.avif",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-30T09:10:15.999Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-30T09:52:30.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903318ba190abbf49726949"
+  },
+  "name": "Tax Consultation",
+  "description": "We offer expert tax consultation services to help individuals and businesses manage their tax obligations efficiently and legally. Our tax consultants provide guidance on tax planning, filing, compliance, and deductions, ensuring maximum savings and full adherence to government regulations. We analyze your financial situation to develop strategies that minimize tax liability and support long-term financial growth.",
+  "category": {
+    "$oid": "687d6a4c8ebc8188a88d17c1"
+  },
+  "sub_category": {
+    "$oid": "687e1fcde8694e7b530dda5d"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "1 Hour",
+      "price": 3000,
+      "_id": {
+        "$oid": "6903318ba190abbf4972694a"
+      }
+    },
+    {
+      "label": "2 Hour",
+      "price": 6000,
+      "_id": {
+        "$oid": "69046e31c5059923f89ac4a1"
+      }
+    },
+    {
+      "label": "3 Hour",
+      "price": 8500,
+      "_id": {
+        "$oid": "69046e31c5059923f89ac4a2"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "online",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761816953831_GettyImages-1168618923_2369a0b0e.avif",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-30T09:36:11.175Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-31T08:07:13.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ceab855b29ad80f893a648"
+  },
+  "name": "Security Guard",
+  "category": {
+    "$oid": "67ce9ab3cbe14f6f1b26aa33"
+  },
+  "sub_category": {
+    "$oid": "67ceaaa4eb2f4db96219b1e1"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "price": 1000,
+  "discount": 0,
+  "duration": 8,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Top-Five-Security-Guard-Tasks.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": 0,
+  "keywords": [
+    "keyword",
+    "security",
+    "security guard",
+    "sec"
+  ],
+  "created_at": {
+    "$date": "2025-03-10T09:06:13.086Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-05T09:37:07.695Z"
+  },
+  "__v": 0,
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1000,
+      "_id": {
+        "$oid": "67dd52272ac612774a844fa9"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 2000,
+      "_id": {
+        "$oid": "67dd52272ac612774a844faa"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 3000,
+      "_id": {
+        "$oid": "67dec8543f9b1d4fd18570ca"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 4000,
+      "_id": {
+        "$oid": "67dec8683f9b1d4fd185710c"
+      }
+    },
+    {
+      "label": "Full day - 8 hours",
+      "price": 7000,
+      "_id": {
+        "$oid": "67fe277058c6553b6129275e"
+      }
+    }
+  ],
+  "service_count": 21,
+  "addons": [
+    {
+      "$oid": "67dec953924306d7ed729be1"
+    },
+    {
+      "$oid": "67dec99c924306d7ed729bfb"
+    },
+    {
+      "$oid": "67e6820b2408ead620deb7ad"
+    },
+    {
+      "$oid": "67f3a0084ee4382aceecc546"
+    },
+    {
+      "$oid": "67fe2607dc61dde6975b5eda"
+    },
+    {
+      "$oid": "6800df5d7e546cd9c59179ce"
+    },
+    {
+      "$oid": "6802d6d69ed6c4d55cecdcdc"
+    },
+    {
+      "$oid": "6802d73d9ed6c4d55cecdf41"
+    },
+    {
+      "$oid": "6802d8749ed6c4d55cece3f3"
+    },
+    {
+      "$oid": "6836cb3f2a1ee7b2ff99e697"
+    },
+    {
+      "$oid": "68383e3371901f8d78556df6"
+    },
+    {
+      "$oid": "68384eb671901f8d78558dd5"
+    },
+    {
+      "$oid": "684165434a5841db4fe0c745"
+    }
+  ],
+  "description": "Our Security Guard Services provide comprehensive protection tailored to meet the specific needs of businesses, residential communities, event venues, and construction sites. Our team of highly trained, licensed, and experienced security personnel is dedicated to maintaining safety, preventing unauthorized access, and responding swiftly to potential threats.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "67ceb0a8eb2f4db96219b294"
+  },
+  "name": "Disinfected Home Cleaning",
+  "category": {
+    "$oid": "67ce9bc6cbe14f6f1b26aa56"
+  },
+  "sub_category": {
+    "$oid": "67ceb04292e6abe5f0b41b18"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "price": 700,
+  "discount": 0,
+  "duration": 1,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/11062b_685027fa723b447fa3e915a8d523f858~mv2_d_7304_5118_s_4_2.avif",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": 0,
+  "keywords": [
+    "clean",
+    "cleaning",
+    "Disinfected",
+    "Home Cleaning"
+  ],
+  "created_at": {
+    "$date": "2025-03-10T09:28:08.363Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T21:30:27.553Z"
+  },
+  "__v": 0,
+  "prices": [
+    {
+      "label": "1 bedroom studio apartment",
+      "price": 1500,
+      "_id": {
+        "$oid": "67e10facd369e0d7dc677352"
+      }
+    },
+    {
+      "label": "2 bedrooms apartment",
+      "price": 2800,
+      "_id": {
+        "$oid": "68002bd74f2c51d61d897f89"
+      }
+    },
+    {
+      "label": "3 bedrooms apartment",
+      "price": 4000,
+      "_id": {
+        "$oid": "68002bd74f2c51d61d897f8a"
+      }
+    },
+    {
+      "label": "4 bedrooms apartment",
+      "price": 5200,
+      "_id": {
+        "$oid": "68002bd74f2c51d61d897f8b"
+      }
+    }
+  ],
+  "addons": [
+    {
+      "$oid": "67e11280468c9b54ba302139"
+    },
+    {
+      "$oid": "6802dbb49ed6c4d55cecea52"
+    },
+    {
+      "$oid": "6802dc119ed6c4d55cececb8"
+    },
+    {
+      "$oid": "6802dd19b24925f7c939212a"
+    },
+    {
+      "$oid": "6836c8a52a1ee7b2ff99d5a1"
+    },
+    {
+      "$oid": "6836cbf72a1ee7b2ff99ea62"
+    },
+    {
+      "$oid": "68383e4d71901f8d78556e16"
+    },
+    {
+      "$oid": "68384fb071901f8d78558fe1"
+    }
+  ],
+  "description": "Our Disinfected Home Cleaning Service goes beyond surface-level cleaning to provide a deep, thorough clean that helps protect your home and loved ones from harmful germs, bacteria, and viruses. Using hospital-grade disinfectants and detailed cleaning protocols, we deliver a spotless and sanitized living environment you can truly feel safe in.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "67cf1c5bdbcb2d1e0ba9abd8"
+  },
+  "name": "Sweeper",
+  "category": {
+    "$oid": "67cf4bc88a0b1ca5fc548614"
+  },
+  "sub_category": {
+    "$oid": "67cf4bf9af1c811b4b544da5"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "price": 500,
+  "discount": 0,
+  "duration": 1,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/1659599105752.jpeg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": 0,
+  "keywords": [
+    "Sweeper",
+    "sweep",
+    "sweeping"
+  ],
+  "created_at": {
+    "$date": "2025-03-10T17:07:39.029Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T21:49:52.423Z"
+  },
+  "__v": 0,
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 800,
+      "_id": {
+        "$oid": "67e10fd6468c9b54ba301fb0"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 1500,
+      "_id": {
+        "$oid": "67fe3602b04236f19259999b"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 2200,
+      "_id": {
+        "$oid": "67fe3602b04236f19259999c"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 3000,
+      "_id": {
+        "$oid": "67fe3602b04236f19259999d"
+      }
+    },
+    {
+      "label": "Full day (8 hours)",
+      "price": 5000,
+      "_id": {
+        "$oid": "67fe3602b04236f19259999e"
+      }
+    }
+  ],
+  "addons": [
+    {
+      "$oid": "67fe37b291f4588c4ae7a11c"
+    },
+    {
+      "$oid": "680435ffc28f030dfeb6471f"
+    },
+    {
+      "$oid": "6804362bc28f030dfeb64863"
+    },
+    {
+      "$oid": "68043712c28f030dfeb649af"
+    }
+  ],
+  "description": "Our sweeper services provide thorough and reliable cleaning for residential & commercial spaces. Using state-of-the-art sweeping equipment and trained personnel, we ensure your property stays clean, safe, and presentable.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "680172219007a73be5dddaae"
+  },
+  "name": "CCTV Camera Installation",
+  "description": "Secure what matters most with our expert CCTV Camera Installation Services — designed for homes, businesses, and commercial spaces. Our certified technicians handle everything from planning to setup, ensuring optimal camera placement.",
+  "category": {
+    "$oid": "67cf559ea80a64cbe2402d13"
+  },
+  "sub_category": {
+    "$oid": "67cf5625dd8b0e9bbe7bbfec"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "1 Camera Installation & Configuration ",
+      "price": 2000,
+      "_id": {
+        "$oid": "680172219007a73be5dddaaf"
+      }
+    },
+    {
+      "label": "2 Cameras Installation & Configuration",
+      "price": 3500,
+      "_id": {
+        "$oid": "680172219007a73be5dddab0"
+      }
+    },
+    {
+      "label": "3 Cameras Installation & Configuration",
+      "price": 5500,
+      "_id": {
+        "$oid": "680172219007a73be5dddab1"
+      }
+    },
+    {
+      "label": "4 Cameras Installation & Configuration",
+      "price": 7000,
+      "_id": {
+        "$oid": "680172219007a73be5dddab2"
+      }
+    },
+    {
+      "label": "5 to 6 Cameras Installation & Configuration",
+      "price": 9000,
+      "_id": {
+        "$oid": "680172219007a73be5dddab3"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/white-cctv-camera-on-street-600nw-2499226743.webp",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "CCTV Camera Installation",
+    "Camera Installation",
+    "Installation",
+    "CCTV Camera",
+    "CCTV",
+    "Camera",
+    "Cam",
+    "Install"
+  ],
+  "addons": [
+    {
+      "$oid": "68042649b98b8008d5b238bb"
+    },
+    {
+      "$oid": "68042774b98b8008d5b23a1b"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-17T21:26:57.520Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T22:11:52.095Z"
+  },
+  "__v": 0,
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "6821da11fa988ef1de248126"
+  },
+  "name": "Carpet cleaning",
+  "description": "Carpet cleaning is a deep-cleaning service designed to remove dirt, stains, allergens, and odors from carpets to restore their appearance and improve indoor air quality. Using methods such as hot water extraction (steam cleaning), dry cleaning, or shampooing, professional technicians target embedded grime and bacteria that regular vacuuming cannot reach. ",
+  "category": {
+    "$oid": "67ce9bc6cbe14f6f1b26aa56"
+  },
+  "sub_category": {
+    "$oid": "6808c07d8f641e3b46db6855"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Small carpet (5 to 6 ft)",
+      "price": 900,
+      "_id": {
+        "$oid": "6821da11fa988ef1de248127"
+      }
+    },
+    {
+      "label": "Medium carpet  (8 to 10 ft)",
+      "price": 1200,
+      "_id": {
+        "$oid": "6821da11fa988ef1de248129"
+      }
+    },
+    {
+      "label": "Large carpet (12 to 16 ft)",
+      "price": 1650,
+      "_id": {
+        "$oid": "6821da11fa988ef1de24812b"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/22.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-05-12T11:22:57.119Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T21:36:03.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6823250d5136da96ec459716"
+  },
+  "name": "Fire Watch Security",
+  "description": "Our Fire Watch security service provides trained security professionals who remain on-site to identify early signs of fire hazards and respond quickly to emergencies helping ensure compliance with local fire codes and safety regulations.",
+  "category": {
+    "$oid": "67ce9ab3cbe14f6f1b26aa33"
+  },
+  "sub_category": {
+    "$oid": "6808bd81c54a2d043e44cc2b"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "prices": [
+    {
+      "label": "Residential Fire Watch Guards patrol apartment complexes or private residences to prevent fires.",
+      "price": 2000,
+      "_id": {
+        "$oid": "6823250d5136da96ec459717"
+      }
+    },
+    {
+      "label": "Commercial Fire Watch protects businesses like hotels, warehouses, or offices during system downtime or high-risk operations.",
+      "price": 3000,
+      "_id": {
+        "$oid": "6823250d5136da96ec459718"
+      }
+    },
+    {
+      "label": "Event Fire Watch services for festivals, concerts, or events with pyrotechnics or fire risks.",
+      "price": 4000,
+      "_id": {
+        "$oid": "6823250d5136da96ec459719"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/pexels-pixabay-260367.webp",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "fire",
+    "security",
+    "fire watch",
+    "watch"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-05-13T10:55:09.248Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-02T21:13:01.390Z"
+  },
+  "__v": 0,
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "67f9a8c5c143aa0599c1dd35"
+  },
+  "name": "Makeover Services",
+  "category": {
+    "$oid": "67f99ce756d9a2234c7068cf"
+  },
+  "sub_category": {
+    "$oid": "67f99dbc56d9a2234c7069a1"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Party Makeup ",
+      "price": 4500,
+      "_id": {
+        "$oid": "67f9a8c5c143aa0599c1dd36"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/imahe-800-2.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Makeover Services",
+    "Make",
+    "Makeover",
+    "Service"
+  ],
+  "addons": [
+    {
+      "$oid": "67fac29661c719f846f79b2d"
+    },
+    {
+      "$oid": "6804153ce79ec0e2c58998cc"
+    },
+    {
+      "$oid": "68041578e79ec0e2c5899a13"
+    },
+    {
+      "$oid": "680415f1e79ec0e2c5899b70"
+    }
+  ],
+  "service_count": 4,
+  "created_at": {
+    "$date": "2025-04-11T23:41:57.952Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-26T11:08:08.781Z"
+  },
+  "__v": 0,
+  "description": "Transform your look with our Makeover at Home service! Whether you're preparing for a special event, celebrating a milestone, or simply treating yourself to something new, our expert makeup artists bring the beauty salon to you.",
+  "service_type": "customer_based"
+},
+{
+  "_id": {
+    "$oid": "67cf56a938dcabc9a0e138d3"
+  },
+  "name": "AC Installation",
+  "category": {
+    "$oid": "67cf559ea80a64cbe2402d13"
+  },
+  "sub_category": {
+    "$oid": "67cf5625dd8b0e9bbe7bbfec"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "price": 2500,
+  "discount": 0,
+  "duration": 0,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/Requirements-for-AC-Installation-01-0605030002.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": 0,
+  "keywords": [
+    "Installation",
+    "AC",
+    "AC Installation"
+  ],
+  "created_at": {
+    "$date": "2025-03-10T21:16:25.481Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T22:06:13.803Z"
+  },
+  "__v": 0,
+  "prices": [
+    {
+      "label": "1 Unit (1 Ton - 1.5 Ton)",
+      "price": 2500,
+      "_id": {
+        "$oid": "680165ca716c3307525b70d6"
+      }
+    },
+    {
+      "label": "2 Units (1 Ton - 1.5 Ton)",
+      "price": 4500,
+      "_id": {
+        "$oid": "680165ca716c3307525b70d7"
+      }
+    },
+    {
+      "label": "3 Units (1 Ton - 1.5 Ton)",
+      "price": 6500,
+      "_id": {
+        "$oid": "680165ca716c3307525b70d8"
+      }
+    },
+    {
+      "label": "4 Units (1 Ton - 1.5 Ton)",
+      "price": 8500,
+      "_id": {
+        "$oid": "680165ca716c3307525b70d9"
+      }
+    }
+  ],
+  "addons": [
+    {
+      "$oid": "67e03d094c34448e4d79c5cd"
+    },
+    {
+      "$oid": "67e03d664c34448e4d79c60d"
+    },
+    {
+      "$oid": "67e053c64343c32a477a16de"
+    },
+    {
+      "$oid": "68042061e79ec0e2c589ad43"
+    }
+  ],
+  "description": "Stay cool and comfortable with our reliable Air Conditioner Installation Services. Whether you’re upgrading your old system or installing a brand-new unit, our certified technicians ensure a safe, efficient, and hassle-free installation every time.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "680103af35433253f7814dba"
+  },
+  "name": "Truck Driver",
+  "category": {
+    "$oid": "67cf484b944244fc3202adaf"
+  },
+  "sub_category": {
+    "$oid": "67cf48f38ec6e7be07c4b465"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1800,
+      "_id": {
+        "$oid": "680103af35433253f7814dbb"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 3500,
+      "_id": {
+        "$oid": "680103af35433253f7814dbc"
+      }
+    },
+    {
+      "label": "3 hours",
+      "price": 5200,
+      "_id": {
+        "$oid": "680103af35433253f7814dbd"
+      }
+    },
+    {
+      "label": "4 hours",
+      "price": 6400,
+      "_id": {
+        "$oid": "680103af35433253f7814dbe"
+      }
+    },
+    {
+      "label": "Full day (8 hours)",
+      "price": 7800,
+      "_id": {
+        "$oid": "680103af35433253f7814dbf"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/What-Skills-Do-Truck-Driving-Schools-Teach-1024x682.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Truck Driver",
+    "Truck",
+    "Driver"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-17T13:35:43.186Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T21:45:28.967Z"
+  },
+  "__v": 0,
+  "description": "Our professional truck driving services ensure the safe, timely, and efficient transportation of goods across local, regional, and national routes. Whether it's freight, commercial products, or specialized cargo, our experienced drivers are committed to delivering excellence every mile of the way.",
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "69032cb7ed7bc2a85aef63c0"
+  },
+  "name": "AI Engineer",
+  "description": "We offer advanced AI engineering services to design, develop, and deploy intelligent solutions that enhance business efficiency and decision-making. Our AI engineers specialize in machine learning, natural language\nprocessing, computer vision, and predictive analytics, creating systems that learn, adapt, and optimize over time. By leveraging cutting-edge frameworks such as TensorFlow, PyTorch, and OpenAI APIs, we deliver scalable AI models and integrations that drive innovation, automation, and measurable business outcomes.",
+  "category": {
+    "$oid": "687d66763a6088c2f11afb3b"
+  },
+  "sub_category": {
+    "$oid": "687cd4af9fd8192b4a090fff"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "Full Day (8 Hours)",
+      "price": 15000,
+      "_id": {
+        "$oid": "69032cb7ed7bc2a85aef63c1"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "online",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1761815729428_Header-3-1.png",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-10-30T09:15:35.935Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-30T09:16:06.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6892f666f3aa4c7f2dee8793"
+  },
+  "name": "Service",
+  "description": "Desc",
+  "category": {
+    "$oid": "6892f621f3aa4c7f2dee8778"
+  },
+  "sub_category": {
+    "$oid": "6892f639f3aa4c7f2dee8781"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "Basic",
+      "price": 10000,
+      "_id": {
+        "$oid": "6892f666f3aa4c7f2dee8794"
+      }
+    },
+    {
+      "label": "Premium",
+      "price": 20000,
+      "_id": {
+        "$oid": "6894d4d971d2a98503df3b4e"
+      }
+    },
+    {
+      "label": "Term",
+      "price": 90000,
+      "_id": {
+        "$oid": "6894f43b71d2a98503df3d82"
+      }
+    }
+  ],
+  "discount": 0,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1754461792622_0741FF1E-088B-4D41-84B3-6C5B03F49037.jpeg",
+  "isFeatured": true,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": null,
+  "keywords": [],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-08-06T06:29:58.686Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:44.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688221b271e7ce497dfc3de1"
+  },
+  "name": "Handyman",
+  "description": "Our Handyman at Home service provides skilled and reliable professionals to tackle all your household maintenance needs. From small fixes to larger projects, we offer efficient, high-quality solutions that save you time and stress.",
+  "category": {
+    "$oid": "687d67b58ebc8188a88d17ae"
+  },
+  "sub_category": {
+    "$oid": "687e221ee8694e7b530ddae3"
+  },
+  "tradesman": "",
+  "price_type": "hourly",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "1 hour",
+      "price": 1200,
+      "_id": {
+        "$oid": "688221b271e7ce497dfc3de2"
+      }
+    },
+    {
+      "label": "2 hours",
+      "price": 2000,
+      "_id": {
+        "$oid": "688351d65040f4541e887b03"
+      }
+    },
+    {
+      "label": "3 hour",
+      "price": 3000,
+      "_id": {
+        "$oid": "688351d65040f4541e887b04"
+      }
+    },
+    {
+      "label": "Full Day - (8 hours)",
+      "price": 6000,
+      "_id": {
+        "$oid": "688351d65040f4541e887b05"
+      }
+    }
+  ],
+  "discount": 0,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753436585106_Handyman-Services-Image-1.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Handyman",
+    "man",
+    "Handy",
+    "Hand"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-24T12:06:10.218Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:41.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680160c9ce4411c3cc92e46e"
+  },
+  "name": "Oil Change",
+  "description": "Keep your engine running smooth, clean, and powerful with our professional Oil Change Service. Regular oil changes are essential to maintaining engine health, improving fuel efficiency, and extending the life of your vehicle.",
+  "category": {
+    "$oid": "67cf52d6e2ec73d39cb51886"
+  },
+  "sub_category": {
+    "$oid": "67cf53654b8a6342eec0d54b"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Small Vehicle (Up to 1000cc)",
+      "price": 450,
+      "_id": {
+        "$oid": "680160c9ce4411c3cc92e46f"
+      }
+    },
+    {
+      "label": "Medium Vehicle (1001cc – 2000cc)",
+      "price": 650,
+      "_id": {
+        "$oid": "680160c9ce4411c3cc92e470"
+      }
+    },
+    {
+      "label": "Large Vehicle (2001cc and above)",
+      "price": 800,
+      "_id": {
+        "$oid": "680160c9ce4411c3cc92e471"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/64f1c1f57a06d26739d38ef7_How to Change Oil in Your Car.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Oil Change",
+    "Oil",
+    "Change"
+  ],
+  "addons": [
+    {
+      "$oid": "68043267dd5d9ff7919d9a43"
+    },
+    {
+      "$oid": "68043320dd5d9ff7919d9b8d"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-17T20:12:57.229Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T22:02:10.411Z"
+  },
+  "__v": 0,
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "680163959bf536d0f1405748"
+  },
+  "name": "Engine Tuning",
+  "description": "Unlock your vehicle’s full potential with our expert Engine Tuning Services. Whether you're looking for better fuel efficiency, smoother acceleration, or enhanced performance, our tuning solutions are tailored to meet your driving style and vehicle specifications.",
+  "category": {
+    "$oid": "67cf52d6e2ec73d39cb51886"
+  },
+  "sub_category": {
+    "$oid": "67cf53654b8a6342eec0d54b"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "prices": [
+    {
+      "label": "Small Vehicle (Up to 1000cc)",
+      "price": 1800,
+      "_id": {
+        "$oid": "680163959bf536d0f1405749"
+      }
+    },
+    {
+      "label": "Medium Vehicle (1001cc – 2000cc)",
+      "price": 2800,
+      "_id": {
+        "$oid": "680163959bf536d0f140574a"
+      }
+    },
+    {
+      "label": "Large Vehicle (2001cc and above)",
+      "price": 4000,
+      "_id": {
+        "$oid": "680163959bf536d0f140574b"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/car-tuning-body-a-310820210400-1024x640.jpg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Engine Tuning",
+    "Tuning",
+    "Engine",
+    "Eng"
+  ],
+  "addons": [
+    {
+      "$oid": "68043473c28f030dfeb640dc"
+    },
+    {
+      "$oid": "68043508c28f030dfeb64226"
+    }
+  ],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-04-17T20:24:53.612Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-28T22:03:08.372Z"
+  },
+  "__v": 0,
+  "service_type": "tradesman_based"
+},
+{
+  "_id": {
+    "$oid": "68873e9d6d2cc6ed6f3c19e7"
+  },
+  "name": "Content Marketing",
+  "description": "Content Marketing is a strategic marketing approach focused on creating, publishing, and distributing valuable, relevant, and consistent content to attract and engage a clearly defined audience — ultimately driving profitable customer action.",
+  "category": {
+    "$oid": "687d6b078ebc8188a88d17cd"
+  },
+  "sub_category": {
+    "$oid": "687e1e38df35c968174fc116"
+  },
+  "tradesman": "",
+  "price_type": "fixed",
+  "service_type": "tradesman_based",
+  "prices": [
+    {
+      "label": "Strategy & Planning (Audience research and buyer persona development)",
+      "price": 3000,
+      "_id": {
+        "$oid": "68873e9d6d2cc6ed6f3c19e8"
+      }
+    },
+    {
+      "label": "Blog Posts & Articles (Educate, inform, or entertain optimized for SEO)",
+      "price": 4500,
+      "_id": {
+        "$oid": "68873e9d6d2cc6ed6f3c19e9"
+      }
+    },
+    {
+      "label": "Infographics (Visual storytelling for quick comprehension)",
+      "price": 7000,
+      "_id": {
+        "$oid": "68873e9d6d2cc6ed6f3c19ea"
+      }
+    }
+  ],
+  "discount": null,
+  "status": "active",
+  "visit_type": "inPerson",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753693815766_12345.jpeg",
+  "isFeatured": true,
+  "requires_advance_payment": true,
+  "advance_payment_percentage": null,
+  "keywords": [
+    "Content Marketing",
+    "Marketing",
+    "Content"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2025-07-28T09:10:53.482Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:28:43.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af06228f9e3e5ee3f0db70"
+  },
+  "name": "Rickshaw Driver",
+  "description": "Professional rickshaw driving service for local transportation",
+  "category": {
+    "$oid": "67cf484b944244fc3202adaf"
+  },
+  "price_type": "fixed",
+  "service_type": "customer_based",
+  "prices": [
+    {
+      "label": "Short Distance (up to 5km)",
+      "price": 150,
+      "_id": {
+        "$oid": "69af06228f9e3e5ee3f0db71"
+      }
+    },
+    {
+      "label": "Medium Distance (5-15km)",
+      "price": 300,
+      "_id": {
+        "$oid": "69af06228f9e3e5ee3f0db72"
+      }
+    },
+    {
+      "label": "Long Distance (15+ km)",
+      "price": 500,
+      "_id": {
+        "$oid": "69af06228f9e3e5ee3f0db73"
+      }
+    }
+  ],
+  "discount": 0,
+  "duration": 60,
+  "status": "active",
+  "visit_type": "on-site",
+  "image": "https://example.com/rickshaw-icon.png",
+  "isFeatured": false,
+  "requires_advance_payment": false,
+  "advance_payment_percentage": 0,
+  "keywords": [
+    "rickshaw",
+    "transport",
+    "taxi",
+    "ride",
+    "driver",
+    "local",
+    "commute"
+  ],
+  "addons": [],
+  "service_count": 0,
+  "created_at": {
+    "$date": "2026-03-09T17:40:50.384Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-09T17:40:50.384Z"
+  },
+  "__v": 0
+}]

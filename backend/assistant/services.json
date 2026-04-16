@@ -1,0 +1,2122 @@
+[
+  {
+    "_id": {
+      "$oid": "6800b5daf076f7f6719601cd"
+    },
+    "name": "Bouncer",
+    "description": "Our Bouncer Services provide professional crowd control and entry management for nightlife venues, private events, concerts, and more. Our team of trained and experienced bouncers ensures the safety of your guests, enforces venue policies, and maintains a secure and enjoyable environment for all.",
+    "duration": 1,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 527
+      },
+      {
+        "label": "Standard",
+        "price": 1705
+      },
+      {
+        "label": "Premium",
+        "price": 2428
+      }
+    ],
+    "category": {
+      "$oid": "67ce9ab3cbe14f6f1b26aa33"
+    },
+    "sub_category": {
+      "$oid": "67ceaaa4eb2f4db96219b1e1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "682460a228d54bb8120a1622"
+    },
+    "name": "Vaccination",
+    "description": "Human vaccination services provide immunization to protect individuals and communities against infectious diseases. These services are offered by healthcare professionals in clinics, hospitals, public health centers, and mobile units.",
+    "duration": 1,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 980
+      },
+      {
+        "label": "Standard",
+        "price": 1858
+      },
+      {
+        "label": "Premium",
+        "price": 2469
+      }
+    ],
+    "category": {
+      "$oid": "67ceb23a89211f44fcc1d0e7"
+    },
+    "sub_category": {
+      "$oid": "6808c3128f641e3b46db6b47"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69033488a190abbf49726a87"
+    },
+    "name": "Therapist",
+    "description": "We provide professional therapy services to help individuals manage stress, anxiety, and emotional challenges. Our certified therapists offer confidential online and in-person sessions using proven methods like CBT and mindfulness to promote mental well-being and personal growth.",
+    "duration": 3,
+    "service_type": "customer_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 748
+      },
+      {
+        "label": "Standard",
+        "price": 1691
+      },
+      {
+        "label": "Premium",
+        "price": 2515
+      }
+    ],
+    "category": {
+      "$oid": "687d6ac88ebc8188a88d17c8"
+    },
+    "sub_category": {
+      "$oid": "687e1a7ce8694e7b530dda12"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69032e3aa190abbf49726870"
+    },
+    "name": "Social Media Marketing",
+    "description": "We provide professional Social Media Marketing services to grow your brand, increase engagement, and reach the right audience. Our team creates strategic campaigns and engaging content across Facebook, Instagram, LinkedIn, and TikTok to boost visibility, build trust, and drive real results.",
+    "duration": 5,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1261
+      },
+      {
+        "label": "Standard",
+        "price": 2696
+      },
+      {
+        "label": "Premium",
+        "price": 3960
+      }
+    ],
+    "category": {
+      "$oid": "687d6b078ebc8188a88d17cd"
+    },
+    "sub_category": {
+      "$oid": "687e1e38df35c968174fc116"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6821d36cce2f132928086e5b"
+    },
+    "name": "Home Windows Cleaning",
+    "description": "Indoor window cleaning involves the thorough cleaning of interior-facing glass surfaces to remove dust, smudges, fingerprints, and streaks, leaving windows clear and spotless. This service includes the cleaning of window panes, sills, frames, and sometimes tracks, using safe, non-toxic cleaning agents that protect indoor air quality. ",
+    "duration": 3,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1293
+      },
+      {
+        "label": "Standard",
+        "price": 2694
+      },
+      {
+        "label": "Premium",
+        "price": 3556
+      }
+    ],
+    "category": {
+      "$oid": "67ce9bc6cbe14f6f1b26aa56"
+    },
+    "sub_category": {
+      "$oid": "67ceb04292e6abe5f0b41b18"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69046a99292a915bccd972a7"
+    },
+    "name": "Eyebrow & Lash Services",
+    "description": "Enhance your natural beauty with professional eyebrow shaping, tinting, and lash treatments. Whether you want a subtle lift or a bold, defined look, our beauty experts provide precise, long-lasting results tailored to your style.",
+    "duration": 1,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1324
+      },
+      {
+        "label": "Standard",
+        "price": 2592
+      },
+      {
+        "label": "Premium",
+        "price": 4336
+      }
+    ],
+    "category": {
+      "$oid": "687d6baa8ebc8188a88d17d2"
+    },
+    "sub_category": {
+      "$oid": "687e1aa8df35c968174fc0b7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f9a5011a2897177b8f8bab"
+    },
+    "name": "Nail Studio",
+    "description": "Pamper yourself with salon-quality nails in the comfort of your own home with our Nail Studio at Home service. Our professional nail technicians bring all the tools and expertise needed to give you a flawless manicure and pedicure without you having to leave your doorstep.",
+    "duration": 5,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 679
+      },
+      {
+        "label": "Standard",
+        "price": 1335
+      },
+      {
+        "label": "Premium",
+        "price": 2566
+      }
+    ],
+    "category": {
+      "$oid": "67f99ce756d9a2234c7068cf"
+    },
+    "sub_category": {
+      "$oid": "67f99dbc56d9a2234c7069a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6801026b9e01d36285e0c8c8"
+    },
+    "name": "Commercial Driver",
+    "description": "Our Commercial Driver Services provide skilled, licensed, and safety-focused drivers for businesses that require reliable transportation of goods, equipment, or personnel. Whether you need short-term coverage or long-term support, our experienced drivers are ready to meet your commercial transport needs with professionalism and precision.",
+    "duration": 1,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 862
+      },
+      {
+        "label": "Standard",
+        "price": 1654
+      },
+      {
+        "label": "Premium",
+        "price": 2757
+      }
+    ],
+    "category": {
+      "$oid": "67cf484b944244fc3202adaf"
+    },
+    "sub_category": {
+      "$oid": "67cf48f38ec6e7be07c4b465"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6886070d6b07323e56804219"
+    },
+    "name": "Physiotherapist",
+    "description": "Our Physiotherapy at Home service brings expert physical rehabilitation and pain relief directly to your doorstep. Whether you're recovering from surgery, managing a chronic condition, or looking to improve mobility and strength, our licensed physiotherapists provide personalized, one-on-one care in the comfort of your home.",
+    "duration": 6,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1041
+      },
+      {
+        "label": "Standard",
+        "price": 1890
+      },
+      {
+        "label": "Premium",
+        "price": 3202
+      }
+    ],
+    "category": {
+      "$oid": "687d6ac88ebc8188a88d17c8"
+    },
+    "sub_category": {
+      "$oid": "687e1a7ce8694e7b530dda12"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67fcca661d2465880b5ad2fe"
+    },
+    "name": "Maid ",
+    "description": "Our Maid at Home service offers dependable, thorough, and discreet cleaning and household support. So you can enjoy a spotless, organized, and stress-free home without lifting a finger.",
+    "duration": 5,
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 679
+      },
+      {
+        "label": "Standard",
+        "price": 2065
+      },
+      {
+        "label": "Premium",
+        "price": 3864
+      }
+    ],
+    "category": {
+      "$oid": "67cf4bc88a0b1ca5fc548614"
+    },
+    "sub_category": {
+      "$oid": "67cf4bf9af1c811b4b544da5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6825d50beb38a141e44bf073"
+    },
+    "name": "Blood Pressure and Sugar Monitoring ",
+    "description": "Our Home Blood Pressure and Sugar Monitoring Service offers convenient, professional health monitoring in the comfort of your home. Designed for individuals managing hypertension, diabetes, or at risk of chronic conditions, this service ensures timely and accurate tracking of vital health parameters without the need to visit a clinic or hospital.",
+    "duration": 2,
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 561
+      },
+      {
+        "label": "Standard",
+        "price": 1346
+      },
+      {
+        "label": "Premium",
+        "price": 2979
+      }
+    ],
+    "category": {
+      "$oid": "67ceb23a89211f44fcc1d0e7"
+    },
+    "sub_category": {
+      "$oid": "6808c4518f641e3b46db6cbc"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f9801859fac485bfbb0688"
+    },
+    "name": "Washroom Cleaning",
+    "description": "eep your washrooms sparkling clean, sanitized, and odor-free with our Washroom Cleaning Services. We provide deep cleaning and disinfection to ensure a hygienic, fresh, and welcoming space whether at home, in the office, or in commercial facilities.",
+    "duration": 2,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1436
+      },
+      {
+        "label": "Standard",
+        "price": 2733
+      },
+      {
+        "label": "Premium",
+        "price": 4597
+      }
+    ],
+    "category": {
+      "$oid": "67f97364103a5fb7594bed5e"
+    },
+    "sub_category": {
+      "$oid": "67f974e8f58b36088376f3ae"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6904903f46c19cef9661c53e"
+    },
+    "name": "Gardening & Landscaping",
+    "description": "Transform your outdoor space into a relaxing and beautiful environment. Our gardening and landscaping experts provide lawn maintenance, plant installation, garden design, and seasonal care to keep your space fresh, green, and well-maintained all year round.",
+    "duration": 2,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 552
+      },
+      {
+        "label": "Standard",
+        "price": 1157
+      },
+      {
+        "label": "Premium",
+        "price": 2763
+      }
+    ],
+    "category": {
+      "$oid": "687d69618ebc8188a88d17ba"
+    },
+    "sub_category": {
+      "$oid": "687e2101e8694e7b530dda99"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "687f89a6c2d31dade5c466a5"
+    },
+    "name": "Labour Man",
+    "description": "Our Labour Man Service provides skilled and unskilled manpower for a wide range of tasks including loading/unloading, lifting, shifting, digging, material handling, cleaning, construction support, and general site labour. Whether you need short-term help or long-term support, our reliable and hardworking labourers are available on-demand to assist with both residential and commercial projects.",
+    "duration": 4,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1233
+      },
+      {
+        "label": "Standard",
+        "price": 2514
+      },
+      {
+        "label": "Premium",
+        "price": 3931
+      }
+    ],
+    "category": {
+      "$oid": "687d67b58ebc8188a88d17ae"
+    },
+    "sub_category": {
+      "$oid": "687e221ee8694e7b530ddae3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6882224c7152a9777dee5b26"
+    },
+    "name": "Plumbing",
+    "description": "Our Plumber at Home service provides fast, reliable, and efficient plumbing solutions right at your doorstep. Whether you're dealing with a minor leak or a major plumbing issue, our expert plumbers are here to ensure your home's plumbing is functioning perfectly and your problems are fixed promptly.",
+    "duration": 6,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 656
+      },
+      {
+        "label": "Standard",
+        "price": 2127
+      },
+      {
+        "label": "Premium",
+        "price": 2709
+      }
+    ],
+    "category": {
+      "$oid": "687d69618ebc8188a88d17ba"
+    },
+    "sub_category": {
+      "$oid": "687e2101e8694e7b530dda99"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68860901149ae69ee22ee919"
+    },
+    "name": "Accounts Officer",
+    "description": "The Accounts Officer is responsible for managing and maintaining financial records, ensuring accuracy in bookkeeping, and supporting the financial operations of the organization. This role involves handling day-to-day accounting tasks, preparing financial reports, and ensuring compliance with financial regulations and internal policies.",
+    "duration": 4,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1423
+      },
+      {
+        "label": "Standard",
+        "price": 2483
+      },
+      {
+        "label": "Premium",
+        "price": 4410
+      }
+    ],
+    "category": {
+      "$oid": "687d6a4c8ebc8188a88d17c1"
+    },
+    "sub_category": {
+      "$oid": "687e1fcde8694e7b530dda5d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69047a6c3e1eb6a065eae081"
+    },
+    "name": "Influencer Marketing",
+    "description": "Connect your brand with the right influencers to reach authentic audiences and drive engagement. We handle influencer selection, campaign strategy, collaboration management, and performance tracking — ensuring your brand message reaches the perfect audience effectively.",
+    "duration": 6,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1388
+      },
+      {
+        "label": "Standard",
+        "price": 2157
+      },
+      {
+        "label": "Premium",
+        "price": 3146
+      }
+    ],
+    "category": {
+      "$oid": "687d6b078ebc8188a88d17cd"
+    },
+    "sub_category": {
+      "$oid": "687e1e38df35c968174fc116"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f9832f59fac485bfbb07d8"
+    },
+    "name": "Room Cupboards Deep Cleaning",
+    "description": "Our Cupboard Deep Cleaning Service is designed to refresh and sanitize your kitchen, bedroom, or storage cupboards from the inside out. We go beyond surface cleaning to remove dust, grease, spills, and hidden grime leaving your cupboards spotless, fresh-smelling, and well-organized.",
+    "duration": 6,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1369
+      },
+      {
+        "label": "Standard",
+        "price": 2652
+      },
+      {
+        "label": "Premium",
+        "price": 3354
+      }
+    ],
+    "category": {
+      "$oid": "67f97364103a5fb7594bed5e"
+    },
+    "sub_category": {
+      "$oid": "67f974e8f58b36088376f3ae"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6903378c347d637260eea8ea"
+    },
+    "name": "Plumbing",
+    "description": "We provide reliable plumbing services for homes, offices, and commercial spaces, including pipe installation, leakage repair, drainage maintenance, and fixture replacement. Our skilled plumbers ensure efficient, safe, and long-lasting solutions for all water and sanitation systems.",
+    "duration": 6,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1280
+      },
+      {
+        "label": "Standard",
+        "price": 2319
+      },
+      {
+        "label": "Premium",
+        "price": 4089
+      }
+    ],
+    "category": {
+      "$oid": "687d67b58ebc8188a88d17ae"
+    },
+    "sub_category": {
+      "$oid": "687e221ee8694e7b530ddae3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68015cf26a2ecde0c3652d2a"
+    },
+    "name": "Car Wash & Detailing",
+    "description": "We go beyond the basic wash to bring your vehicle back to life — inside and out. Our professional car wash and detailing services are designed to protect your investment, enhance appearance, and deliver that fresh-off-the-lot feel every time.",
+    "duration": 2,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1142
+      },
+      {
+        "label": "Standard",
+        "price": 2328
+      },
+      {
+        "label": "Premium",
+        "price": 3285
+      }
+    ],
+    "category": {
+      "$oid": "67cf52d6e2ec73d39cb51886"
+    },
+    "sub_category": {
+      "$oid": "67cf53654b8a6342eec0d54b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f99fe41a2897177b8f885e"
+    },
+    "name": "Hair Studio",
+    "description": "Bring the salon experience to your doorstep with our Hair Studio at Home service. Whether you need a quick trim, a bold new look, or a relaxing hair spa, our professional stylists come fully equipped to deliver high-quality hair care in the comfort and privacy of your own home.",
+    "duration": 5,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 847
+      },
+      {
+        "label": "Standard",
+        "price": 2069
+      },
+      {
+        "label": "Premium",
+        "price": 3690
+      }
+    ],
+    "category": {
+      "$oid": "67f99ce756d9a2234c7068cf"
+    },
+    "sub_category": {
+      "$oid": "67f99dbc56d9a2234c7069a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6821cd950db4431cc502027b"
+    },
+    "name": "Personal Bodyguard",
+    "description": "A personal bodyguard is a highly trained security professional responsible for ensuring the safety and well-being of an individual or group, often high-profile clients such as celebrities, executives, or politicians. Their duties include close protection, threat assessment, secure transportation, crowd control, and emergency response.",
+    "duration": 2,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 584
+      },
+      {
+        "label": "Standard",
+        "price": 1290
+      },
+      {
+        "label": "Premium",
+        "price": 2361
+      }
+    ],
+    "category": {
+      "$oid": "67ce9ab3cbe14f6f1b26aa33"
+    },
+    "sub_category": {
+      "$oid": "6808bb91a023959aab9ce666"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "688221ef7152a9777dee5afd"
+    },
+    "name": "Electrician",
+    "description": "Stay safe and powered up with our trusted Electrician at Home service. Whether it's a quick fix, new installation, or a complete wiring upgrade, our licensed electricians provide expert solutions for all your home electrical needs right at your doorstep.",
+    "duration": 2,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1232
+      },
+      {
+        "label": "Standard",
+        "price": 2112
+      },
+      {
+        "label": "Premium",
+        "price": 2696
+      }
+    ],
+    "category": {
+      "$oid": "687d69618ebc8188a88d17ba"
+    },
+    "sub_category": {
+      "$oid": "687e2101e8694e7b530dda99"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "687cd5279fd8192b4a091011"
+    },
+    "name": "PHP Developer",
+    "description": "We provide expert PHP development services to build dynamic, secure, and high-performance web applications tailored to your business needs. With in-depth knowledge of both core PHP and popular frameworks, our developers deliver scalable, maintainable, and future-ready solutions.",
+    "duration": 2,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1206
+      },
+      {
+        "label": "Standard",
+        "price": 1905
+      },
+      {
+        "label": "Premium",
+        "price": 3018
+      }
+    ],
+    "category": {
+      "$oid": "687d66763a6088c2f11afb3b"
+    },
+    "sub_category": {
+      "$oid": "687cd4af9fd8192b4a090fff"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67ceb35389211f44fcc1d100"
+    },
+    "name": "Doctor",
+    "description": "Our Doctor at Home Service brings quality medical care to your doorstep — offering convenience, comfort, and professional attention right where you need it most. Whether you're managing a chronic condition, recovering from illness, or simply need a consultation without the hassle of travel, our licensed and experienced doctors are here to help.",
+    "duration": 4,
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1457
+      },
+      {
+        "label": "Standard",
+        "price": 2060
+      },
+      {
+        "label": "Premium",
+        "price": 2741
+      }
+    ],
+    "category": {
+      "$oid": "67ceb23a89211f44fcc1d0e7"
+    },
+    "sub_category": {
+      "$oid": "67ceb2e192e6abe5f0b41b51"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "690467da889a107eadeb26fe"
+    },
+    "name": "Technical & Research Writing",
+    "description": "Delivering high-quality documentation, research papers, case studies, and business proposals designed to meet academic and professional requirements. Whether you need a technical manual or a formal research summary, our team ensures clarity, precision, and credibility in every word.",
+    "duration": 5,
+    "service_type": "customer_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1322
+      },
+      {
+        "label": "Standard",
+        "price": 2455
+      },
+      {
+        "label": "Premium",
+        "price": 3974
+      }
+    ],
+    "category": {
+      "$oid": "687d67e58ebc8188a88d17b3"
+    },
+    "sub_category": {
+      "$oid": "687e236be84a0a6632c202b8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6886003f7680a9f6db2c0b0f"
+    },
+    "name": "Android Developer",
+    "description": "We offer expert Android app development services to create intuitive, scalable, and high-performance mobile applications for smartphones, tablets, and wearable devices. With a strong command of Android SDK and modern development practices, our Android developers build apps that deliver great user experiences and meet your business goals.",
+    "duration": 5,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1409
+      },
+      {
+        "label": "Standard",
+        "price": 2462
+      },
+      {
+        "label": "Premium",
+        "price": 4008
+      }
+    ],
+    "category": {
+      "$oid": "687d66763a6088c2f11afb3b"
+    },
+    "sub_category": {
+      "$oid": "687cd4af9fd8192b4a090fff"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "687f8c415d6e92ae65a2554a"
+    },
+    "name": "Video & Motion Graphics",
+    "description": "Bring your ideas to life with dynamic video and motion graphics that captivate, inform, and inspire. Our service combines creative storytelling with high-quality animation and video production to deliver compelling content that elevates your brand, product, or message.",
+    "duration": 3,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 872
+      },
+      {
+        "label": "Standard",
+        "price": 1693
+      },
+      {
+        "label": "Premium",
+        "price": 3397
+      }
+    ],
+    "category": {
+      "$oid": "687d67e58ebc8188a88d17b3"
+    },
+    "sub_category": {
+      "$oid": "687e236be84a0a6632c202b8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6887407a6d2cc6ed6f3c1a7e"
+    },
+    "name": "Vaccination",
+    "description": "Human vaccination services provide immunization to protect individuals and communities against infectious diseases. These services are offered by healthcare professionals in clinics, hospitals, public health centers, and mobile units.",
+    "duration": 1,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 678
+      },
+      {
+        "label": "Standard",
+        "price": 1882
+      },
+      {
+        "label": "Premium",
+        "price": 3448
+      }
+    ],
+    "category": {
+      "$oid": "687d6ac88ebc8188a88d17c8"
+    },
+    "sub_category": {
+      "$oid": "687e1a7ce8694e7b530dda12"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f9a3821a2897177b8f8b2d"
+    },
+    "name": "Waxing Services",
+    "description": "Experience smooth, flawless skin with our Waxing at Home service. Our licensed and skilled estheticians bring the salon to you, offering a comfortable, hygienic, and convenient waxing experience right in the privacy of your home.",
+    "duration": 6,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1488
+      },
+      {
+        "label": "Standard",
+        "price": 2875
+      },
+      {
+        "label": "Premium",
+        "price": 3666
+      }
+    ],
+    "category": {
+      "$oid": "67f99ce756d9a2234c7068cf"
+    },
+    "sub_category": {
+      "$oid": "67f99dbc56d9a2234c7069a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69049c88027be544c697ac6e"
+    },
+    "name": "Nutrition & Diet Consultation",
+    "description": "Personalized nutrition and diet consultation designed to help you achieve your health and fitness goals. Our certified dietitians create customized meal plans, assess your nutritional needs, and guide you toward a balanced, sustainable lifestyle — whether your goal is weight loss, fitness, or overall wellness.",
+    "duration": 2,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 536
+      },
+      {
+        "label": "Standard",
+        "price": 1972
+      },
+      {
+        "label": "Premium",
+        "price": 3604
+      }
+    ],
+    "category": {
+      "$oid": "687d6ac88ebc8188a88d17c8"
+    },
+    "sub_category": {
+      "$oid": "687e1a7ce8694e7b530dda12"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "690469c5292a915bccd97163"
+    },
+    "name": "Self-Care & Glow Session",
+    "description": "A rejuvenating session designed to refresh your skin, relax your mind, and uplift your spirit. This package includes gentle skincare treatments, relaxation therapy, and wellness techniques to help you restore your natural glow — inside and out.",
+    "duration": 3,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1266
+      },
+      {
+        "label": "Standard",
+        "price": 2360
+      },
+      {
+        "label": "Premium",
+        "price": 3174
+      }
+    ],
+    "category": {
+      "$oid": "687d6baa8ebc8188a88d17d2"
+    },
+    "sub_category": {
+      "$oid": "687e1aa8df35c968174fc0b7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "687f83a8a063e72d919bdabd"
+    },
+    "name": "Hair Studio",
+    "description": "Bring the salon experience to your doorstep with our Hair Studio at Home service. Whether you need a quick trim, a bold new look, or a relaxing hair spa, our professional stylists come fully equipped to deliver high-quality hair care in the comfort and privacy of your own home.",
+    "duration": 3,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1445
+      },
+      {
+        "label": "Standard",
+        "price": 2922
+      },
+      {
+        "label": "Premium",
+        "price": 3843
+      }
+    ],
+    "category": {
+      "$oid": "687d6baa8ebc8188a88d17d2"
+    },
+    "sub_category": {
+      "$oid": "687e1aa8df35c968174fc0b7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f9c7c58254e972026b4359"
+    },
+    "name": "Handyman",
+    "description": "Our Handyman at Home service provides skilled and reliable professionals to tackle all your household maintenance needs. From small fixes to larger projects, we offer efficient, high-quality solutions that save you time and stress.",
+    "duration": 5,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 732
+      },
+      {
+        "label": "Standard",
+        "price": 1946
+      },
+      {
+        "label": "Premium",
+        "price": 3368
+      }
+    ],
+    "category": {
+      "$oid": "67f9c16f285fbf7f23b1cc56"
+    },
+    "sub_category": {
+      "$oid": "67f9c3fc8254e972026b4213"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69049bb7027be544c697aab4"
+    },
+    "name": "SEO Content Writing",
+    "description": "Professional SEO content writing services designed to improve your website’s search rankings and attract organic traffic. We create keyword-rich, high-quality blogs, articles, and web copy optimized for both search engines and human readers — helping your brand grow visibility and authority.",
+    "duration": 1,
+    "service_type": "customer_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1060
+      },
+      {
+        "label": "Standard",
+        "price": 2093
+      },
+      {
+        "label": "Premium",
+        "price": 3578
+      }
+    ],
+    "category": {
+      "$oid": "687d6b078ebc8188a88d17cd"
+    },
+    "sub_category": {
+      "$oid": "687e1e38df35c968174fc116"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6800fad035433253f78147a9"
+    },
+    "name": "Fitness Trainer",
+    "description": "Achieve your fitness goals with the convenience and comfort of personalized workouts in your own space. Our At-Home Fitness Trainer Service offers one-on-one coaching tailored to your body, your goals, and your schedule no gym required.",
+    "duration": 5,
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 648
+      },
+      {
+        "label": "Standard",
+        "price": 1473
+      },
+      {
+        "label": "Premium",
+        "price": 3184
+      }
+    ],
+    "category": {
+      "$oid": "67ceb23a89211f44fcc1d0e7"
+    },
+    "sub_category": {
+      "$oid": "67ceb2e192e6abe5f0b41b51"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f9a2141a2897177b8f8ab7"
+    },
+    "name": "Facial Services",
+    "description": "Indulge in a relaxing, rejuvenating facial treatment without leaving your home with our Facials at Home service. Our expert estheticians bring a spa-like experience to your doorstep, providing personalized treatments that cater to your skin’s needs, ensuring you feel refreshed and glowing.",
+    "duration": 5,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1430
+      },
+      {
+        "label": "Standard",
+        "price": 2411
+      },
+      {
+        "label": "Premium",
+        "price": 4206
+      }
+    ],
+    "category": {
+      "$oid": "67f99ce756d9a2234c7068cf"
+    },
+    "sub_category": {
+      "$oid": "67f99dbc56d9a2234c7069a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f9cac78482793cad6f2110"
+    },
+    "name": "Electrician",
+    "description": "Stay safe and powered up with our trusted Electrician at Home service. Whether it’s a quick fix, new installation, or a complete wiring upgrade, our licensed electricians provide expert solutions for all your home electrical needs right at your doorstep.",
+    "duration": 6,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1494
+      },
+      {
+        "label": "Standard",
+        "price": 2073
+      },
+      {
+        "label": "Premium",
+        "price": 3481
+      }
+    ],
+    "category": {
+      "$oid": "67f9c16f285fbf7f23b1cc56"
+    },
+    "sub_category": {
+      "$oid": "67f9c3fc8254e972026b4213"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6800e23cb9543519d03f783d"
+    },
+    "name": "Physiotherapist",
+    "description": "Our Physiotherapy at Home service brings expert physical rehabilitation and pain relief directly to your doorstep. Whether you're recovering from surgery, managing a chronic condition, or looking to improve mobility and strength, our licensed physiotherapists provide personalized, one-on-one care in the comfort of your home.",
+    "duration": 1,
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1499
+      },
+      {
+        "label": "Standard",
+        "price": 2138
+      },
+      {
+        "label": "Premium",
+        "price": 4087
+      }
+    ],
+    "category": {
+      "$oid": "67ceb23a89211f44fcc1d0e7"
+    },
+    "sub_category": {
+      "$oid": "67ceb2e192e6abe5f0b41b51"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f9c95b8254e972026b4453"
+    },
+    "name": "Plumber",
+    "description": "Our Plumber at Home service provides fast, reliable, and efficient plumbing solutions right at your doorstep. Whether you're dealing with a minor leak or a major plumbing issue, our expert plumbers are here to ensure your home’s plumbing is functioning perfectly and your problems are fixed promptly.",
+    "duration": 5,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1495
+      },
+      {
+        "label": "Standard",
+        "price": 2506
+      },
+      {
+        "label": "Premium",
+        "price": 3369
+      }
+    ],
+    "category": {
+      "$oid": "67f9c16f285fbf7f23b1cc56"
+    },
+    "sub_category": {
+      "$oid": "67f9c3fc8254e972026b4213"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "687f8407a063e72d919bdad3"
+    },
+    "name": "Scene & Style Studio",
+    "description": "At Scene & Style Studio, we craft compelling visual content that blends cinematic storytelling with stunning design. Specializing in video production, motion graphics, and branded visuals, we help brands, creators, and businesses stand out in a crowded digital world.",
+    "duration": 5,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 526
+      },
+      {
+        "label": "Standard",
+        "price": 1090
+      },
+      {
+        "label": "Premium",
+        "price": 2357
+      }
+    ],
+    "category": {
+      "$oid": "687d67e58ebc8188a88d17b3"
+    },
+    "sub_category": {
+      "$oid": "687e236be84a0a6632c202b8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67cf4a2370a6500bc9fff46b"
+    },
+    "name": "Personal Driver",
+    "description": "Experience the convenience, comfort, and class of having your own Personal Driver. Whether it's for daily commuting, business meetings, special occasions, or airport transfers, our professional chauffeurs provide a smooth and stress-free travel experience tailored to your needs.",
+    "duration": 2,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1038
+      },
+      {
+        "label": "Standard",
+        "price": 2218
+      },
+      {
+        "label": "Premium",
+        "price": 3726
+      }
+    ],
+    "category": {
+      "$oid": "67cf484b944244fc3202adaf"
+    },
+    "sub_category": {
+      "$oid": "67cf48f38ec6e7be07c4b465"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f9775bf58b36088376f522"
+    },
+    "name": "Kitchen Cleaning",
+    "description": "Our Kitchen Cleaning Service provides deep, hygienic, and detail-focused cleaning to ensure your cooking space is spotless, safe, and sparkling. Whether it’s a residential kitchen or a commercial one, we tackle grease, grime, and germs so you don’t have to.",
+    "duration": 3,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 877
+      },
+      {
+        "label": "Standard",
+        "price": 2006
+      },
+      {
+        "label": "Premium",
+        "price": 2815
+      }
+    ],
+    "category": {
+      "$oid": "67f97364103a5fb7594bed5e"
+    },
+    "sub_category": {
+      "$oid": "67f974e8f58b36088376f3ae"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68822d7b9a03dc3344673128"
+    },
+    "name": "Manicure & Pedicure ",
+    "description": "Pamper yourself with salon-quality nails in the comfort of your own home with our Nail Studio at Home service. Our professional nail technicians bring all the tools and expertise needed to give you a flawless manicure and pedicure without you having to leave your doorstep.",
+    "duration": 3,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1155
+      },
+      {
+        "label": "Standard",
+        "price": 1770
+      },
+      {
+        "label": "Premium",
+        "price": 2787
+      }
+    ],
+    "category": {
+      "$oid": "687d6baa8ebc8188a88d17d2"
+    },
+    "sub_category": {
+      "$oid": "687e1aa8df35c968174fc0b7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68860564149ae69ee22ee81b"
+    },
+    "name": "Digital Marketing",
+    "description": "Our Digital Marketing services are designed to grow your online presence, increase engagement, and drive real business results. From strategic planning to hands-on execution, we use data-driven methods to connect you with your ideal audience across multiple digital platforms.",
+    "duration": 1,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1118
+      },
+      {
+        "label": "Standard",
+        "price": 1927
+      },
+      {
+        "label": "Premium",
+        "price": 2476
+      }
+    ],
+    "category": {
+      "$oid": "687d6b078ebc8188a88d17cd"
+    },
+    "sub_category": {
+      "$oid": "687e1e38df35c968174fc116"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e45d9ebc359f4f2c10c077"
+    },
+    "name": "Holiday Homes All-in One Cleaning Solution",
+    "description": "Our All-in-One Cleaning Solution for Holiday Homes is designed to take the stress out of managing short-term rental turnovers. From deep cleaning and disinfection to linen changeovers and restocking essentials, we ensure your property is guest-ready, spotless, and welcoming every time.",
+    "duration": 4,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 559
+      },
+      {
+        "label": "Standard",
+        "price": 1172
+      },
+      {
+        "label": "Premium",
+        "price": 1784
+      }
+    ],
+    "category": {
+      "$oid": "67ce9bc6cbe14f6f1b26aa56"
+    },
+    "sub_category": {
+      "$oid": "67ceb04292e6abe5f0b41b18"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67cf4cb3944244fc3202ade4"
+    },
+    "name": "Cooking",
+    "description": "Enjoy the luxury of delicious, home-cooked meals without lifting a finger! Our Cook at Home service brings a skilled personal chef right to your kitchen to prepare fresh, flavorful meals tailored to your tastes, dietary needs, and lifestyle.",
+    "duration": 3,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1131
+      },
+      {
+        "label": "Standard",
+        "price": 2113
+      },
+      {
+        "label": "Premium",
+        "price": 3380
+      }
+    ],
+    "category": {
+      "$oid": "67cf4bc88a0b1ca5fc548614"
+    },
+    "sub_category": {
+      "$oid": "67cf4bf9af1c811b4b544da5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69032981a190abbf49726613"
+    },
+    "name": "Maid",
+    "description": "Maid Online is your trusted platform for booking professional home cleaning services anytime, anywhere. We connect you with experienced, background-checked maids who ensure your home stays spotless and comfortable without the stress of managing cleaning yourself.",
+    "duration": 5,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 701
+      },
+      {
+        "label": "Standard",
+        "price": 1858
+      },
+      {
+        "label": "Premium",
+        "price": 3450
+      }
+    ],
+    "category": {
+      "$oid": "687d69618ebc8188a88d17ba"
+    },
+    "sub_category": {
+      "$oid": "687e2101e8694e7b530dda99"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "690492dd96d32653552d5852"
+    },
+    "name": "Water Tank Cleaning",
+    "description": "Professional cleaning and disinfection of overhead and underground water tanks to ensure clean and safe water for daily use. Our trained team uses modern tools and eco-friendly solutions to remove dirt, sludge, and bacteria effectively.",
+    "duration": 4,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 864
+      },
+      {
+        "label": "Standard",
+        "price": 1775
+      },
+      {
+        "label": "Premium",
+        "price": 3377
+      }
+    ],
+    "category": {
+      "$oid": "687d69618ebc8188a88d17ba"
+    },
+    "sub_category": {
+      "$oid": "687e2101e8694e7b530dda99"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6800bb06f076f7f671960bce"
+    },
+    "name": "Doorman",
+    "description": "Our Doorman Services offer a refined combination of hospitality and security, designed to enhance the guest experience while maintaining a safe and welcoming environment. Ideal for luxury residential buildings, hotels, and high-end venues, our doormen are courteous, attentive, and professionally trained to be the first point of contact for your guests or residents.",
+    "duration": 1,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1445
+      },
+      {
+        "label": "Standard",
+        "price": 2455
+      },
+      {
+        "label": "Premium",
+        "price": 4309
+      }
+    ],
+    "category": {
+      "$oid": "67ce9ab3cbe14f6f1b26aa33"
+    },
+    "sub_category": {
+      "$oid": "67ceaaa4eb2f4db96219b1e1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68016be99af27476fe751fde"
+    },
+    "name": "AC Servicing",
+    "description": "Keep your air conditioner running at peak performance with our thorough AC Servicing. Regular maintenance not only improves cooling efficiency but also extends the lifespan of your unit and helps you save on energy bills.",
+    "duration": 5,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1334
+      },
+      {
+        "label": "Standard",
+        "price": 1866
+      },
+      {
+        "label": "Premium",
+        "price": 2569
+      }
+    ],
+    "category": {
+      "$oid": "67cf559ea80a64cbe2402d13"
+    },
+    "sub_category": {
+      "$oid": "67cf5625dd8b0e9bbe7bbfec"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6825da5b3b0ec7e576fff39d"
+    },
+    "name": "Mental Health Therapy",
+    "description": "Our At-Home Mental Health Therapy Service provides personalized, professional mental health care in the safety and comfort of your own home. Whether you're managing anxiety, depression, stress, trauma, or other emotional challenges, our licensed therapists offer compassionate support tailored to your needs—without the stress of travel or clinic visits.",
+    "duration": 3,
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1016
+      },
+      {
+        "label": "Standard",
+        "price": 2026
+      },
+      {
+        "label": "Premium",
+        "price": 2951
+      }
+    ],
+    "category": {
+      "$oid": "67ceb23a89211f44fcc1d0e7"
+    },
+    "sub_category": {
+      "$oid": "6808c5768f641e3b46db6e2d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69033a59b96d301f53fd9897"
+    },
+    "name": "Carpentry",
+    "description": "We offer professional carpentry services for furniture making, wood repairs, door and cabinet installation, and custom woodwork. Our skilled carpenters deliver precise, durable, and high-quality craftsmanship to enhance your home or workspace.",
+    "duration": 6,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1120
+      },
+      {
+        "label": "Standard",
+        "price": 1717
+      },
+      {
+        "label": "Premium",
+        "price": 3114
+      }
+    ],
+    "category": {
+      "$oid": "687d67b58ebc8188a88d17ae"
+    },
+    "sub_category": {
+      "$oid": "687e221ee8694e7b530ddae3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69032b77a190abbf4972675c"
+    },
+    "name": "Web Developer",
+    "description": "We offer professional web development services to build responsive, secure, and high-performance websites and web applications. Our team specializes in creating visually appealing and user-friendly digital experiences tailored to your business needs. Using modern technologies such as HTML, CSS, JavaScript, React, Next.js, and Node.js, we deliver scalable solutions that ensure fast loading times, seamless navigation, and reliable functionality across all devices and platforms.",
+    "duration": 4,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 821
+      },
+      {
+        "label": "Standard",
+        "price": 2213
+      },
+      {
+        "label": "Premium",
+        "price": 3278
+      }
+    ],
+    "category": {
+      "$oid": "687d66763a6088c2f11afb3b"
+    },
+    "sub_category": {
+      "$oid": "687cd4af9fd8192b4a090fff"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6903318ba190abbf49726949"
+    },
+    "name": "Tax Consultation",
+    "description": "We offer expert tax consultation services to help individuals and businesses manage their tax obligations efficiently and legally. Our tax consultants provide guidance on tax planning, filing, compliance, and deductions, ensuring maximum savings and full adherence to government regulations. We analyze your financial situation to develop strategies that minimize tax liability and support long-term financial growth.",
+    "duration": 6,
+    "service_type": "customer_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1398
+      },
+      {
+        "label": "Standard",
+        "price": 2555
+      },
+      {
+        "label": "Premium",
+        "price": 4419
+      }
+    ],
+    "category": {
+      "$oid": "687d6a4c8ebc8188a88d17c1"
+    },
+    "sub_category": {
+      "$oid": "687e1fcde8694e7b530dda5d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67ceab855b29ad80f893a648"
+    },
+    "name": "Security Guard",
+    "description": "Our Security Guard Services provide comprehensive protection tailored to meet the specific needs of businesses, residential communities, event venues, and construction sites. Our team of highly trained, licensed, and experienced security personnel is dedicated to maintaining safety, preventing unauthorized access, and responding swiftly to potential threats.",
+    "duration": 2,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 902
+      },
+      {
+        "label": "Standard",
+        "price": 2025
+      },
+      {
+        "label": "Premium",
+        "price": 3827
+      }
+    ],
+    "category": {
+      "$oid": "67ce9ab3cbe14f6f1b26aa33"
+    },
+    "sub_category": {
+      "$oid": "67ceaaa4eb2f4db96219b1e1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67ceb0a8eb2f4db96219b294"
+    },
+    "name": "Disinfected Home Cleaning",
+    "description": "Our Disinfected Home Cleaning Service goes beyond surface-level cleaning to provide a deep, thorough clean that helps protect your home and loved ones from harmful germs, bacteria, and viruses. Using hospital-grade disinfectants and detailed cleaning protocols, we deliver a spotless and sanitized living environment you can truly feel safe in.",
+    "duration": 1,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1260
+      },
+      {
+        "label": "Standard",
+        "price": 2020
+      },
+      {
+        "label": "Premium",
+        "price": 3093
+      }
+    ],
+    "category": {
+      "$oid": "67ce9bc6cbe14f6f1b26aa56"
+    },
+    "sub_category": {
+      "$oid": "67ceb04292e6abe5f0b41b18"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67cf1c5bdbcb2d1e0ba9abd8"
+    },
+    "name": "Sweeper",
+    "description": "Our sweeper services provide thorough and reliable cleaning for residential & commercial spaces. Using state-of-the-art sweeping equipment and trained personnel, we ensure your property stays clean, safe, and presentable.",
+    "duration": 1,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 906
+      },
+      {
+        "label": "Standard",
+        "price": 2381
+      },
+      {
+        "label": "Premium",
+        "price": 3756
+      }
+    ],
+    "category": {
+      "$oid": "67cf4bc88a0b1ca5fc548614"
+    },
+    "sub_category": {
+      "$oid": "67cf4bf9af1c811b4b544da5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "680172219007a73be5dddaae"
+    },
+    "name": "CCTV Camera Installation",
+    "description": "Secure what matters most with our expert CCTV Camera Installation Services — designed for homes, businesses, and commercial spaces. Our certified technicians handle everything from planning to setup, ensuring optimal camera placement.",
+    "duration": 1,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1468
+      },
+      {
+        "label": "Standard",
+        "price": 2014
+      },
+      {
+        "label": "Premium",
+        "price": 2875
+      }
+    ],
+    "category": {
+      "$oid": "67cf559ea80a64cbe2402d13"
+    },
+    "sub_category": {
+      "$oid": "67cf5625dd8b0e9bbe7bbfec"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6821da11fa988ef1de248126"
+    },
+    "name": "Carpet cleaning",
+    "description": "Carpet cleaning is a deep-cleaning service designed to remove dirt, stains, allergens, and odors from carpets to restore their appearance and improve indoor air quality. Using methods such as hot water extraction (steam cleaning), dry cleaning, or shampooing, professional technicians target embedded grime and bacteria that regular vacuuming cannot reach. ",
+    "duration": 2,
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 621
+      },
+      {
+        "label": "Standard",
+        "price": 1847
+      },
+      {
+        "label": "Premium",
+        "price": 3485
+      }
+    ],
+    "category": {
+      "$oid": "67ce9bc6cbe14f6f1b26aa56"
+    },
+    "sub_category": {
+      "$oid": "6808c07d8f641e3b46db6855"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6823250d5136da96ec459716"
+    },
+    "name": "Fire Watch Security",
+    "description": "Our Fire Watch security service provides trained security professionals who remain on-site to identify early signs of fire hazards and respond quickly to emergencies helping ensure compliance with local fire codes and safety regulations.",
+    "duration": 4,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 831
+      },
+      {
+        "label": "Standard",
+        "price": 1718
+      },
+      {
+        "label": "Premium",
+        "price": 3158
+      }
+    ],
+    "category": {
+      "$oid": "67ce9ab3cbe14f6f1b26aa33"
+    },
+    "sub_category": {
+      "$oid": "6808bd81c54a2d043e44cc2b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67f9a8c5c143aa0599c1dd35"
+    },
+    "name": "Makeover Services",
+    "description": "Transform your look with our Makeover at Home service! Whether you're preparing for a special event, celebrating a milestone, or simply treating yourself to something new, our expert makeup artists bring the beauty salon to you.",
+    "duration": 1,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 928
+      },
+      {
+        "label": "Standard",
+        "price": 2114
+      },
+      {
+        "label": "Premium",
+        "price": 2841
+      }
+    ],
+    "category": {
+      "$oid": "67f99ce756d9a2234c7068cf"
+    },
+    "sub_category": {
+      "$oid": "67f99dbc56d9a2234c7069a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67cf56a938dcabc9a0e138d3"
+    },
+    "name": "AC Installation",
+    "description": "Stay cool and comfortable with our reliable Air Conditioner Installation Services. Whether you’re upgrading your old system or installing a brand-new unit, our certified technicians ensure a safe, efficient, and hassle-free installation every time.",
+    "duration": 3,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 570
+      },
+      {
+        "label": "Standard",
+        "price": 1213
+      },
+      {
+        "label": "Premium",
+        "price": 1728
+      }
+    ],
+    "category": {
+      "$oid": "67cf559ea80a64cbe2402d13"
+    },
+    "sub_category": {
+      "$oid": "67cf5625dd8b0e9bbe7bbfec"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "680103af35433253f7814dba"
+    },
+    "name": "Truck Driver",
+    "description": "Our professional truck driving services ensure the safe, timely, and efficient transportation of goods across local, regional, and national routes. Whether it's freight, commercial products, or specialized cargo, our experienced drivers are committed to delivering excellence every mile of the way.",
+    "duration": 2,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 972
+      },
+      {
+        "label": "Standard",
+        "price": 2323
+      },
+      {
+        "label": "Premium",
+        "price": 4254
+      }
+    ],
+    "category": {
+      "$oid": "67cf484b944244fc3202adaf"
+    },
+    "sub_category": {
+      "$oid": "67cf48f38ec6e7be07c4b465"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69032cb7ed7bc2a85aef63c0"
+    },
+    "name": "AI Engineer",
+    "description": "We offer advanced AI engineering services to design, develop, and deploy intelligent solutions that enhance business efficiency and decision-making. Our AI engineers specialize in machine learning, natural language\nprocessing, computer vision, and predictive analytics, creating systems that learn, adapt, and optimize over time. By leveraging cutting-edge frameworks such as TensorFlow, PyTorch, and OpenAI APIs, we deliver scalable AI models and integrations that drive innovation, automation, and measurable business outcomes.",
+    "duration": 4,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1153
+      },
+      {
+        "label": "Standard",
+        "price": 2592
+      },
+      {
+        "label": "Premium",
+        "price": 3449
+      }
+    ],
+    "category": {
+      "$oid": "687d66763a6088c2f11afb3b"
+    },
+    "sub_category": {
+      "$oid": "687cd4af9fd8192b4a090fff"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6892f666f3aa4c7f2dee8793"
+    },
+    "name": "Service",
+    "description": "Desc",
+    "duration": 2,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 982
+      },
+      {
+        "label": "Standard",
+        "price": 1569
+      },
+      {
+        "label": "Premium",
+        "price": 2946
+      }
+    ],
+    "category": {
+      "$oid": "6892f621f3aa4c7f2dee8778"
+    },
+    "sub_category": {
+      "$oid": "6892f639f3aa4c7f2dee8781"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "688221b271e7ce497dfc3de1"
+    },
+    "name": "Handyman",
+    "description": "Our Handyman at Home service provides skilled and reliable professionals to tackle all your household maintenance needs. From small fixes to larger projects, we offer efficient, high-quality solutions that save you time and stress.",
+    "duration": 5,
+    "service_type": "tradesman_based",
+    "price_type": "hourly",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 694
+      },
+      {
+        "label": "Standard",
+        "price": 1343
+      },
+      {
+        "label": "Premium",
+        "price": 2132
+      }
+    ],
+    "category": {
+      "$oid": "687d67b58ebc8188a88d17ae"
+    },
+    "sub_category": {
+      "$oid": "687e221ee8694e7b530ddae3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "680160c9ce4411c3cc92e46e"
+    },
+    "name": "Oil Change",
+    "description": "Keep your engine running smooth, clean, and powerful with our professional Oil Change Service. Regular oil changes are essential to maintaining engine health, improving fuel efficiency, and extending the life of your vehicle.",
+    "duration": 5,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 888
+      },
+      {
+        "label": "Standard",
+        "price": 2279
+      },
+      {
+        "label": "Premium",
+        "price": 3943
+      }
+    ],
+    "category": {
+      "$oid": "67cf52d6e2ec73d39cb51886"
+    },
+    "sub_category": {
+      "$oid": "67cf53654b8a6342eec0d54b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "680163959bf536d0f1405748"
+    },
+    "name": "Engine Tuning",
+    "description": "Unlock your vehicle’s full potential with our expert Engine Tuning Services. Whether you're looking for better fuel efficiency, smoother acceleration, or enhanced performance, our tuning solutions are tailored to meet your driving style and vehicle specifications.",
+    "duration": 4,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 897
+      },
+      {
+        "label": "Standard",
+        "price": 2295
+      },
+      {
+        "label": "Premium",
+        "price": 3750
+      }
+    ],
+    "category": {
+      "$oid": "67cf52d6e2ec73d39cb51886"
+    },
+    "sub_category": {
+      "$oid": "67cf53654b8a6342eec0d54b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68873e9d6d2cc6ed6f3c19e7"
+    },
+    "name": "Content Marketing",
+    "description": "Content Marketing is a strategic marketing approach focused on creating, publishing, and distributing valuable, relevant, and consistent content to attract and engage a clearly defined audience — ultimately driving profitable customer action.",
+    "duration": 6,
+    "service_type": "tradesman_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1142
+      },
+      {
+        "label": "Standard",
+        "price": 2187
+      },
+      {
+        "label": "Premium",
+        "price": 3972
+      }
+    ],
+    "category": {
+      "$oid": "687d6b078ebc8188a88d17cd"
+    },
+    "sub_category": {
+      "$oid": "687e1e38df35c968174fc116"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69af06228f9e3e5ee3f0db70"
+    },
+    "name": "Rickshaw Driver",
+    "description": "Professional rickshaw driving service for local transportation",
+    "duration": 4,
+    "service_type": "customer_based",
+    "price_type": "fixed",
+    "prices": [
+      {
+        "label": "Basic",
+        "price": 1482
+      },
+      {
+        "label": "Standard",
+        "price": 2363
+      },
+      {
+        "label": "Premium",
+        "price": 3816
+      }
+    ],
+    "category": {
+      "$oid": "67cf484b944244fc3202adaf"
+    }
+  }
+]

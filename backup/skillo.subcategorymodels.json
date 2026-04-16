@@ -1,0 +1,961 @@
+[{
+  "_id": {
+    "$oid": "687e1e38df35c968174fc116"
+  },
+  "name": "Digital Marketing",
+  "category": {
+    "$oid": "687d6b078ebc8188a88d17cd"
+  },
+  "description": "Digital marketing is the practice of promoting products, services, or brands using digital channels such as websites, social media, search engines, email, and mobile apps. It involves a variety of strategies and tools to connect with current and potential customers online, increase brand awareness, generate leads, and drive sales.",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753049859638_market.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "68860564149ae69ee22ee81b"
+    },
+    {
+      "$oid": "68873e9d6d2cc6ed6f3c19e7"
+    },
+    {
+      "$oid": "68f6101c2520dd9f8e90a016"
+    },
+    {
+      "$oid": "69032e3aa190abbf49726870"
+    },
+    {
+      "$oid": "69047a6c3e1eb6a065eae081"
+    },
+    {
+      "$oid": "69049bb7027be544c697aab4"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-21T11:02:16.829Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T11:57:01.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f9c3fc8254e972026b4213"
+  },
+  "name": "Fittings & Fixtures",
+  "category": {
+    "$oid": "67f9c16f285fbf7f23b1cc56"
+  },
+  "description": "Fittings and fixtures refer to the essential components and installations that are attached to a property, providing both functionality and aesthetic appeal. These elements are typically included as part of the home or building and may be either permanently fixed or semi-removable.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/tool (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67f9c7c58254e972026b4359"
+    },
+    {
+      "$oid": "67f9c95b8254e972026b4453"
+    },
+    {
+      "$oid": "67f9cac78482793cad6f2110"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-12T01:38:04.783Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-12T02:07:03.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f7a322eb0f0048b2cc7c12"
+  },
+  "name": "Smartphones & Accessories",
+  "category": {
+    "$oid": "68f7a24aeb0f0048b2cc7c09"
+  },
+  "description": "Shop smartphones and their accessories.",
+  "image": "https://cdn.example.com/images/subcategories/smartphones-accessories.jpg",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "68f7a420eb0f0048b2cc7c47"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-10-21T15:13:38.319Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T08:31:15.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6808c3128f641e3b46db6b47"
+  },
+  "name": "Vaccination Services",
+  "category": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "description": "Vaccination services provide essential immunization support to individuals and communities, helping to prevent the spread of infectious diseases and promote long-term public health.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/social-services (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "682460a228d54bb8120a1622"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-23T10:38:10.223Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-14T09:21:38.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687cd4af9fd8192b4a090fff"
+  },
+  "name": "Develpoers",
+  "category": {
+    "$oid": "687d66763a6088c2f11afb3b"
+  },
+  "description": "Dev Desc",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753048687040_software.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "687cd5279fd8192b4a091011"
+    },
+    {
+      "$oid": "6886003f7680a9f6db2c0b0f"
+    },
+    {
+      "$oid": "69032b77a190abbf4972675c"
+    },
+    {
+      "$oid": "69032cb7ed7bc2a85aef63c0"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-20T11:36:15.806Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-30T09:15:35.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f479ff0af2a68825a333d5"
+  },
+  "name": "Pipe Repair",
+  "category": {
+    "$oid": "68f4777e0af2a68825a333d2"
+  },
+  "description": "Expert pipe repair and maintenance services",
+  "image": "https://example.com/subcategory.jpg",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "68f47a660af2a68825a333d9"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-10-19T05:41:19.662Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T08:31:15.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f974e8f58b36088376f3ae"
+  },
+  "name": "Home Cleaning Services",
+  "category": {
+    "$oid": "67f97364103a5fb7594bed5e"
+  },
+  "description": "Our kitchen deep cleaning service focuses on thorough cleaning of kitchen surfaces, appliances, and cabinets, ensuring a hygienic cooking space.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/cleaning-products (1) 2 (1).png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67f9775bf58b36088376f522"
+    },
+    {
+      "$oid": "67f97cbbc0c4a72dd27076a8"
+    },
+    {
+      "$oid": "67f9801859fac485bfbb0688"
+    },
+    {
+      "$oid": "67f9832f59fac485bfbb07d8"
+    },
+    {
+      "$oid": "67f9845cc0c4a72dd270792b"
+    },
+    {
+      "$oid": "67f9851ac0c4a72dd27079b1"
+    },
+    {
+      "$oid": "67f98762c0c4a72dd2707b15"
+    },
+    {
+      "$oid": "67f98a2926a82f6d0c11bd8b"
+    },
+    {
+      "$oid": "67f98c0126a82f6d0c11bf03"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-11T20:00:40.149Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-11T21:39:13.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687e221ee8694e7b530ddae3"
+  },
+  "name": "Residential Construction",
+  "category": {
+    "$oid": "687d67b58ebc8188a88d17ae"
+  },
+  "description": "Residential construction involves the design, development, and building of homes and living spaces for individuals and families. This sector includes a wide range of housing types such as single-family homes, duplexes, townhouses, condominiums, and apartment complexes.",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753049009528_construction.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "687f481e352e548289ab1ea5"
+    },
+    {
+      "$oid": "687f89a6c2d31dade5c466a5"
+    },
+    {
+      "$oid": "688221b271e7ce497dfc3de1"
+    },
+    {
+      "$oid": "6903378c347d637260eea8ea"
+    },
+    {
+      "$oid": "69033a59b96d301f53fd9897"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-21T11:18:54.313Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T11:57:01.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687e1a7ce8694e7b530dda12"
+  },
+  "name": "Healthcare",
+  "category": {
+    "$oid": "687d6ac88ebc8188a88d17c8"
+  },
+  "description": "Healthcare services are delivered by professionals such as doctors, nurses, therapists, pharmacists, and other allied health workers in settings like hospitals, clinics, and community health centers.",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753049786876_medical.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "6886070d6b07323e56804219"
+    },
+    {
+      "$oid": "6887407a6d2cc6ed6f3c1a7e"
+    },
+    {
+      "$oid": "69033488a190abbf49726a87"
+    },
+    {
+      "$oid": "69049c88027be544c697ac6e"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-21T10:46:20.572Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T11:57:01.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6808bb91a023959aab9ce666"
+  },
+  "name": "Private Bodyguard",
+  "category": {
+    "$oid": "67ce9ab3cbe14f6f1b26aa33"
+  },
+  "description": "A highly trained and discreet security specialist dedicated to ensuring the safety and well-being of clients through strategic planning, situational awareness, and rapid response. Adept in both high-profile and low-profile protection, a private bodyguard provides personalized security services for individuals such as celebrities, executives, dignitaries, or private citizens facing potential threats.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/construction-worker (1) 2 (1).png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "6821cd950db4431cc502027b"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-23T10:06:09.518Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-12T10:29:41.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687e1aa8df35c968174fc0b7"
+  },
+  "name": "Personal Grooming",
+  "category": {
+    "$oid": "687d6baa8ebc8188a88d17d2"
+  },
+  "description": "Personal grooming refers to the practice of maintaining cleanliness, hygiene, and a neat appearance. It involves a set of habits and routines that help individuals look and feel presentable and confident in both personal and professional settings.",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753050021168_skin-care.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "687f83a8a063e72d919bdabd"
+    },
+    {
+      "$oid": "68822d7b9a03dc3344673128"
+    },
+    {
+      "$oid": "68f8a2a6833c79b8f0b32687"
+    },
+    {
+      "$oid": "690469c5292a915bccd97163"
+    },
+    {
+      "$oid": "69046a99292a915bccd972a7"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-21T10:47:04.231Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T11:57:01.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f8a178833c79b8f0b32578"
+  },
+  "name": "Hair Care",
+  "category": {
+    "$oid": "68f8a0a7833c79b8f0b324e2"
+  },
+  "description": "Hair care involves practices and products used to maintain the cleanliness, health, and appearance of hair. It includes washing, conditioning, styling, and treatments to ensure strong and shiny hair.",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753094901138_5.webp",
+  "isFeatured": false,
+  "status": "active",
+  "services": [],
+  "created_at": {
+    "$date": "2025-10-22T09:18:48.386Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-22T09:18:48.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f99dbc56d9a2234c7069a1"
+  },
+  "name": "Beauty & Grooming Services",
+  "category": {
+    "$oid": "67f99ce756d9a2234c7068cf"
+  },
+  "description": "Step into a world of self-care and sophistication. Our beauty and grooming services are designed to enhance your natural features and boost your confidence. From expert haircuts and flawless skin treatments to precision grooming and relaxing spa services, we offer a personalized experience that blends luxury with comfort. Let us help you look and feel your absolute best, every day.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/spa (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67f99fe41a2897177b8f885e"
+    },
+    {
+      "$oid": "67f9a2141a2897177b8f8ab7"
+    },
+    {
+      "$oid": "67f9a3821a2897177b8f8b2d"
+    },
+    {
+      "$oid": "67f9a5011a2897177b8f8bab"
+    },
+    {
+      "$oid": "67f9a6681a2897177b8f8c8e"
+    },
+    {
+      "$oid": "67f9a8c5c143aa0599c1dd35"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-11T22:54:52.707Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-11T23:41:57.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687e2101e8694e7b530dda99"
+  },
+  "name": "Fittings & Fixtures",
+  "category": {
+    "$oid": "687d69618ebc8188a88d17ba"
+  },
+  "description": "Fittings and fixtures refer to non-structural elements that are installed in a building or property to support its function and use. These items are typically attached to walls, floors, or ceilings and may be either permanent (fixtures) or removable (fittings), depending on their installation and purpose.",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753049437698_eco-home.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "6882224c7152a9777dee5b26"
+    },
+    {
+      "$oid": "69032981a190abbf49726613"
+    },
+    {
+      "$oid": "6904903f46c19cef9661c53e"
+    },
+    {
+      "$oid": "690492dd96d32653552d5852"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-21T11:14:09.717Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T11:57:01.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6808bd81c54a2d043e44cc2b"
+  },
+  "name": "Fire Watch Guard",
+  "category": {
+    "$oid": "67ce9ab3cbe14f6f1b26aa33"
+  },
+  "description": "A Fire Watch Guard is a safety professional responsible for monitoring premises to detect and prevent fire hazards during high-risk activities or when standard fire protection systems (such as alarms or sprinklers) are disabled or malfunctioning.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/tank-truck (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "6823250d5136da96ec459716"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-23T10:14:25.625Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-13T10:55:09.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf1b85932adc58b29280ab"
+  },
+  "name": "Toilet Cleaning",
+  "category": {
+    "$oid": "67ce9bc6cbe14f6f1b26aa56"
+  },
+  "description": "provide indoor and outdoor cleaning facilities",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/cleaning-products (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67cf1c5bdbcb2d1e0ba9abd8"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T17:04:06.002Z"
+  },
+  "updated_at": {
+    "$date": "2025-03-28T09:58:18.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687e1fcde8694e7b530dda5d"
+  },
+  "name": "Accounts Management",
+  "category": {
+    "$oid": "687d6a4c8ebc8188a88d17c1"
+  },
+  "description": "Accounts management refers to the process of overseeing and maintaining a company’s financial records, ensuring accurate tracking of income, expenses, assets, liabilities, and other financial transactions. It involves managing accounts payable and receivable, preparing financial statements, ensuring compliance with financial regulations, and supporting budgeting and forecasting activities.",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753049672536_finance.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "68860901149ae69ee22ee919"
+    },
+    {
+      "$oid": "6903318ba190abbf49726949"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-21T11:09:01.096Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T11:57:01.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf53654b8a6342eec0d54b"
+  },
+  "name": "Vehicle Maintenace",
+  "category": {
+    "$oid": "67cf52d6e2ec73d39cb51886"
+  },
+  "description": "we provide all types of Vehicle Maintenace services",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/car-wash (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67cf54ebe2ec73d39cb51896"
+    },
+    {
+      "$oid": "68015cf26a2ecde0c3652d2a"
+    },
+    {
+      "$oid": "680160c9ce4411c3cc92e46e"
+    },
+    {
+      "$oid": "680163959bf536d0f1405748"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T21:02:29.784Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-17T20:24:53.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687e236be84a0a6632c202b8"
+  },
+  "name": "Visual Content",
+  "category": {
+    "$oid": "687d67e58ebc8188a88d17b3"
+  },
+  "description": "Visual content refers to any type of content that is primarily consumed through sight and uses visual elements to communicate messages, information, or emotions. It plays a powerful role in capturing attention, enhancing understanding, and increasing engagement especially in digital marketing, social media, education, and branding.",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1753049057344_content.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "687f486b352e548289ab1ebc"
+    },
+    {
+      "$oid": "687f8310a063e72d919bda9b"
+    },
+    {
+      "$oid": "687f8407a063e72d919bdad3"
+    },
+    {
+      "$oid": "687f8c415d6e92ae65a2554a"
+    },
+    {
+      "$oid": "688221ef7152a9777dee5afd"
+    },
+    {
+      "$oid": "690467da889a107eadeb26fe"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-07-21T11:24:27.041Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T11:57:01.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ceb2e192e6abe5f0b41b51"
+  },
+  "name": "Self-care & Wellness",
+  "category": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "description": "Self-care & Wellness, suitable for a healthcare provider, home care agency, or wellness service.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/protection (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67ceb35389211f44fcc1d100"
+    },
+    {
+      "$oid": "6800e23cb9543519d03f783d"
+    },
+    {
+      "$oid": "6800fad035433253f78147a9"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T09:37:37.345Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-17T12:57:52.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6808c4518f641e3b46db6cbc"
+  },
+  "name": "Blood Pressure & Sugar Monitoring",
+  "category": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "description": "Blood Pressure and Blood Sugar Monitoring services are essential components of preventative healthcare and chronic disease management. These services involve routine checks to track vital health indicators, helping detect early signs of hypertension, diabetes, or related conditions.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/heart-monitoring (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "6825d50beb38a141e44bf073"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-23T10:43:29.519Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-15T11:50:35.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6808c07d8f641e3b46db6855"
+  },
+  "name": "Carpet Cleaning",
+  "category": {
+    "$oid": "67ce9bc6cbe14f6f1b26aa56"
+  },
+  "description": "A Carpet Cleaner is responsible for restoring the cleanliness and appearance of carpets, rugs, and upholstery through professional-grade cleaning techniques.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/people (1) 2 (1).png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "6821da11fa988ef1de248126"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-23T10:27:09.839Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-12T11:22:57.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf4bf9af1c811b4b544da5"
+  },
+  "name": "Home Basic Services",
+  "category": {
+    "$oid": "67cf4bc88a0b1ca5fc548614"
+  },
+  "description": "we provide cooking services",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/maid (1) 2.jpg",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67cf4cb3944244fc3202ade4"
+    },
+    {
+      "$oid": "67fcca661d2465880b5ad2fe"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T20:30:49.121Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-14T08:42:14.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6808bede8f641e3b46db66da"
+  },
+  "name": "Window Cleaning",
+  "category": {
+    "$oid": "67ce9bc6cbe14f6f1b26aa56"
+  },
+  "description": "A Window Cleaner is responsible for cleaning and maintaining the appearance of windows in residential, commercial, and high-rise buildings. Using specialized tools, cleaning solutions, and safety equipment, window cleaners remove dirt, grime, and streaks from glass surfaces to ensure a spotless, professional finish.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/inventory (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [],
+  "created_at": {
+    "$date": "2025-04-23T10:20:14.880Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-23T10:20:14.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf5625dd8b0e9bbe7bbfec"
+  },
+  "name": "AC Repair Technician",
+  "category": {
+    "$oid": "67cf559ea80a64cbe2402d13"
+  },
+  "description": "we provide AC Repair Technician services",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/tools (1) 2 (1).png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67cf56a938dcabc9a0e138d3"
+    },
+    {
+      "$oid": "68016be99af27476fe751fde"
+    },
+    {
+      "$oid": "680172219007a73be5dddaae"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T21:14:13.246Z"
+  },
+  "updated_at": {
+    "$date": "2025-04-17T21:26:57.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6808c5768f641e3b46db6e2d"
+  },
+  "name": "Mental Health Counseling",
+  "category": {
+    "$oid": "67ceb23a89211f44fcc1d0e7"
+  },
+  "description": "Mental Health Counseling is a confidential, client-centered service designed to support individuals in managing emotional, psychological, and behavioral challenges.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/beauty (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "6825da5b3b0ec7e576fff39d"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-04-23T10:48:22.287Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-15T12:13:15.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6892f639f3aa4c7f2dee8781"
+  },
+  "name": "Sub Category",
+  "category": {
+    "$oid": "6892f621f3aa4c7f2dee8778"
+  },
+  "description": "Desc",
+  "image": "https://mx-grand-store-new.s3.us-east-1.amazonaws.com/1754461724976_1481A125-E887-4B04-8195-925936304EEB.jpeg",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "6892f666f3aa4c7f2dee8793"
+    },
+    {
+      "$oid": "6892f693f3aa4c7f2dee87a6"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-08-06T06:29:13.086Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-16T11:57:01.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ceaaa4eb2f4db96219b1e1"
+  },
+  "name": "Unarmed - Security",
+  "category": {
+    "$oid": "67ce9ab3cbe14f6f1b26aa33"
+  },
+  "description": "we are offering security services",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/shield (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67ceab855b29ad80f893a648"
+    },
+    {
+      "$oid": "67dd13f6c96096f039635ea6"
+    },
+    {
+      "$oid": "67dd4c472ac612774a844d31"
+    },
+    {
+      "$oid": "6800b5daf076f7f6719601cd"
+    },
+    {
+      "$oid": "6800bb06f076f7f671960bce"
+    },
+    {
+      "$oid": "6800e521e8ef1e721438e619"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T09:02:28.154Z"
+  },
+  "updated_at": {
+    "$date": "2025-07-15T11:17:09.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ceb04292e6abe5f0b41b18"
+  },
+  "name": "Indoor Cleaning",
+  "category": {
+    "$oid": "67ce9bc6cbe14f6f1b26aa56"
+  },
+  "description": "An Indoor Cleaning Specialist is responsible for maintaining cleanliness, hygiene, and a welcoming environment within residential, commercial, or industrial interiors. Duties include dusting, vacuuming, mopping, sanitizing surfaces, and organizing spaces to ensure a safe and presentable setting.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/cleaning-products (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67ceb0a8eb2f4db96219b294"
+    },
+    {
+      "$oid": "67e111c0468c9b54ba3020c4"
+    },
+    {
+      "$oid": "67e1b48397eafdfc94ef0f72"
+    },
+    {
+      "$oid": "67e45d9ebc359f4f2c10c077"
+    },
+    {
+      "$oid": "6821d36cce2f132928086e5b"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T09:26:26.521Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-12T10:54:36.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6808bca48f641e3b46db64b9"
+  },
+  "name": "Cyber Security",
+  "category": {
+    "$oid": "67ce9ab3cbe14f6f1b26aa33"
+  },
+  "description": "A vigilant and highly skilled defender of digital infrastructure, a cybersecurity professional is responsible for protecting computer systems, networks, and sensitive data from cyber threats, breaches, and unauthorized access.",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/conference (1) 2.png",
+  "isFeatured": false,
+  "status": "inactive",
+  "services": [],
+  "created_at": {
+    "$date": "2025-04-23T10:10:44.338Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-12T10:34:39.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf48f38ec6e7be07c4b465"
+  },
+  "name": "Transportation Services",
+  "category": {
+    "$oid": "67cf484b944244fc3202adaf"
+  },
+  "description": "we provide Personal Driver services",
+  "image": "https://tradesmen-prod.s3.us-east-1.amazonaws.com/car (1) 2.png",
+  "isFeatured": true,
+  "status": "active",
+  "services": [
+    {
+      "$oid": "67cf4a2370a6500bc9fff46b"
+    },
+    {
+      "$oid": "67dbc2028054d5b4185f7df7"
+    },
+    {
+      "$oid": "67e6780ff4d0fdad8fcdda53"
+    },
+    {
+      "$oid": "6801026b9e01d36285e0c8c8"
+    },
+    {
+      "$oid": "680103af35433253f7814dba"
+    },
+    {
+      "$oid": "68356d7f9b981e2ca216a1e1"
+    }
+  ],
+  "created_at": {
+    "$date": "2025-03-10T20:17:55.773Z"
+  },
+  "updated_at": {
+    "$date": "2025-05-27T07:45:04.071Z"
+  },
+  "__v": 0
+}]

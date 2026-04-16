@@ -1,0 +1,3235 @@
+[{
+  "_id": {
+    "$oid": "69af1a75b42dcec782046f61"
+  },
+  "conversation": {
+    "$oid": "69af19f3b42dcec782046f5d"
+  },
+  "role": "user",
+  "content": "hi",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-09T19:07:33.018Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-09T19:07:33.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af1a75b42dcec782046f63"
+  },
+  "conversation": {
+    "$oid": "69af19f3b42dcec782046f5d"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-09T19:07:33.619Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-09T19:07:33.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af1a7cb42dcec782046f68"
+  },
+  "conversation": {
+    "$oid": "69af19f3b42dcec782046f5d"
+  },
+  "role": "user",
+  "content": "kya haal hai",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-09T19:07:40.291Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-09T19:07:40.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c00091631f665b4e854a20"
+  },
+  "conversation": {
+    "$oid": "69c00084631f665b4e854a1c"
+  },
+  "role": "user",
+  "content": "I need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-22T14:45:37.637Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T14:45:37.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c002d37ff533736f2772f7"
+  },
+  "conversation": {
+    "$oid": "69af19f3b42dcec782046f5b"
+  },
+  "role": "user",
+  "content": "hi",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-22T14:55:15.764Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T14:55:15.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c002d37ff533736f2772f9"
+  },
+  "conversation": {
+    "$oid": "69af19f3b42dcec782046f5b"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-22T14:55:15.872Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T14:55:15.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c002d97ff533736f2772fe"
+  },
+  "conversation": {
+    "$oid": "69c00084631f665b4e854a1c"
+  },
+  "role": "user",
+  "content": "hi",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-22T14:55:21.520Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T14:55:21.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c002d97ff533736f277300"
+  },
+  "conversation": {
+    "$oid": "69c00084631f665b4e854a1c"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-22T14:55:21.622Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T14:55:21.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c002df7ff533736f277305"
+  },
+  "conversation": {
+    "$oid": "69c00084631f665b4e854a1c"
+  },
+  "role": "user",
+  "content": "I need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-22T14:55:27.758Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T14:55:27.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c002ef7ff533736f277309"
+  },
+  "conversation": {
+    "$oid": "69c00084631f665b4e854a1c"
+  },
+  "role": "user",
+  "content": "I need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-22T14:55:43.050Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T14:55:43.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10bd4c47f08c9553ae46f"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "user",
+  "content": "Hello!",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:45:56.303Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:45:56.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10bd4c47f08c9553ae471"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:45:56.561Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:45:56.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10bdcc47f08c9553ae476"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "user",
+  "content": "i need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:46:04.400Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:46:04.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10c12102926075da05a64"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "user",
+  "content": "what",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:46:58.443Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:46:58.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10c25a6f3721be27718bd"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "user",
+  "content": "hello!",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:47:17.455Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:47:17.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10c25a6f3721be27718c8"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:47:17.734Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:47:17.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10c2ba6f3721be2771907"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "user",
+  "content": "i need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:47:23.206Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:47:23.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10c2ca6f3721be2771909"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "assistant",
+  "content": "What seems to be the problem you need help with?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:47:24.133Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:47:24.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10c8166d022c0a5faa0ef"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "user",
+  "content": "try again",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:48:49.730Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:48:49.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10c9c8630f056e69ea4c2"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "user",
+  "content": "try again",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:49:16.734Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:49:16.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10c9d8630f056e69ea4e2"
+  },
+  "conversation": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "role": "assistant",
+  "content": "What kind of service are you looking for?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:49:17.504Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:49:17.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c11ed865544668a56ddf28"
+  },
+  "conversation": {
+    "$oid": "69c11ed665544668a56ddf21"
+  },
+  "role": "user",
+  "content": "Hello!",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T11:07:04.995Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T11:07:04.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c11ed965544668a56ddf2a"
+  },
+  "conversation": {
+    "$oid": "69c11ed665544668a56ddf21"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T11:07:05.193Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T11:07:05.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c11ede65544668a56ddf2f"
+  },
+  "conversation": {
+    "$oid": "69c11ed665544668a56ddf21"
+  },
+  "role": "user",
+  "content": "i need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T11:07:10.515Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T11:07:10.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c1737ac38d3c8ce25d6c2b"
+  },
+  "conversation": {
+    "$oid": "69c17377c38d3c8ce25d6c27"
+  },
+  "role": "user",
+  "content": "Helllo!",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:08:10.657Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:08:10.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17965002025a2ed742d9d"
+  },
+  "conversation": {
+    "$oid": "69c17963002025a2ed742d99"
+  },
+  "role": "user",
+  "content": "Hello!",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:33:25.737Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:33:25.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17965002025a2ed742d9f"
+  },
+  "conversation": {
+    "$oid": "69c17963002025a2ed742d99"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:33:25.975Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:33:25.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c1796c002025a2ed742da4"
+  },
+  "conversation": {
+    "$oid": "69c17963002025a2ed742d99"
+  },
+  "role": "user",
+  "content": "how are youuu",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:33:32.205Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:33:32.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17dbd002025a2ed742dad"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "user",
+  "content": "HI",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:51:57.219Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:51:57.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17dbd002025a2ed742daf"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:51:57.341Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:51:57.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17dc4002025a2ed742db4"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "user",
+  "content": "i need  a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:52:04.031Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:52:04.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17efc002025a2ed742db8"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "user",
+  "content": "i need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:57:16.090Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:57:16.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17fce002025a2ed742dbc"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "user",
+  "content": "hello",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T18:00:46.952Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T18:00:46.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17fcf002025a2ed742dbe"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-23T18:00:47.150Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T18:00:47.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17fd4002025a2ed742dc3"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "user",
+  "content": "i need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T18:00:52.359Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T18:00:52.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c18060002025a2ed742dc7"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "user",
+  "content": "i need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T18:03:12.093Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T18:03:12.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c1809e5b8ab3a14784234a"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "user",
+  "content": "fix this",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T18:04:14.607Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T18:04:14.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c1809f5b8ab3a14784235a"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "assistant",
+  "content": "What seems to be the problem you need help with?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-23T18:04:15.492Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T18:04:15.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c181d9a24190d4675d3ac3"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "user",
+  "content": "what",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T18:09:29.994Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T18:09:29.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c181dca24190d4675d3ae3"
+  },
+  "conversation": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "role": "assistant",
+  "content": "It seems like you're looking for a service, but I'm not sure what kind of service you need. Could you please tell me what's not working the way you want it to or what you need help with? For example, is it something with your home, your car, or something else?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-23T18:09:32.494Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T18:09:32.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2905eafa574728d3c6cc6"
+  },
+  "conversation": {
+    "$oid": "69c28f55afa574728d3c6cc0"
+  },
+  "role": "user",
+  "content": "HELLO!",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T13:23:42.634Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T13:23:42.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2905eafa574728d3c6cc8"
+  },
+  "conversation": {
+    "$oid": "69c28f55afa574728d3c6cc0"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T13:23:42.835Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T13:23:42.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c29066afa574728d3c6ccd"
+  },
+  "conversation": {
+    "$oid": "69c28f55afa574728d3c6cc0"
+  },
+  "role": "user",
+  "content": "i neeed a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T13:23:50.059Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T13:23:50.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c29066afa574728d3c6ccf"
+  },
+  "conversation": {
+    "$oid": "69c28f55afa574728d3c6cc0"
+  },
+  "role": "assistant",
+  "content": "What seems to be the problem you need help with?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-24T13:23:50.887Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T13:23:50.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2aa67660864bfffd309a5"
+  },
+  "conversation": {
+    "$oid": "69c2aa65660864bfffd309a1"
+  },
+  "role": "user",
+  "content": "HI",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:14:47.224Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:14:47.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2aa67660864bfffd309a7"
+  },
+  "conversation": {
+    "$oid": "69c2aa65660864bfffd309a1"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:14:47.411Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:14:47.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2aa6d660864bfffd309ac"
+  },
+  "conversation": {
+    "$oid": "69c2aa65660864bfffd309a1"
+  },
+  "role": "user",
+  "content": "i got a problem",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:14:53.402Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:14:53.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2ab25cc4df78deb8a17c6"
+  },
+  "conversation": {
+    "$oid": "69c2aa65660864bfffd309a1"
+  },
+  "role": "user",
+  "content": "i got a problem",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:17:57.589Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:17:57.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2ab26cc4df78deb8a17e0"
+  },
+  "conversation": {
+    "$oid": "69c2aa65660864bfffd309a1"
+  },
+  "role": "assistant",
+  "content": "What seems to be the problem you need help with? Would you like me to help you with that, or do you want to book a professional?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:17:58.590Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:17:58.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2b038cc4df78deb8a181a"
+  },
+  "conversation": {
+    "$oid": "69c2b035cc4df78deb8a1816"
+  },
+  "role": "user",
+  "content": "hello!",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:39:36.876Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:39:36.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2b039cc4df78deb8a181c"
+  },
+  "conversation": {
+    "$oid": "69c2b035cc4df78deb8a1816"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:39:37.051Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:39:37.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2b03dcc4df78deb8a1821"
+  },
+  "conversation": {
+    "$oid": "69c2b035cc4df78deb8a1816"
+  },
+  "role": "user",
+  "content": "i want a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:39:41.465Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:39:41.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2b03fcc4df78deb8a1823"
+  },
+  "conversation": {
+    "$oid": "69c2b035cc4df78deb8a1816"
+  },
+  "role": "assistant",
+  "content": "What seems to be the problem you need help with? Do you want to book a professional or try to fix it yourself?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:39:43.408Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:39:43.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4508e457cf78ece1f5664"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "user",
+  "content": "hi",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:15:58.948Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:15:58.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4508f457cf78ece1f5666"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "assistant",
+  "content": "Hey! How's it going? What can I help you with today?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:15:59.125Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:15:59.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c45094457cf78ece1f566b"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "user",
+  "content": "i need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:16:04.265Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:16:04.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c45095457cf78ece1f566d"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "assistant",
+  "content": "What seems to be the problem you need help with? Do you want to book a professional or try to fix it yourself?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:16:05.636Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:16:05.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4509d457cf78ece1f5672"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "user",
+  "content": "i want to book a professional",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:16:13.362Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:16:13.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4509e457cf78ece1f5674"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "assistant",
+  "content": "What seems to be the problem you need help with?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "booking",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:16:14.589Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:16:14.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c450c3457cf78ece1f567a"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "user",
+  "content": "i want an electritian",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:16:51.788Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:16:51.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c450c4457cf78ece1f567c"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "assistant",
+  "content": "I've found a professional Electrician for you. What date works best for the service?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": "67f9cac78482793cad6f2110",
+    "service_name": "Electrician",
+    "service_type": "tradesman_based",
+    "service_option": null,
+    "problem_description": "electrician",
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": 1,
+    "number_of_tradesmen": null,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "booking",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:16:52.640Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:16:52.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c450cd457cf78ece1f5682"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "user",
+  "content": "I choose the \"3 hours\" option (Rs. 3800)",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:17:01.769Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:17:01.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c450ce457cf78ece1f5684"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "assistant",
+  "content": "Got it! You've selected \"3 hours\". What date would work best for you?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": "67f9cac78482793cad6f2110",
+    "service_name": "Electrician",
+    "service_type": "tradesman_based",
+    "service_option": {
+      "_id": "option1",
+      "label": "3 hours",
+      "price": 3800
+    },
+    "problem_description": "electrician",
+    "preferred_date": null,
+    "start_time": "03:00",
+    "end_time": "06:00",
+    "duration_hours": 3,
+    "number_of_customers": 1,
+    "number_of_tradesmen": null,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "booking",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:17:02.878Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:17:02.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c450d5457cf78ece1f568a"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "user",
+  "content": "today",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:17:09.156Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:17:09.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c450d7457cf78ece1f568f"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "assistant",
+  "content": "Today is Thursday, 2026-03-26. Unfortunately, the requested time is unavailable. The nearest available slots are 09:00, 10:00, or 11:00. Which one of these times works best for you?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": "67f9cac78482793cad6f2110",
+    "service_name": "Electrician",
+    "service_type": "tradesman_based",
+    "service_option": {
+      "_id": "option1",
+      "label": "3 hours",
+      "price": 3800
+    },
+    "problem_description": "electrician",
+    "preferred_date": "2026-03-26",
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": 3,
+    "number_of_customers": 1,
+    "number_of_tradesmen": null,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "time_selection",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [
+      {
+        "date": "2026-03-26",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-03-26",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-03-26",
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "reason": "Available today"
+      }
+    ],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:17:11.399Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:17:11.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c450e1457cf78ece1f5694"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "user",
+  "content": "10",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:17:21.128Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:17:21.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c450e1457cf78ece1f5696"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "assistant",
+  "content": "You've chosen 10:00 as the start time. Since you've selected the \"3 hours\" option, the service will end at 13:00. How many workers do you need for this job?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": "67f9cac78482793cad6f2110",
+    "service_name": "Electrician",
+    "service_type": "tradesman_based",
+    "service_option": {
+      "_id": "option1",
+      "label": "3 hours",
+      "price": 3800
+    },
+    "problem_description": "electrician",
+    "preferred_date": "2026-03-26",
+    "start_time": "10:00",
+    "end_time": null,
+    "duration_hours": 3,
+    "number_of_customers": 1,
+    "number_of_tradesmen": null,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "time_selection",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [
+      {
+        "date": "2026-03-26",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-03-26",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-03-26",
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "reason": "Available today"
+      }
+    ],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:17:21.840Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:17:21.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c450ea457cf78ece1f569b"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "user",
+  "content": "2",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:17:30.366Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:17:30.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c450eb457cf78ece1f569e"
+  },
+  "conversation": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "role": "assistant",
+  "content": "Perfect! I've collected all the details. electrician on 2026-03-26 from 10:00 to 13:00, and 2 worker(s) will come.",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": "67f9cac78482793cad6f2110",
+    "service_name": "Electrician",
+    "service_type": "tradesman_based",
+    "service_option": {
+      "_id": "option1",
+      "label": "3 hours",
+      "price": 3800
+    },
+    "problem_description": "electrician",
+    "preferred_date": "2026-03-26",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "duration_hours": 3,
+    "number_of_customers": 1,
+    "number_of_tradesmen": 2,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "booking",
+    "booking_ready": true,
+    "allFieldsCollected": true,
+    "suggested_options": [
+      {
+        "date": "2026-03-26",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-03-26",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-03-26",
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "reason": "Available today"
+      }
+    ],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:17:31.466Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:17:31.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4529c457cf78ece1f581d"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "user",
+  "content": "i need a service",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:24:44.735Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:24:44.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4529e457cf78ece1f581f"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "assistant",
+  "content": "To find the right service for you, could you please tell me what seems to be the problem you need help with?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:24:46.642Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:24:46.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4535a457cf78ece1f5824"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "user",
+  "content": "plumber",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:27:54.659Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:27:54.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4537b457cf78ece1f5828"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "user",
+  "content": "try again",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:28:27.991Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:28:27.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4537f457cf78ece1f582a"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "assistant",
+  "content": "I've found a professional plumber for you. What date works best for the plumbing service?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": "67f9c95b8254e972026b4453",
+    "service_name": "Plumber",
+    "service_type": "tradesman_based",
+    "service_option": null,
+    "problem_description": "plumbing issue",
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": 1,
+    "number_of_tradesmen": null,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "booking",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:28:31.571Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:28:31.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c45465457cf78ece1f5830"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "user",
+  "content": "I choose the \"1 hour\" option (Rs. 1000)",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:32:21.299Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:32:21.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c45469457cf78ece1f5832"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "assistant",
+  "content": "You've selected the \"1 hour\" option for the plumbing service. Since you've chosen a specific service option, I'll note that down. Now, to proceed with booking, how many workers do you think you'll need for the job?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": "67f9c95b8254e972026b4453",
+    "service_name": "Plumber",
+    "service_type": "tradesman_based",
+    "service_option": null,
+    "problem_description": "plumbing issue",
+    "preferred_date": null,
+    "start_time": "01:00",
+    "end_time": "02:00",
+    "duration_hours": 1,
+    "number_of_customers": 1,
+    "number_of_tradesmen": null,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "booking",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:32:25.909Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:32:25.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c455fe457cf78ece1f5838"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "user",
+  "content": "2",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:39:10.380Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:39:10.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c45602457cf78ece1f583a"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "assistant",
+  "content": "You'll need 2 plumbers for the job. Now, let's finalize the date for the service. What date works best for you?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": "67f9c95b8254e972026b4453",
+    "service_name": "Plumber",
+    "service_type": "tradesman_based",
+    "service_option": null,
+    "problem_description": "plumbing issue",
+    "preferred_date": null,
+    "start_time": "02:00",
+    "end_time": "02:00",
+    "duration_hours": 1,
+    "number_of_customers": 1,
+    "number_of_tradesmen": null,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "booking",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:39:14.818Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:39:14.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c456dd457cf78ece1f5840"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "user",
+  "content": "1st april",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:42:53.650Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:42:53.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c456e4457cf78ece1f5845"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "assistant",
+  "content": "Got it! You've selected \"1 hour\". What time would you prefer?",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": "67f9c95b8254e972026b4453",
+    "service_name": "Plumber",
+    "service_type": "tradesman_based",
+    "service_option": {
+      "_id": "option1",
+      "label": "1 hour",
+      "price": 1000
+    },
+    "problem_description": "plumbing issue",
+    "preferred_date": "2026-04-01",
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": 1,
+    "number_of_customers": 1,
+    "number_of_tradesmen": 2,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "time_selection",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [
+      {
+        "date": "2026-04-01",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-04-01",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-04-01",
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "reason": "Available today"
+      }
+    ],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:43:00.458Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:43:00.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c45a71457cf78ece1f584a"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "user",
+  "content": "3pm",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "initial",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:58:09.241Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:58:09.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c45a72457cf78ece1f584d"
+  },
+  "conversation": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "role": "assistant",
+  "content": "Perfect! I've collected all the details. plumber on 2026-04-01 from 15:00 to 16:00, and 2 worker(s) will come.",
+  "image_url": null,
+  "extracted_data": {
+    "service_id": "67f9c95b8254e972026b4453",
+    "service_name": "Plumber",
+    "service_type": "tradesman_based",
+    "service_option": {
+      "_id": "option1",
+      "label": "1 hour",
+      "price": 1000
+    },
+    "problem_description": "plumbing issue",
+    "preferred_date": "2026-04-01",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "duration_hours": 1,
+    "number_of_customers": 1,
+    "number_of_tradesmen": 2,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "booking",
+    "booking_ready": true,
+    "allFieldsCollected": true,
+    "suggested_options": [
+      {
+        "date": "2026-04-01",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-04-01",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-04-01",
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "reason": "Available today"
+      }
+    ],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:58:10.545Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:58:10.545Z"
+  },
+  "__v": 0
+}]

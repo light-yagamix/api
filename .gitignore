@@ -1,0 +1,9 @@
+node_modules
+.serverless
+.env.local
+.env
+backend/config/firebase-service-account-tradesmen.json
+
+
+serverless.yml
+backend/config/firebase-service-account-tradesmen.json

@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "692157c80bcf5200371413c4"
+  },
+  "userId": {
+    "$oid": "691df5809cf15265cea8a9ff"
+  },
+  "planId": "plan-250",
+  "planName": "Professional",
+  "pointsAdded": 250,
+  "priceMonthly": 4500,
+  "currency": "PKR",
+  "expiresAt": {
+    "$date": "2025-12-22T06:27:20.968Z"
+  },
+  "status": "active",
+  "purchasedAt": {
+    "$date": "2025-11-22T06:27:20.968Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T06:27:20.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T06:27:20.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f1b08f90c2b0620483a8e"
+  },
+  "userId": {
+    "$oid": "691df5809cf15265cea8a9ff"
+  },
+  "planId": "plan-250",
+  "planName": "Professional",
+  "pointsAdded": 250,
+  "priceMonthly": 4500,
+  "currency": "PKR",
+  "expiresAt": {
+    "$date": "2025-12-20T13:43:36.834Z"
+  },
+  "status": "active",
+  "purchasedAt": {
+    "$date": "2025-11-20T13:43:36.835Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T13:43:36.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T13:43:36.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692157d80bcf5200371413c9"
+  },
+  "userId": {
+    "$oid": "691df5809cf15265cea8a9ff"
+  },
+  "planId": "plan-500",
+  "planName": "Premium",
+  "pointsAdded": 500,
+  "priceMonthly": 8000,
+  "currency": "PKR",
+  "expiresAt": {
+    "$date": "2025-12-22T06:27:36.481Z"
+  },
+  "status": "active",
+  "purchasedAt": {
+    "$date": "2025-11-22T06:27:36.481Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T06:27:36.482Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T06:27:36.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6923f94fe81cd0be4924c6c2"
+  },
+  "userId": {
+    "$oid": "691df5809cf15265cea8a9ff"
+  },
+  "planId": "plan-500",
+  "planName": "Premium",
+  "pointsAdded": 500,
+  "priceMonthly": 8000,
+  "currency": "PKR",
+  "expiresAt": {
+    "$date": "2025-12-24T06:21:03.617Z"
+  },
+  "status": "active",
+  "purchasedAt": {
+    "$date": "2025-11-24T06:21:03.620Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-24T06:21:03.625Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T06:21:03.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ed82ea2b6f2022b7fa439"
+  },
+  "userId": {
+    "$oid": "691df5809cf15265cea8a9ff"
+  },
+  "planId": "plan-250",
+  "planName": "Professional",
+  "pointsAdded": 250,
+  "priceMonthly": 4500,
+  "currency": "PKR",
+  "expiresAt": {
+    "$date": "2025-12-20T08:58:22.750Z"
+  },
+  "status": "active",
+  "purchasedAt": {
+    "$date": "2025-11-20T08:58:22.753Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T08:58:22.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T08:58:22.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691ee07339ab2114de96060f"
+  },
+  "userId": {
+    "$oid": "691818284e55d38b5799f382"
+  },
+  "planId": "plan-250",
+  "planName": "Professional",
+  "pointsAdded": 250,
+  "priceMonthly": 4500,
+  "currency": "PKR",
+  "expiresAt": {
+    "$date": "2025-12-20T09:33:39.156Z"
+  },
+  "status": "active",
+  "purchasedAt": {
+    "$date": "2025-11-20T09:33:39.169Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-20T09:33:39.185Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T09:33:39.185Z"
+  },
+  "__v": 0
+}]

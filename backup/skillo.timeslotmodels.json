@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "69c008cfb817c5def7835ab1"
+  },
+  "user": {
+    "$oid": "69af06218f9e3e5ee3f0db53"
+  },
+  "tradesman": {
+    "$oid": "69af06228f9e3e5ee3f0db68"
+  },
+  "booking": {
+    "$oid": "69c008ceb817c5def7835aad"
+  },
+  "booking_id": "#B00026",
+  "service": {
+    "$oid": "67ceb0a8eb2f4db96219b294"
+  },
+  "startTime": {
+    "$date": "2026-03-22T14:57:00.000Z"
+  },
+  "endTime": {
+    "$date": "2026-03-22T15:57:00.000Z"
+  },
+  "date": {
+    "$date": "2026-03-22T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2026-03-22T15:20:47.233Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T15:20:47.233Z"
+  },
+  "__v": 0
+}]

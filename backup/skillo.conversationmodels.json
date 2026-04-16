@@ -1,0 +1,746 @@
+[{
+  "_id": {
+    "$oid": "69af19f3b42dcec782046f5b"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-09T19:05:23.609Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:45:52.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69af19f3b42dcec782046f5d"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-09T19:05:23.617Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T14:55:13.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c00084631f665b4e854a1a"
+  },
+  "user": null,
+  "session_id": "session_1774190720125_8o7x0cd",
+  "status": "active",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-22T14:45:24.368Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T14:45:24.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c00084631f665b4e854a1c"
+  },
+  "user": null,
+  "session_id": "session_1774190720125_8o7x0cd",
+  "status": "active",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-22T14:45:24.374Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-22T14:55:21.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10bd1c47f08c9553ae46b"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:45:53.107Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:54:06.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10dbf159cad945912528e"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:54:07.622Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T09:56:12.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10e3d993a5d6722db2ea6"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T09:56:13.598Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T10:01:04.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c10f60d5fefc5c17a1ee78"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T10:01:04.610Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T11:06:28.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c11eb4dcabf32101583fb5"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T11:06:28.981Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T11:07:02.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c11ed665544668a56ddf21"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T11:07:02.590Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:08:07.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17377c38d3c8ce25d6c27"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:08:07.816Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:33:22.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17963002025a2ed742d99"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:33:23.089Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-23T17:51:54.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c17dbb002025a2ed742da9"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-23T17:51:55.479Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T13:19:17.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c28f55afa574728d3c6cc0"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-24T13:19:17.707Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:14:44.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2aa65660864bfffd309a1"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:14:45.114Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:37:04.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2afa0cc4df78deb8a1810"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:37:04.600Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-24T15:39:33.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2b035cc4df78deb8a1816"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "closed",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "greeting",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-24T15:39:33.409Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:15:51.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c45088457cf78ece1f5660"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "booking_initiated",
+  "last_extracted_data": {
+    "service_id": "67f9cac78482793cad6f2110",
+    "service_name": "Electrician",
+    "service_type": "tradesman_based",
+    "service_option": {
+      "_id": "option1",
+      "label": "3 hours",
+      "price": 3800
+    },
+    "problem_description": "electrician",
+    "preferred_date": "2026-03-26",
+    "start_time": "10:00",
+    "end_time": null,
+    "duration_hours": 3,
+    "number_of_customers": 1,
+    "number_of_tradesmen": null,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "time_selection",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [
+      {
+        "date": "2026-03-26",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-03-26",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-03-26",
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "reason": "Available today"
+      }
+    ],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:15:52.286Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:17:31.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c45296457cf78ece1f5817"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "active",
+  "last_extracted_data": {
+    "service_id": null,
+    "service_name": null,
+    "service_type": null,
+    "service_option": null,
+    "problem_description": null,
+    "preferred_date": null,
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": null,
+    "number_of_customers": null,
+    "number_of_tradesmen": null,
+    "location": null,
+    "booking_mode": null,
+    "phase": "problem_solving",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "confirmation_status": "pending",
+    "suggested_options": []
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:24:38.675Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:24:38.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c45296457cf78ece1f5819"
+  },
+  "user": null,
+  "session_id": "session_1772620962018_zpvdacj",
+  "status": "booking_initiated",
+  "last_extracted_data": {
+    "service_id": "67f9c95b8254e972026b4453",
+    "service_name": "Plumber",
+    "service_type": "tradesman_based",
+    "service_option": {
+      "_id": "option1",
+      "label": "1 hour",
+      "price": 1000
+    },
+    "problem_description": "plumbing issue",
+    "preferred_date": "2026-04-01",
+    "start_time": null,
+    "end_time": null,
+    "duration_hours": 1,
+    "number_of_customers": 1,
+    "number_of_tradesmen": 2,
+    "location": "USE_DEVICE_LOCATION",
+    "booking_mode": "automatic",
+    "phase": "time_selection",
+    "booking_ready": false,
+    "allFieldsCollected": false,
+    "suggested_options": [
+      {
+        "date": "2026-04-01",
+        "start_time": "09:00",
+        "end_time": "10:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-04-01",
+        "start_time": "10:00",
+        "end_time": "11:00",
+        "reason": "Available today"
+      },
+      {
+        "date": "2026-04-01",
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "reason": "Available today"
+      }
+    ],
+    "confirmation_status": "pending"
+  },
+  "created_at": {
+    "$date": "2026-03-25T21:24:38.678Z"
+  },
+  "updated_at": {
+    "$date": "2026-03-25T21:58:10.923Z"
+  },
+  "__v": 0
+}]

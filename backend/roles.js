@@ -1,0 +1,133 @@
+const roles = {
+  ADMIN: "admin",
+  USER: "user",
+  TRADESMAN: "tradesman",
+  SUPPLIER: "supplier",
+};
+
+const permissions = {
+  [roles.ADMIN]:
+    [
+      // USER
+      "DELETE_USER_BY_ID",
+      "UPDATE_USER",
+      "GET_USER_BY_ID",
+      "GET_ALL_USERS",
+
+      // SERVICE
+      "CREATE_SERVICE",
+      "UPDATE_SERVICE",
+      "DELETE_SERVICE_BY_ID",
+      "GET_ALL_SERVICES",
+      "GET_SERVICE_BY_ID",
+
+      // CATEGORY
+      "CREATE_CATEGORY",
+      "UPDATE_CATEGORY",
+      "DELETE_CATEGORY_BY_ID",
+      "GET_ALL_CATEGORIES",
+      "GET_CATEGORY_BY_ID",
+
+      // SUB CATEGORY
+      "CREATE_SUB_CATEGORY",
+      "UPDATE_SUB_CATEGORY",
+      "DELETE_SUB_CATEGORY_BY_ID",
+      "GET_ALL_SUB_CATEGORIES",
+
+      // ADDON
+      "CREATE_ADDON",
+      "UPDATE_ADDON",
+      "DELETE_ADDON_BY_ID",
+      "GET_ALL_ADDONS",
+
+      // BOOKING
+      "CREATE_BOOKING",
+      "UPDATE_BOOKING",
+      "DELETE_BOOKING_BY_ID",
+      "GET_ALL_BOOKINGS",
+      "GET_BOOKING_BY_ID",
+      "GET_FULL_BOOKING_BY_ID",
+      "GET_TRADESMAN_EARNINGS",
+      "GET_USER_COSTS",
+
+      // BLOG
+      "CREATE_BLOG",
+      "UPDATE_BLOG",
+      "DELETE_BLOG_BY_ID",
+      "GET_ALL_BLOGS",
+      "GET_BLOG_BY_ID",
+      "GET_BLOG_BY_SLUG",
+
+      //PAYMENT
+      "GET_PAYMENT_DETAILS",
+      "CREATE_PAYMENT_SESSION",
+      "CREATE_REFUND",
+      "GET_ALL_PAYMENTS",
+      //NOTIFICATIONS
+      "CREATE_NOTIFICATION",
+      "UPDATE_NOTIFICATION",
+      "DELETE_NOTIFICATION_BY_ID",
+      "SEND_NOTIFICATION",
+    ] || [],
+
+  [roles.USER]: [
+    "CREATE_BOOKING",
+    "UPDATE_BOOKING",
+    "UPDATE_USER",
+    "GET_USER_BY_ID",
+    "GET_ALL_USERS",
+    "GET_ALL_SERVICES",
+    "GET_ALL_BOOKINGS",
+    "GET_BOOKING_BY_ID",
+    "UPDATE_BOOKING",
+    "GET_FULL_BOOKING_BY_ID",
+    "GET_USER_COSTS",
+    "CREATE_PAYMENT_SESSION",
+    "CREATE_NOTIFICATION",
+    "UPDATE_NOTIFICATION",
+    "DELETE_NOTIFICATION_BY_ID",
+    "DELETE_BOOKING_BY_ID",
+    "SEND_NOTIFICATION",
+  ],
+  [roles.TRADESMAN]:
+    [
+      "UPDATE_USER",
+      "UPDATE_BOOKING",
+      "GET_USER_BY_ID",
+      "GET_ALL_USERS",
+      "GET_ALL_SERVICES",
+      "GET_SERVICE_BY_ID",
+      "GET_ALL_CATEGORIES",
+      "GET_CATEGORY_BY_ID",
+      "GET_ALL_SUB_CATEGORIES",
+      "GET_ALL_BOOKINGS",
+      "GET_BOOKING_BY_ID",
+      "GET_FULL_BOOKING_BY_ID",
+      "GET_CURRENT_USER_BOOKINGS",
+      "GET_TRADESMAN_EARNINGS",
+      "CREATE_PAYMENT_SESSION",
+      "CREATE_NOTIFICATION",
+      "UPDATE_NOTIFICATION",
+      "DELETE_NOTIFICATION_BY_ID",
+      "SEND_NOTIFICATION",
+      "DELETE_BOOKING_BY_ID",
+    ] || [],
+  [roles.SUPPLIER]: [
+    "UPDATE_USER",
+    "GET_USER_BY_ID",
+    "GET_ALL_USERS",
+    "GET_ALL_SERVICES",
+    "GET_ALL_BOOKINGS",
+    "CREATE_ADDON",
+    "UPDATE_ADDON",
+    "DELETE_ADDON_BY_ID",
+    "GET_ALL_ADDONS",
+    "CREATE_PAYMENT_SESSION",
+    "CREATE_NOTIFICATION",
+    "UPDATE_NOTIFICATION",
+    "DELETE_NOTIFICATION_BY_ID",
+    "SEND_NOTIFICATION",
+  ],
+};
+
+module.exports = { roles, permissions };

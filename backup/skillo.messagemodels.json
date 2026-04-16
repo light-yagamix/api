@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "69c4e6e1a2cca8533cb6d736"
+  },
+  "sender": {
+    "$oid": "69af06218f9e3e5ee3f0db53"
+  },
+  "recipient": null,
+  "recipients": [],
+  "booking": {
+    "$oid": "69c008ceb817c5def7835aad"
+  },
+  "content": "Group chat created for booking #B00026. Participants: Siraj, Hassan, adeel",
+  "offer": {
+    "status": "pending"
+  },
+  "type": "system",
+  "status": "seen",
+  "conversationId": "group-69c008ceb817c5def7835aad",
+  "isGroupChat": true,
+  "participants": [
+    {
+      "$oid": "69af06218f9e3e5ee3f0db53"
+    },
+    {
+      "$oid": "69af06228f9e3e5ee3f0db68"
+    },
+    {
+      "$oid": "69af06218f9e3e5ee3f0db57"
+    }
+  ],
+  "replyTo": null,
+  "images": [],
+  "createdAt": {
+    "$date": "2026-03-26T07:57:21.271Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T08:46:47.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4f26fe3e5e3c602f76a56"
+  },
+  "sender": {
+    "$oid": "69af06218f9e3e5ee3f0db53"
+  },
+  "recipient": null,
+  "recipients": [
+    {
+      "$oid": "69af06218f9e3e5ee3f0db57"
+    },
+    {
+      "$oid": "69af06228f9e3e5ee3f0db68"
+    }
+  ],
+  "booking": {
+    "$oid": "69c008ceb817c5def7835aad"
+  },
+  "content": "hi",
+  "images": [],
+  "offer": {
+    "status": "pending"
+  },
+  "type": "message",
+  "status": "seen",
+  "conversationId": "group-69c008ceb817c5def7835aad",
+  "isGroupChat": true,
+  "participants": [
+    {
+      "$oid": "69af06218f9e3e5ee3f0db53"
+    },
+    {
+      "$oid": "69af06218f9e3e5ee3f0db57"
+    },
+    {
+      "$oid": "69af06228f9e3e5ee3f0db68"
+    }
+  ],
+  "replyTo": null,
+  "createdAt": {
+    "$date": "2026-03-26T08:46:39.977Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T08:46:47.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c4f27ce3e5e3c602f76a65"
+  },
+  "sender": {
+    "$oid": "69af06218f9e3e5ee3f0db57"
+  },
+  "recipient": null,
+  "recipients": [
+    {
+      "$oid": "69af06218f9e3e5ee3f0db53"
+    },
+    {
+      "$oid": "69af06228f9e3e5ee3f0db68"
+    }
+  ],
+  "booking": {
+    "$oid": "69c008ceb817c5def7835aad"
+  },
+  "content": "hey it's me",
+  "images": [],
+  "offer": {
+    "status": "pending"
+  },
+  "type": "message",
+  "status": "seen",
+  "conversationId": "group-69c008ceb817c5def7835aad",
+  "isGroupChat": true,
+  "participants": [
+    {
+      "$oid": "69af06218f9e3e5ee3f0db53"
+    },
+    {
+      "$oid": "69af06218f9e3e5ee3f0db57"
+    },
+    {
+      "$oid": "69af06228f9e3e5ee3f0db68"
+    }
+  ],
+  "replyTo": null,
+  "createdAt": {
+    "$date": "2026-03-26T08:46:52.280Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-26T08:46:52.896Z"
+  },
+  "__v": 0
+}]
