@@ -1,5 +1,6 @@
 const BlogModel = require("./model");
 
+const uselessFields = ["__v"];
 async function getAllBlogs(args) {
   try {
     const {
